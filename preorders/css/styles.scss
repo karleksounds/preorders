@@ -1,0 +1,304 @@
+// Import shared variables and base styles
+@import '../../shared/css/variables';
+@import '../../shared/css/base';
+
+// Animations
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.container {
+  max-width: 1400px;
+}
+
+header {
+  margin-bottom: 40px;
+  padding: 40px 20px;
+  color: $primary-color;
+  text-align: center;
+
+  h1 {
+    margin-bottom: 10px;
+    font-size: 2.5rem;
+    font-weight: 700;
+
+    @media (max-width: 768px) {
+      font-size: 1.8rem;
+    }
+  }
+
+  .subtitle {
+    font-size: 1.1rem;
+    opacity: 0.9;
+
+    @media (max-width: 768px) {
+      font-size: 1rem;
+    }
+  }
+}
+
+// Loading & Error
+#loading,
+#error {
+  padding: 40px;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+#error {
+  color: $secondary-color;
+}
+
+// Releases Section
+.releases {
+  margin-bottom: 40px;
+
+  > .title {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid $primary-color;
+    font-size: 1.8rem;
+    color: $primary-color;
+  }
+}
+
+// Records Grid (List View Only)
+.records-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  border: 1px solid $primary-color;
+}
+
+// Record (List View Only)
+.record {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 10px 20px 10px 10px;
+  border: 1px solid $primary-color;
+
+  &:hover {
+    background: darken($background-color, 2%);
+  }
+
+  .content {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+
+    @media (max-width: 768px) {
+      display: grid;
+      grid-template-columns: 100px 1fr;
+      gap: 15px;
+    }
+  }
+
+  .image {
+    width: 120px;
+    height: 120px;
+    flex-shrink: 0;
+    object-fit: cover;
+
+    @media (max-width: 768px) {
+      width: 100px;
+      height: 100px;
+    }
+  }
+
+  .info {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+    padding: 0;
+
+    @media (max-width: 768px) {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 10px;
+    }
+
+    .main {
+      flex: 1;
+      min-width: 0;
+
+      .artist {
+        margin-bottom: 5px;
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: $primary-color;
+
+        @media (max-width: 768px) {
+          font-size: 1rem;
+        }
+      }
+
+      .title {
+        margin-bottom: 0;
+        font-size: 1rem;
+        color: $primary-color;
+
+        @media (max-width: 768px) {
+          font-size: 0.9rem;
+        }
+      }
+
+      .actions-inline {
+        margin-top: 10px;
+
+        @media (max-width: 768px) {
+          display: none;
+        }
+
+        .btn {
+          display: inline-block;
+          padding: 10px 20px;
+          border-radius: 4px;
+          font-size: 0.9rem;
+          font-weight: 600;
+          text-align: center;
+          text-decoration: none;
+          cursor: pointer;
+          transition: background 0.2s;
+        }
+
+        .btn-store {
+          border: 1px solid $primary-color;
+          background: none;
+          color: $primary-color;
+
+          &:hover {
+            background: $tertiary-color;
+            color: #fff;
+          }
+        }
+
+        .toggle {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 5px;
+          cursor: pointer;
+
+          .icon {
+            font-size: 0.8rem;
+            transition: transform 0.2s;
+          }
+        }
+      }
+    }
+
+    .genre {
+      width: 150px;
+      flex-shrink: 0;
+      font-size: 0.9rem;
+      color: $text-color;
+
+      @media (max-width: 768px) {
+        width: auto;
+        font-size: 0.85rem;
+      }
+    }
+
+    .date {
+      width: 100px;
+      flex-shrink: 0;
+      font-size: 0.9rem;
+      color: $text-color;
+
+      @media (max-width: 768px) {
+        width: auto;
+        font-size: 0.85rem;
+      }
+    }
+
+    .label {
+      width: 150px;
+      margin-bottom: 0;
+      flex-shrink: 0;
+      font-size: 0.9rem;
+      color: $text-color;
+
+      @media (max-width: 768px) {
+        width: auto;
+        font-size: 0.85rem;
+      }
+    }
+
+    .actions {
+      width: 120px;
+      flex-shrink: 0;
+      gap: 10px;
+
+      @media (max-width: 768px) {
+        width: auto;
+      }
+
+      .btn {
+        padding: 8px 16px;
+        font-size: 0.85rem;
+
+        @media (max-width: 768px) {
+          padding: 6px 12px;
+          font-size: 0.8rem;
+        }
+
+        &.btn-preview {
+          border: none;
+          background: #ff6b6b;
+          color: white;
+          cursor: pointer;
+
+          &:hover {
+            background: darken(#ff6b6b, 10%);
+          }
+
+          &.playing {
+            background: #ffa500;
+            animation: pulse 1.5s ease-in-out infinite;
+          }
+        }
+      }
+    }
+  }
+
+  // アコーディオンを画像の横から開始
+  .stores {
+    display: none;
+    width: 100%;
+    gap: 15px;
+    padding: 5px 20px 5px 0;
+    margin-left: 140px; // 画像幅 + gap
+
+    @media (max-width: 768px) {
+      display: none !important;
+    }
+
+    &.show {
+      display: flex;
+    }
+
+    .link {
+      display: inline-block;
+      padding: 8px 20px;
+      border-radius: 4px;
+      background: $tertiary-color;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-decoration: none;
+      color: #fff;
+      transition: background 0.2s;
+
+      &:hover {
+        background: $secondary-color;
+      }
+    }
+  }
+}

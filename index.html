@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinyl Tools Hub</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #7fccd9 0%, #fd9c9b 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 50px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: 100;
+            letter-spacing: 0.05em;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .tools-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .tool-card {
+            background: rgba(239, 243, 246, 0.9);
+            border-radius: 20px;
+            padding: 40px;
+            text-align: center;
+            transition: all 0.3s;
+            border: 3px solid rgba(255, 255, 255, 0.8);
+            text-decoration: none;
+            color: #1E3050;
+        }
+
+        .tool-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+            background: rgba(255, 255, 255, 0.95);
+        }
+
+        .tool-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+        }
+
+        .tool-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            color: #3593af;
+        }
+
+        .tool-description {
+            font-size: 1rem;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .tool-features {
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        .tool-features ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .tool-features li {
+            padding: 8px 0;
+            font-size: 0.9rem;
+            color: #555;
+        }
+
+        .tool-features li:before {
+            content: "✓ ";
+            color: #3593af;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+
+        .tool-status {
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            background: #57a8e1;
+            color: white;
+        }
+
+        footer {
+            text-align: center;
+            color: white;
+            opacity: 0.8;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .tool-card {
+                padding: 30px;
+            }
+
+            .tool-icon {
+                font-size: 3rem;
+            }
+
+            .tool-title {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎵 Vinyl Tools Hub</h1>
+            <p class="subtitle">レコード収集を快適にするツール集</p>
+        </header>
+
+        <div class="tools-grid">
+            <!-- Discogs Tool -->
+            <a href="discogs/index.html" class="tool-card">
+                <div class="tool-icon">💿</div>
+                <h2 class="tool-title">Discogs Optimizer</h2>
+                <p class="tool-description">
+                    複数のレコードを一括購入する際に、最もお得な出品者を見つけるツール
+                </p>
+                <div class="tool-features">
+                    <ul>
+                        <li>出品者ごとの比較</li>
+                        <li>日本への発送対応フィルター</li>
+                        <li>コンディション絞り込み</li>
+                        <li>価格合計自動計算</li>
+                    </ul>
+                </div>
+                <span class="tool-status">利用可能</span>
+            </a>
+
+            <!-- Preorders Tool -->
+            <a href="http://localhost:8080" class="tool-card" target="_blank" rel="noopener noreferrer">
+                <div class="tool-icon">📦</div>
+                <h2 class="tool-title">Preorders Aggregator</h2>
+                <p class="tool-description">
+                    海外レコード店の予約情報を集約し、発売日順に表示
+                </p>
+                <div class="tool-features">
+                    <ul>
+                        <li>複数ストアから自動収集</li>
+                        <li>Spotify連携試聴</li>
+                        <li>発売日順ソート</li>
+                        <li>フォーマット別フィルター</li>
+                    </ul>
+                </div>
+                <span class="tool-status">サーバー起動が必要</span>
+            </a>
+        </div>
+
+        <footer>
+            <p>各ツールの詳細な使い方は、各ページ内のREADMEをご確認ください</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,44 @@
+{
+  "name": "discogs-seller-optimizer",
+  "version": "1.0.0",
+  "description": "Discogsで複数のレコードを一括購入する際に、最もお得な出品者を見つけるツール",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "discogs-optimizer": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "serve:discogs": "python3 -m http.server 8080 --directory discogs",
+    "serve:preorders": "cd preorders && node server.js",
+    "scraper-server": "node scraper-server.js",
+    "build:css:discogs": "sass --no-source-map discogs/css/styles.scss discogs/css/styles.min.css --style=compressed",
+    "build:css:preorders": "sass --no-source-map preorders/css/styles.scss preorders/css/styles.min.css --style=compressed",
+    "build:css": "npm run build:css:discogs && npm run build:css:preorders",
+    "watch:css:discogs": "sass --no-source-map --watch discogs/css/styles.scss:discogs/css/styles.min.css --style=compressed",
+    "watch:css:preorders": "sass --no-source-map --watch preorders/css/styles.scss:preorders/css/styles.min.css --style=compressed",
+    "dev:discogs": "npm run scraper-server & npm run serve:discogs",
+    "dev:preorders": "npm run serve:preorders",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discogs",
+    "vinyl",
+    "records",
+    "marketplace",
+    "optimizer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "commander": "^11.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^24.27.0"
+  },
+  "devDependencies": {
+    "sass": "^1.93.3"
+  }
+}

@@ -1,0 +1,44 @@
+// ============================================
+// Shared Variables
+// ============================================
+
+// Color Palette (Primary colors used in both preorders and discogs)
+$primary-color: #fc4516;
+$secondary-color: #e74c3c;
+$tertiary-color: #FC9C8C;
+$quaternary-color: #FCBAAA;
+$background-color: #F7F2F0;
+$card-background: #ffffff;
+$text-color: #fc4516;
+$text-light: #777;
+$border-color: #ddd;
+$spotify-green: #1db954;
+
+// Color Aliases (for compatibility)
+$color-text: $primary-color;
+$color-subtext: $text-light;
+$color-link: $primary-color;
+$color-main: $primary-color;
+$color-blue: $background-color;
+$color-momo: $tertiary-color;
+$bg-card: rgba(239, 243, 246, 0.7);
+
+// Typography
+$font-size-xs: 0.8125rem;      // 13px
+$font-size-sm: 0.875rem;       // 14px
+$font-size-normal: 0.9375rem;  // 15px
+$font-size-md: 0.9375rem;      // 15px
+$font-size-base: 1rem;         // 16px
+$font-size-lg: 1.125rem;       // 18px
+$font-size-xl: 1.1875rem;      // 19px
+$font-size-2xl: 1.3125rem;     // 21px
+$font-size-3xl: 1.375rem;      // 22px
+$font-size-4xl: 1.5rem;        // 24px
+$font-size-5xl: 2rem;          // 32px
+$font-size-6xl: 2.5rem;        // 40px
+$font-size-input: 0.875rem;    // 14px
+$font-size-button: 1rem;       // 16px
+$font-size-icon: 1.5rem;       // 24px
+
+// Borders
+$border-color: #ddd;

@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Discogs Seller Viewer</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="css/styles.min.css">
+</head>
+
+<body>
+  <div class="container-md">
+    <header>
+      <h1>Discogs Seller Comparison Viewer</h1>
+    </header>
+
+    <div class="upload-section">
+      <div class="file-input-wrapper">
+        <input type="file" id="fileInput" accept=".json">
+        <button onclick="loadFile()" class="btn-primary">Load File</button>
+      </div>
+    </div>
+
+    <div class="card text-center" id="controls">
+      <div class="control-section">
+        <h3>Sort By</h3>
+        <div class="sort-buttons">
+          <button class="sort-btn active" onclick="sortBy('items')">By Items</button>
+          <button class="sort-btn" onclick="sortBy('price')">By Price</button>
+          <button class="sort-btn" onclick="sortBy('name')">By Name</button>
+        </div>
+      </div>
+
+      <div class="control-section">
+        <h3>Media Condition</h3>
+        <div class="filter-buttons" id="mediaGradeFilters">
+          <button class="filter-btn active" data-filter="media-mint" onclick="toggleFilter(this, 'media')">M</button>
+          <button class="filter-btn active" data-filter="media-nm" onclick="toggleFilter(this, 'media')">NM</button>
+          <button class="filter-btn active" data-filter="media-vgplus" onclick="toggleFilter(this, 'media')">VG+</button>
+          <button class="filter-btn active" data-filter="media-vg" onclick="toggleFilter(this, 'media')">VG</button>
+          <button class="filter-btn active" data-filter="media-gplus" onclick="toggleFilter(this, 'media')">G+</button>
+          <button class="filter-btn active" data-filter="media-other" onclick="toggleFilter(this, 'media')">Other</button>
+        </div>
+      </div>
+
+      <div class="control-section">
+        <h3>Sleeve Condition</h3>
+        <div class="filter-buttons" id="sleeveGradeFilters">
+          <button class="filter-btn active" data-filter="sleeve-mint" onclick="toggleFilter(this, 'sleeve')">M</button>
+          <button class="filter-btn active" data-filter="sleeve-nm" onclick="toggleFilter(this, 'sleeve')">NM</button>
+          <button class="filter-btn active" data-filter="sleeve-vgplus" onclick="toggleFilter(this, 'sleeve')">VG+</button>
+          <button class="filter-btn active" data-filter="sleeve-vg" onclick="toggleFilter(this, 'sleeve')">VG</button>
+          <button class="filter-btn active" data-filter="sleeve-gplus" onclick="toggleFilter(this, 'sleeve')">G+</button>
+          <button class="filter-btn active" data-filter="sleeve-generic" onclick="toggleFilter(this, 'sleeve')">Generic</button>
+          <button class="filter-btn active" data-filter="sleeve-other" onclick="toggleFilter(this, 'sleeve')">Other</button>
+        </div>
+      </div>
+
+      <div class="control-section">
+        <h3>Shipping to Japan</h3>
+        <div class="filter-checkboxes">
+          <div class="checkbox-item">
+            <input type="checkbox" id="hide-no-japan-shipping" onchange="applyShippingFilter()">
+            <label for="hide-no-japan-shipping">Hide sellers that don't ship to Japan</label>
+          </div>
+        </div>
+        <div style="font-size: 0.85em; color: #666; margin-top: 8px;">
+          * Hides only sellers where all items contain "Not available", "Does not ship", or similar messages
+        </div>
+      </div>
+
+      <div class="stats">
+        <div class="stat-item">Sellers: <span id="sellerCount">0</span></div>
+        <div class="stat-item">Total Items: <span id="totalItems">0</span></div>
+      </div>
+    </div>
+
+    <div id="sellerList"></div>
+  </div>
+
+  <!-- Shipping Information Popup -->
+  <div class="popup-overlay" id="popupOverlay" onclick="closeShippingPopup()"></div>
+  <div class="shipping-popup" id="shippingPopup">
+    <div class="popup-header">
+      <h3>Shipping Information</h3>
+      <button class="close-popup" onclick="closeShippingPopup()">×</button>
+    </div>
+    <div id="shippingContent"></div>
+  </div>
+
+  <script>
+    let sellersData = [];
+    let currentSort = 'items';
+
+    // Load data from localStorage on page load
+    window.addEventListener('DOMContentLoaded', () => {
+      const storedData = localStorage.getItem('discogsSellerData');
+      if (storedData) {
+        try {
+          sellersData = JSON.parse(storedData);
+          displaySellers();
+          document.getElementById('controls').classList.add('show');
+          document.getElementById('sellerList').classList.add('show');
+          updateStats();
+
+          // Remove data after use
+          localStorage.removeItem('discogsSellerData');
+
+          // Hide file input section
+          document.querySelector('.upload-section').style.display = 'none';
+        } catch (error) {
+          console.error('Error loading data from localStorage:', error);
+        }
+      }
+    });
+
+    function loadFile() {
+      const fileInput = document.getElementById('fileInput');
+      const file = fileInput.files[0];
+
+      if (!file) {
+        alert('Please select a file');
+        return;
+      }
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          sellersData = JSON.parse(e.target.result);
+          displaySellers();
+          document.getElementById('controls').classList.add('show');
+          document.getElementById('sellerList').classList.add('show');
+          updateStats();
+        } catch (error) {
+          alert('Failed to load JSON file: ' + error.message);
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    function sortBy(type) {
+      currentSort = type;
+
+      // Update active button state
+      document.querySelectorAll('.sort-btn').forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+
+      // Execute sort
+      switch (type) {
+        case 'items':
+          sellersData.sort((a, b) => b.items.length - a.items.length);
+          break;
+        case 'price':
+          sellersData.sort((a, b) => a.totalPrice - b.totalPrice); // Cheapest first
+          break;
+        case 'name':
+          sellersData.sort((a, b) => a.sellerName.localeCompare(b.sellerName));
+          break;
+      }
+
+      displaySellers();
+    }
+
+    function updateStats() {
+      const totalItems = sellersData.reduce((sum, seller) => sum + seller.items.length, 0);
+      document.getElementById('sellerCount').textContent = sellersData.length;
+      document.getElementById('totalItems').textContent = totalItems;
+    }
+
+    // Exchange rates (approximate conversion)
+    const exchangeRates = {
+      'USD': 150,
+      'EUR': 165,
+      'GBP': 190,
+      'AUD': 100,
+      'CAD': 110,
+      'JPY': 1
+    };
+
+    function convertToJPY(amount, currency) {
+      const rate = exchangeRates[currency] || 150;
+      return Math.round(amount * rate);
+    }
+
+    function getSellerProfileUrl(sellerName) {
+      return `https://www.discogs.com/ja/user/${encodeURIComponent(sellerName)}`;
+    }
+
+    function getMediaGrade(condition) {
+      if (!condition) return 'other';
+      const upper = condition.toUpperCase();
+      if (upper.includes('MINT') && !upper.includes('NEAR')) return 'mint';
+      if (upper.includes('NM') || upper.includes('NEAR MINT')) return 'nm';
+      if (upper.includes('VG+')) return 'vgplus';
+      if (upper.includes('VG') && !upper.includes('VG+')) return 'vg';
+      if (upper.includes('G+')) return 'gplus';
+      return 'other';
+    }
+
+    function getSleeveGrade(condition) {
+      if (!condition) return 'other';
+      const upper = condition.toUpperCase();
+      if (upper.includes('GENERIC')) return 'generic';
+      if (upper.includes('MINT') && !upper.includes('NEAR')) return 'mint';
+      if (upper.includes('NM') || upper.includes('NEAR MINT')) return 'nm';
+      if (upper.includes('VG+')) return 'vgplus';
+      if (upper.includes('VG') && !upper.includes('VG+')) return 'vg';
+      if (upper.includes('G+')) return 'gplus';
+      return 'other';
+    }
+
+    function toggleFilter(button, type) {
+      button.classList.toggle('active');
+      applyFilters();
+    }
+
+    function applyFilters() {
+      const mediaFilters = {
+        mint: document.querySelector('[data-filter="media-mint"]').classList.contains('active'),
+        nm: document.querySelector('[data-filter="media-nm"]').classList.contains('active'),
+        vgplus: document.querySelector('[data-filter="media-vgplus"]').classList.contains('active'),
+        vg: document.querySelector('[data-filter="media-vg"]').classList.contains('active'),
+        gplus: document.querySelector('[data-filter="media-gplus"]').classList.contains('active'),
+        other: document.querySelector('[data-filter="media-other"]').classList.contains('active')
+      };
+
+      const sleeveFilters = {
+        mint: document.querySelector('[data-filter="sleeve-mint"]').classList.contains('active'),
+        nm: document.querySelector('[data-filter="sleeve-nm"]').classList.contains('active'),
+        vgplus: document.querySelector('[data-filter="sleeve-vgplus"]').classList.contains('active'),
+        vg: document.querySelector('[data-filter="sleeve-vg"]').classList.contains('active'),
+        gplus: document.querySelector('[data-filter="sleeve-gplus"]').classList.contains('active'),
+        generic: document.querySelector('[data-filter="sleeve-generic"]').classList.contains('active'),
+        other: document.querySelector('[data-filter="sleeve-other"]').classList.contains('active')
+      };
+
+      // Apply filters to each item of each seller
+      document.querySelectorAll('.seller-card').forEach((card, sellerIndex) => {
+        const items = card.querySelectorAll('.item');
+        items.forEach((item, itemIndex) => {
+          const seller = sellersData[sellerIndex];
+          const itemData = seller.items[itemIndex];
+
+          const mediaGrade = getMediaGrade(itemData.mediaCondition);
+          const sleeveGrade = getSleeveGrade(itemData.sleeveCondition);
+
+          const mediaMatch = mediaFilters[mediaGrade];
+          const sleeveMatch = sleeveFilters[sleeveGrade];
+
+          if (mediaMatch && sleeveMatch) {
+            item.classList.remove('hidden');
+          } else {
+            item.classList.add('hidden');
+          }
+        });
+
+        // Recalculate seller total
+        updateSellerTotal(sellerIndex);
+      });
+    }
+
+    function updateSellerTotal(sellerIndex) {
+      const card = document.querySelectorAll('.seller-card')[sellerIndex];
+      const checkboxes = card.querySelectorAll('.item-checkbox');
+      const items = sellersData[sellerIndex].items;
+      const currency = sellersData[sellerIndex].currency;
+
+      let total = 0;
+      let totalJPY = 0;
+
+      checkboxes.forEach((checkbox, index) => {
+        const item = checkbox.closest('.item');
+        if (checkbox.checked && !item.classList.contains('hidden')) {
+          total += items[index].price;
+          totalJPY += convertToJPY(items[index].price, items[index].currency);
+        }
+      });
+
+      const totalDiv = card.querySelector('.seller-total');
+      totalDiv.innerHTML = `Selected Items Total: ${total.toFixed(2)} ${currency} (¥${totalJPY.toLocaleString()}) + Shipping`;
+    }
+
+    function toggleSelectAll(sellerIndex) {
+      const card = document.querySelectorAll('.seller-card')[sellerIndex];
+      const selectAllCheckbox = card.querySelector('.select-all-checkbox');
+      const itemCheckboxes = card.querySelectorAll('.item-checkbox');
+
+      itemCheckboxes.forEach(checkbox => {
+        const item = checkbox.closest('.item');
+        if (!item.classList.contains('hidden')) {
+          checkbox.checked = selectAllCheckbox.checked;
+        }
+      });
+
+      updateSellerTotal(sellerIndex);
+    }
+
+    function displaySellers() {
+      const listDiv = document.getElementById('sellerList');
+      listDiv.innerHTML = '';
+
+      sellersData.forEach((seller, sellerIndex) => {
+        const card = document.createElement('div');
+        card.className = 'seller-card expanded';
+
+        const totalJPY = convertToJPY(seller.totalPrice, seller.currency);
+        const sellerProfileUrl = getSellerProfileUrl(seller.sellerName);
+
+        card.innerHTML = `
+                    <div class="seller-header" onclick="toggleSeller(${sellerIndex})">
+                        <div class="seller-name">
+                            ${seller.sellerName}
+                            <a href="${sellerProfileUrl}" target="_blank" class="seller-link" onclick="event.stopPropagation()">
+                                Profile
+                            </a>
+                            <span class="shipping-icon" onclick="event.stopPropagation(); showShippingInfo(${sellerIndex})">
+                                ℹ️ Shipping
+                            </span>
+                        </div>
+                        <div class="seller-info">
+                            <span>${seller.sellerRating}</span>
+                            <span>${seller.location}</span>
+                            <span>Items: ${seller.items.length}</span>
+                            <span>Total: ${seller.totalPrice.toFixed(2)} ${seller.currency} (¥${totalJPY.toLocaleString()})</span>
+                        </div>
+                    </div>
+                    <div class="seller-body">
+                        <div class="select-all-container">
+                            <input type="checkbox" class="select-all-checkbox" checked onchange="toggleSelectAll(${sellerIndex})">
+                            <label class="select-all-label" onclick="document.querySelectorAll('.select-all-checkbox')[${sellerIndex}].click()">Select All</label>
+                        </div>
+                        ${seller.items.map((item, itemIndex) => {
+                            const itemJPY = convertToJPY(item.price, item.currency);
+                            return `
+                            <div class="item">
+                                <input type="checkbox" class="item-checkbox" checked onchange="updateSellerTotal(${sellerIndex})">
+                                <div class="item-title">${item.title}</div>
+                                <div class="item-condition">
+                                    ${item.mediaCondition ? `Media: ${item.mediaCondition}` : ''}
+                                </div>
+                                <div class="item-condition">
+                                    ${item.sleeveCondition ? `Sleeve: ${item.sleeveCondition}` : ''}
+                                </div>
+                                <div class="item-condition">
+                                    ${item.comments || ''}
+                                </div>
+                                <div class="item-price">
+                                    ${item.price.toFixed(2)} ${item.currency}<br>
+                                    <span style="font-size: 0.9em; color: #888;">¥${itemJPY.toLocaleString()}</span>
+                                </div>
+                            </div>
+                        `;
+                        }).join('')}
+                        <div class="seller-total">
+                            Selected Items Total: ${seller.totalPrice.toFixed(2)} ${seller.currency} (¥${totalJPY.toLocaleString()}) + Shipping
+                        </div>
+                    </div>
+                `;
+        listDiv.appendChild(card);
+      });
+    }
+
+    function toggleSeller(index) {
+      const cards = document.querySelectorAll('.seller-card');
+      cards[index].classList.toggle('expanded');
+    }
+
+    function showShippingInfo(sellerIndex) {
+      const seller = sellersData[sellerIndex];
+      const popup = document.getElementById('shippingPopup');
+      const overlay = document.getElementById('popupOverlay');
+      const content = document.getElementById('shippingContent');
+
+      // Group shipping information (combine same shipping info)
+      const shippingGroups = new Map();
+      seller.items.forEach(item => {
+        const shipping = item.shipping || 'No shipping info';
+        if (!shippingGroups.has(shipping)) {
+          shippingGroups.set(shipping, []);
+        }
+        shippingGroups.get(shipping).push(item.title);
+      });
+
+      // Generate HTML
+      let html = '';
+      shippingGroups.forEach((titles, shipping) => {
+        html += `
+                    <div class="shipping-item">
+                        <div class="shipping-item-details">
+                            <strong>Shipping:</strong> ${shipping}
+                        </div>
+                        <div class="shipping-item-details" style="margin-top: 8px;">
+                            <strong>Applicable Items (${titles.length}):</strong>
+                        </div>
+                        ${titles.map(title => `<div class="shipping-item-title">• ${title}</div>`).join('')}
+                    </div>
+                `;
+      });
+
+      content.innerHTML = html;
+      popup.classList.add('show');
+      overlay.classList.add('show');
+    }
+
+    function closeShippingPopup() {
+      document.getElementById('shippingPopup').classList.remove('show');
+      document.getElementById('popupOverlay').classList.remove('show');
+    }
+
+    // Filter for shipping to Japan
+    function canShipToJapan(seller) {
+      // Check seller location (always include Japanese sellers)
+      if (seller.location && (seller.location.includes('日本') || seller.location.includes('Japan'))) {
+        return true;
+      }
+
+      // Check shipping info for all items
+      // Only exclude sellers explicitly stating "does not ship"
+      const hasNoShippingItems = seller.items.every(item => {
+        if (!item.shipping) return false; // Show if no shipping info
+        const lowerShipping = item.shipping.toLowerCase();
+
+        // Only exclude if contains "does not ship" or "not available"
+        return lowerShipping.includes('利用不可') ||
+          lowerShipping.includes('発送不可') ||
+          lowerShipping.includes('does not ship') ||
+          lowerShipping.includes('not available');
+      });
+
+      // Return false only if all items cannot be shipped
+      return !hasNoShippingItems;
+    }
+
+    function applyShippingFilter() {
+      const hideNoJapanShipping = document.getElementById('hide-no-japan-shipping').checked;
+      const sellerCards = document.querySelectorAll('.seller-card');
+
+      sellerCards.forEach((card, index) => {
+        const seller = sellersData[index];
+        if (hideNoJapanShipping && !canShipToJapan(seller)) {
+          card.style.display = 'none';
+        } else {
+          card.style.display = 'block';
+        }
+      });
+
+      updateStats();
+    }
+
+    function updateStats() {
+      const hideNoJapanShipping = document.getElementById('hide-no-japan-shipping').checked;
+      let visibleSellers = 0;
+      let totalItems = 0;
+
+      sellersData.forEach((seller, index) => {
+        const card = document.querySelectorAll('.seller-card')[index];
+        if (card && card.style.display !== 'none') {
+          visibleSellers++;
+          totalItems += seller.items.length;
+        }
+      });
+
+      document.getElementById('sellerCount').textContent = visibleSellers;
+      document.getElementById('totalItems').textContent = totalItems;
+    }
+  </script>
+</body>
+
+</html>

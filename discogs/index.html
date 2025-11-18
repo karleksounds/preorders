@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discogs Seller Optimizer</title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="./css/styles.min.css">
+  </head>
+  <body>
+    <main class="container">
+      <header class="container-md">
+        <h1>Discogs Seller Optimizer</h1>
+        <label for="token">Discogs API Token *</label>
+        <input
+          type="password"
+          id="token"
+          placeholder="your_discogs_token_here"
+          required
+        >
+        <p class="small-text">
+          トークンの取得: <a href="https://www.discogs.com/settings/developers" target="_blank">https://www.discogs.com/settings/developers</a>
+        </p>
+      </header>
+
+      <form id="searchForm" class="card container-md">
+        <div id="searchRowsContainer">
+          <div class="row" data-row-index="0">
+            <label for="artistSearch-0">Artist / Release *</label>
+            <div class="autocomplete">
+              <input
+                type="text"
+                id="artistSearch-0"
+                class="search-input"
+                placeholder="ex: Electric Light Orchestra"
+                required
+                autocomplete="off"
+                data-row-index="0"
+              >
+              <ul id="artistSuggestions-0" class="suggestions"></ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="add-wrapper">
+          <button type="button" id="addRowButton" class="add-btn">+ 検索条件を追加</button>
+        </div>
+
+        <div class="form-group">
+          <label>Format</label>
+          <div class="formats" id="formatButtons">
+            <button type="button" class="btn" data-format="">
+              <img src="images/ico-all.svg" alt="All" class="icon">
+              <span>ALL</span>
+            </button>
+            <button type="button" class="btn" data-format="7&quot;">
+              <img src="images/ico-7.svg" alt="7 inch" class="icon">
+              <span>7</span>
+            </button>
+            <button type="button" class="btn" data-format="10&quot;">
+              <img src="images/ico-10.svg" alt="10 inch" class="icon">
+              <span>10</span>
+            </button>
+            <button type="button" class="btn" data-format="12&quot;">
+              <img src="images/ico-12.svg" alt="12 inch" class="icon">
+              <span>12</span>
+            </button>
+            <button type="button" class="btn" data-format="LP">
+              <img src="images/ico-12.svg" alt="LP" class="icon">
+              <span>LP</span>
+            </button>
+          </div>
+          <input type="hidden" id="vinylFormat" value="">
+        </div>
+
+        <div class="form-group">
+          <label for="releaseYear">Year</label>
+          <input type="text" id="releaseYear" placeholder="1970 or 1970-1980">
+        </div>
+
+        <button type="submit" id="searchButton">リリースを検索</button>
+      </form>
+
+      <div id="releaseResults" class="results" style="display: none;"></div>
+
+      <div id="loading" class="loading" style="display: none;">
+        <p id="loadingMessage">準備しています</p>
+        <div class="progress-container">
+          <div class="progress-fill" id="progressBarFill"></div>
+        </div>
+        <a href="#" id="cancelButton" class="cancel">中止する</a>
+      </div>
+
+      <div id="sellerResults" class="results" style="display: none;"></div>
+    </main>
+
+    <script type="module" src="./js/app.js"></script>
+  </body>
+</html>

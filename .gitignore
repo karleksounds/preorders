@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Build files (keep compiled CSS)
+# If you want to exclude compiled CSS, uncomment below:
+# **/css/*.min.css
+
+# Scraped data files
+discogs_marketplace_*.json
+preorders/data/records.json
