@@ -47,40 +47,46 @@ async function scrapeBanquetRecords() {
     const page = await browser.newPage();
     await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36');
 
-    const url = 'https://www.banquetrecords.com/search?f=seven&t=preOrder&w=480';
-    console.log(`  Loading: ${url}`);
+    // 7"とLPの両方を取得
+    const formats = [
+      { name: '7"', keyword: '7"', url: 'https://www.banquetrecords.com/search?f=seven&t=preOrder&w=480' },
+      { name: 'LP', keyword: 'LP', url: 'https://www.banquetrecords.com/search?t=preOrder&f=lp&w=480' }
+    ];
 
-    await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+    for (const format of formats) {
+      console.log(`  Loading ${format.name}: ${format.url}`);
 
-    // ページが完全に読み込まれるまで待機
-    await new Promise(resolve => setTimeout(resolve, 3000));
+      await page.goto(format.url, { waitUntil: 'networkidle2', timeout: 60000 });
 
-    // 商品情報を抽出
-    const products = await page.evaluate(() => {
-      const items = [];
+      // ページが完全に読み込まれるまで待機
+      await new Promise(resolve => setTimeout(resolve, 3000));
 
-      // a.card.item セレクタで商品リンクを取得
-      const links = document.querySelectorAll('a.card.item');
+      // 商品情報を抽出
+      const products = await page.evaluate((formatKeyword) => {
+        const items = [];
 
-      links.forEach(link => {
-        const href = link.getAttribute('href');
-        const text = link.textContent.trim();
+        // a.card.item セレクタで商品リンクを取得
+        const links = document.querySelectorAll('a.card.item');
 
-        // 7" と Pre-Order を含むリンク
-        if (text.includes('7"') && text.includes('Pre-Order') && href) {
-          // hrefは相対パス（例: "artist/title/CODE"）なので、ベースURLと結合
-          const fullUrl = href.startsWith('http') ? href : `https://www.banquetrecords.com/${href}`;
-          items.push({
-            url: fullUrl,
-            text: text
-          });
-        }
-      });
+        links.forEach(link => {
+          const href = link.getAttribute('href');
+          const text = link.textContent.trim();
 
-      return items;
-    });
+          // フォーマット と Pre-Order を含むリンク
+          if (text.includes(formatKeyword) && text.includes('Pre-Order') && href) {
+            // hrefは相対パス（例: "artist/title/CODE"）なので、ベースURLと結合
+            const fullUrl = href.startsWith('http') ? href : `https://www.banquetrecords.com/${href}`;
+            items.push({
+              url: fullUrl,
+              text: text
+            });
+          }
+        });
 
-    console.log(`  Found ${products.length} product links`);
+        return items;
+      }, format.keyword);
+
+      console.log(`  Found ${products.length} ${format.name} product links`);
 
     // 各商品ページにアクセス（全件取得）
     const limit = products.length;
@@ -170,7 +176,7 @@ async function scrapeBanquetRecords() {
           results.push({
             artist: details.artist,
             title: details.title,
-            format: '7"',
+            format: format.name,
             label: details.label || '',
             releaseDate,
             store: 'Banquet Records',
@@ -184,7 +190,10 @@ async function scrapeBanquetRecords() {
       }
     }
 
-    console.log(`  Found ${results.length} 7" items from Banquet Records`);
+    console.log(`  Found ${products.length} ${format.name} items`);
+  }
+
+  console.log(`  Total found from Banquet Records: ${results.length} items`);
   } catch (error) {
     console.error('Error scraping Banquet Records:', error.message);
   } finally {

@@ -10,13 +10,22 @@
   <body>
     <div class="container">
       <header>
-        <h1>7" Vinyl Releases</h1>
-        <p class="subtitle">Norman Records, Cargo Records & Banquet Records 7" Release Calendar</p>
+        <h1>Vinyl Releases</h1>
+        <p class="subtitle">Norman Records, Cargo Records & Banquet Records Release Calendar</p>
         <p class="last-update" id="last-update">Last update: Loading...</p>
       </header>
 
       <aside id="loading">Loading records...</aside>
       <aside id="error" style="display: none;"></aside>
+
+      <nav class="format-toggle" id="format-toggle" style="display: none;">
+        <button class="format-btn active" onclick="changeFormat('7&quot;')">7"</button>
+        <button class="format-btn" onclick="changeFormat('LP')">LP</button>
+      </nav>
+
+      <nav class="pagination" id="pagination" style="display: none;">
+        <!-- Pagination will be inserted here by JavaScript -->
+      </nav>
 
       <main id="records-container">
         <!-- Records will be inserted here by JavaScript -->

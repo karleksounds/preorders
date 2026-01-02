@@ -18,7 +18,7 @@
 
 header {
   margin-bottom: 40px;
-  padding: 40px 20px;
+  padding: 40px 20px 0;
   color: $primary-color;
   text-align: center;
 
@@ -52,6 +52,96 @@ header {
 
 #error {
   color: $secondary-color;
+}
+
+// Format Toggle
+.format-toggle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin: 0 0 20px;
+
+  .format-btn {
+    padding: 14px 32px;
+    border: 3px solid $primary-color;
+    border-radius: 8px;
+    background: none;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: $primary-color;
+    cursor: pointer;
+    transition: all 0.3s;
+
+    &:hover {
+      background: $tertiary-color;
+      border-color: $tertiary-color;
+      color: #fff;
+      transform: translateY(-2px);
+    }
+
+    &.active {
+      background: $primary-color;
+      color: #fff;
+      cursor: default;
+      transform: none;
+
+      &:hover {
+        background: $primary-color;
+        border-color: $primary-color;
+        transform: none;
+      }
+    }
+
+    @media (max-width: 768px) {
+      padding: 12px 28px;
+      font-size: 1rem;
+    }
+  }
+}
+
+// Pagination
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 30px;
+  padding: 20px;
+
+  .pagination-btn {
+    padding: 12px 24px;
+    border: 2px solid $primary-color;
+    border-radius: 6px;
+    background: none;
+    font-size: 1rem;
+    font-weight: 600;
+    color: $primary-color;
+    cursor: pointer;
+    transition: all 0.2s;
+
+    &:hover {
+      background: $tertiary-color;
+      border-color: $tertiary-color;
+      color: #fff;
+    }
+
+    &.active {
+      background: $primary-color;
+      color: #fff;
+      cursor: default;
+
+      &:hover {
+        background: $primary-color;
+        border-color: $primary-color;
+      }
+    }
+
+    @media (max-width: 768px) {
+      padding: 10px 20px;
+      font-size: 0.9rem;
+    }
+  }
 }
 
 // Releases Section

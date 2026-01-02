@@ -3,7 +3,6 @@ const path = require('path');
 const scrapeCargoRecords = require('./scrapers/cargoRecords');
 const scrapeBanquetRecords = require('./scrapers/banquetRecords');
 const scrapeNormanRecords = require('./scrapers/normanRecords');
-const { addSpotifyInfo } = require('./services/spotify');
 const { addItunesInfo } = require('./services/itunes');
 
 /**
@@ -81,7 +80,7 @@ function groupDuplicates(records) {
 
   // Norman Recordsのレコードを先にマップに追加
   normanRecords.forEach(record => {
-    const key = `${record.artist.toLowerCase()}-${record.title.toLowerCase()}`;
+    const key = `${record.artist.toLowerCase()}-${record.title.toLowerCase()}-${record.format}`;
     grouped.set(key, {
       ...record,
       stores: [{
@@ -93,7 +92,7 @@ function groupDuplicates(records) {
 
   // 他のストアのレコードを追加（Norman Recordsのジャンルを維持）
   otherRecords.forEach(record => {
-    const key = `${record.artist.toLowerCase()}-${record.title.toLowerCase()}`;
+    const key = `${record.artist.toLowerCase()}-${record.title.toLowerCase()}-${record.format}`;
 
     if (grouped.has(key)) {
       // Norman Recordsに既に存在する場合、ストア情報のみを追加
@@ -154,14 +153,9 @@ async function main() {
     record.releaseDate = formatDateToYYYYMMDD(record.releaseDate);
   });
 
-  // Spotify情報を追加
-  console.log('\nAdding Spotify information...');
-  const recordsWithSpotify = await addSpotifyInfo(sortedRecords);
-  console.log('Spotify information added\n');
-
   // iTunes プレビュー情報を追加
   console.log('\nAdding iTunes preview information...');
-  const recordsWithItunes = await addItunesInfo(recordsWithSpotify);
+  const recordsWithItunes = await addItunesInfo(sortedRecords);
   console.log('iTunes preview information added\n');
 
   // データディレクトリが存在しない場合は作成

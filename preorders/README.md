@@ -2,91 +2,103 @@
 
 海外レコード店の予約情報を集約し、発売日順に表示するWebアプリケーション。
 
+🌐 **Live Demo**: [https://YOUR_USERNAME.github.io/tool/](https://YOUR_USERNAME.github.io/tool/)
+（GitHub Pagesで公開中。毎日自動更新されます）
+
 ## 対象ストア
 
 - Norman Records
-- Juno Records
-- Rough Trade
+- Cargo Records
+- Banquet Records
 
 ## 機能
 
 - 複数のレコード店からpreorder情報を自動収集
 - 発売日順でソート表示
-- Spotify連携（アルバムの試聴リンク）
-- フォーマット別フィルター（LP / 12" / 7" / 10"）
-- ストア別フィルター
-- アーティスト/タイトル検索
+- フォーマット別フィルター（7" / LP）
+- 月別ページネーション
+- iTunes プレビュー再生
+- 🤖 GitHub Actionsで毎日自動更新
 
 ## クイックスタート
 
-### 1. 依存関係のインストール
+### オンラインで見る（推奨）
+
+[GitHub Pages版](https://YOUR_USERNAME.github.io/tool/)にアクセスするだけ！
+データは毎日自動更新されます。
+
+### ローカルで開発する
+
+#### 1. 依存関係のインストール
 
 ```bash
+cd preorders
 npm install
 ```
 
-### 2. SCSSのコンパイル
-
-VS Codeの拡張機能（Live Sass Compilerなど）を使用して、`public/css/styles.scss` → `public/css/styles.min.css` をコンパイルしてください。
-
-### 3. サーバー起動
+#### 2. データの取得
 
 ```bash
+npm run scrape
+```
+
+#### 3. ローカルで表示
+
+静的ファイルなので、`index.html`をブラウザで直接開くか：
+
+```bash
+# Pythonのシンプルサーバーで起動
+python3 -m http.server 8081
+
+# または、Node.jsサーバーで起動（開発用）
 npm start
 ```
 
-ブラウザで `http://localhost:8080` にアクセス。
-
-**これだけです！** 初回アクセス時に自動的にデータを取得します。
+ブラウザで `http://localhost:8081` にアクセス。
 
 ---
 
-## 詳細設定
+## GitHub Pagesへのデプロイ
 
-### Spotify API設定（オプション）
+このプロジェクトはGitHub Pagesで自動デプロイされます。
 
-Spotify連携を使用する場合は、以下の手順でAPIキーを取得してください：
+### 初回設定
 
-1. [Spotify for Developers](https://developer.spotify.com/dashboard)にアクセス
-2. アプリケーションを作成
-3. Client IDとClient Secretを取得
-4. プロジェクトルート（`tool/`）に`.env`ファイルを作成：
+1. **リポジトリ設定**
+   - GitHubリポジトリの Settings → Pages
+   - Source: "GitHub Actions" を選択
 
-```bash
-cd /Users/kae.iguchi/tool
-cp .env.example .env
-```
+2. **コミット & プッシュ**
+   ```bash
+   git add .
+   git commit -m "Setup GitHub Pages"
+   git push
+   ```
 
-5. `.env`ファイルを編集し、取得したCredentialsを設定：
+3. **自動デプロイ**
+   - プッシュ後、GitHub Actionsが自動的に実行されます
+   - Actions タブで進行状況を確認できます
+   - 完了後、`https://YOUR_USERNAME.github.io/tool/` でアクセス可能
 
-```
-SPOTIFY_CLIENT_ID=your_client_id_here
-SPOTIFY_CLIENT_SECRET=your_client_secret_here
-```
+### 自動更新
 
-**注意:**
-- `.env`ファイルは`tool/`ディレクトリ（preordersとdiscogsの親ディレクトリ）に配置します
-- Spotify APIの設定は必須ではありません。設定しない場合は、Spotify連携機能がスキップされます。
-
----
+- **毎日UTC 0:00 (JST 9:00)** に自動スクレイピング実行
+- データ更新後、自動的にGitHub Pagesへデプロイ
+- Actions タブから手動実行も可能
 
 ## 使い方
 
-### 起動方法
+### ローカル開発
+
+#### サーバー起動（開発用）
 
 ```bash
 npm start
 ```
 
-ブラウザで `http://localhost:8080` にアクセス。
+ブラウザで `http://localhost:8081` にアクセス。
 
-### 自動データ更新
-
-- データは24時間ごとに自動的に更新されます
-- 初回アクセス時や、データが古い場合は自動的にスクレイピングを実行します
-- スクレイピング中は「数分後に再読み込みしてください」と表示されます
-
-### 手動データ更新
+#### 手動データ更新
 
 最新のpreorder情報を今すぐ取得したい場合：
 
@@ -94,7 +106,7 @@ npm start
 npm run scrape
 ```
 
-### サーバーの停止
+#### サーバーの停止
 
 `Ctrl + C` を押してください。
 
@@ -106,21 +118,19 @@ npm run scrape
 │   ├── index.js              # メインスクリプト
 │   ├── scrapers/             # 各ストアのスクレイパー
 │   │   ├── normanRecords.js
-│   │   ├── junoRecords.js
-│   │   └── roughTrade.js
+│   │   ├── cargoRecords.js
+│   │   └── banquetRecords.js
 │   └── services/
-│       └── spotify.js        # Spotify API連携
-├── public/
-│   ├── index.html           # フロントエンド（HTML）
-│   ├── css/
-│   │   ├── styles.scss      # スタイルシート（SCSS）
-│   │   └── styles.min.css   # コンパイル済みCSS（自動生成）
-│   ├── scripts/
-│   │   └── main.js          # フロントエンド（JavaScript）
-│   └── data/
-│       └── records.json     # 生成されたデータ
+│       └── itunes.js         # iTunes API連携
+├── css/
+│   ├── styles.scss          # スタイルシート（SCSS）
+│   └── styles.min.css       # コンパイル済みCSS（自動生成）
+├── scripts/
+│   └── main.js              # フロントエンド（JavaScript）
 ├── data/
-│   └── records.json         # バックアップデータ
+│   └── records.json         # 生成されたデータ
+├── index.html               # フロントエンド（HTML）
+├── server.js                # Expressサーバー
 ├── package.json
 └── README.md
 ```
@@ -160,9 +170,13 @@ allRecords = [...allRecords, ...newStoreResults];
 
 ### スタイルの変更
 
-`public/css/styles.scss`を編集して、デザインをカスタマイズできます。
+`css/styles.scss`を編集して、デザインをカスタマイズできます。
 
-VS Codeの拡張機能で自動コンパイルが有効になっていれば、保存時に自動的に`styles.min.css`が生成されます。
+SCSSをコンパイルするには：
+
+```bash
+npm run build:css:preorders
+```
 
 ## トラブルシューティング
 
@@ -171,12 +185,6 @@ VS Codeの拡張機能で自動コンパイルが有効になっていれば、�
 - ウェブサイトの構造が変更された可能性があります
 - スクレイパーのセレクターを更新する必要があります
 - ネットワーク接続を確認してください
-
-### Spotifyが動作しない
-
-- `.env`ファイルが正しく設定されているか確認
-- Spotify APIの認証情報が有効か確認
-- Spotify APIのレート制限に達していないか確認
 
 ## 注意事項
 

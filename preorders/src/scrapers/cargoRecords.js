@@ -86,15 +86,16 @@ async function scrapeCargoRecords() {
           const formatMatch = formatText.match(/(7"|LP|CD|12"|10"|2 CD|2LP)/);
           const format = formatMatch ? formatMatch[1] : '';
 
-          // 7"のみを商品リストに追加
-          if (artist && title && fullUrl && format === '7"' && releaseDate) {
+          // 7"とLPを商品リストに追加
+          if (artist && title && fullUrl && (format === '7"' || format === 'LP') && releaseDate) {
             products.push({
               artist,
               title,
               label,
               releaseDate,
               url: fullUrl,
-              imageUrl: fullImageUrl
+              imageUrl: fullImageUrl,
+              format: format
             });
           }
         } catch (err) {
@@ -102,7 +103,7 @@ async function scrapeCargoRecords() {
         }
       });
 
-      console.log(`  Found ${products.length} 7" products on this page`);
+      console.log(`  Found ${products.length} products (7" & LP) on this page`);
 
       // フェーズ2: 各商品ページからジャンルを取得
       for (const product of products) {
@@ -121,7 +122,7 @@ async function scrapeCargoRecords() {
           results.push({
             artist: product.artist,
             title: product.title,
-            format: '7"',
+            format: product.format,
             label: product.label || '',
             releaseDate: product.releaseDate,
             store: 'Cargo Records',
@@ -139,7 +140,7 @@ async function scrapeCargoRecords() {
           results.push({
             artist: product.artist,
             title: product.title,
-            format: '7"',
+            format: product.format,
             label: product.label || '',
             releaseDate: product.releaseDate,
             store: 'Cargo Records',
@@ -151,13 +152,13 @@ async function scrapeCargoRecords() {
         }
       }
 
-      console.log(`  Found ${pageResults} 7" items from this page`);
+      console.log(`  Found ${pageResults} items (7" & LP) from this page`);
 
       // サーバーに負荷をかけないよう少し待機
       await new Promise(resolve => setTimeout(resolve, 1000));
     }
 
-    console.log(`\nTotal found: ${results.length} 7" items from Cargo Records`);
+    console.log(`\nTotal found: ${results.length} items (7" & LP) from Cargo Records`);
   } catch (error) {
     console.error('Error scraping Cargo Records:', error.message);
   }

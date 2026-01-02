@@ -1,5 +1,8 @@
 let recordsData = null;
 let currentAudio = null; // 現在再生中のオーディオ
+let currentMonth = null; // 現在表示中の月
+let currentFormat = '7"'; // 現在表示中のフォーマット
+let monthlyRecords = {}; // 月ごとのレコードデータ
 
 // データを読み込み
 async function loadRecords() {
@@ -8,18 +11,8 @@ async function loadRecords() {
   const containerEl = document.getElementById('records-container');
 
   try {
-    // APIエンドポイントからデータを取得
-    const response = await fetch('/api/records');
-
-    if (response.status === 202) {
-      // スクレイピング中
-      const data = await response.json();
-      loadingEl.textContent = data.message + ' 数分後に再読み込みしてください...';
-      setTimeout(() => {
-        window.location.reload();
-      }, 60000); // 1分後に自動リロード
-      return;
-    }
+    // データファイルから直接取得（GitHub Pages対応）
+    const response = await fetch('data/records.json');
 
     if (!response.ok) {
       throw new Error('Failed to load records data');
@@ -35,7 +28,20 @@ async function loadRecords() {
     }
 
     loadingEl.style.display = 'none';
-    renderRecords();
+
+    // レコードを月ごとにグループ化
+    groupRecordsByMonth();
+
+    // フォーマット切り替えボタンを表示
+    renderFormatToggle();
+
+    // 最新の月を表示
+    const months = Object.keys(monthlyRecords).sort().reverse();
+    if (months.length > 0) {
+      currentMonth = months[0];
+      renderPagination();
+      renderRecords();
+    }
   } catch (error) {
     loadingEl.style.display = 'none';
     errorEl.innerHTML = `
@@ -48,6 +54,111 @@ npm start</pre>
     errorEl.style.display = 'block';
     console.error('Error loading records:', error);
   }
+}
+
+// レコードを月ごとにグループ化（フォーマットでフィルタリング）
+function groupRecordsByMonth() {
+  monthlyRecords = {};
+
+  if (!recordsData || !recordsData.records) return;
+
+  // 現在のフォーマットでフィルタリング
+  const filteredRecords = recordsData.records.filter(record =>
+    record.format === currentFormat
+  );
+
+  filteredRecords.forEach(record => {
+    if (!record.releaseDate) return;
+
+    // YYYY-MM-DD形式からYYYY-MM を取得
+    const month = record.releaseDate.substring(0, 7); // "2025-12" or "2026-01"
+
+    if (!monthlyRecords[month]) {
+      monthlyRecords[month] = [];
+    }
+
+    monthlyRecords[month].push(record);
+  });
+
+  // 各月のレコードをリリース日でソート
+  Object.keys(monthlyRecords).forEach(month => {
+    monthlyRecords[month].sort((a, b) =>
+      a.releaseDate.localeCompare(b.releaseDate)
+    );
+  });
+}
+
+// 月の表示名を取得
+function getMonthDisplayName(monthKey) {
+  const [year, month] = monthKey.split('-');
+  const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+                      'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  return `${monthNames[parseInt(month) - 1]} ${year}`;
+}
+
+// フォーマット切り替えボタンを描画
+function renderFormatToggle() {
+  const toggleEl = document.getElementById('format-toggle');
+  toggleEl.style.display = 'flex';
+}
+
+// フォーマットを変更
+function changeFormat(format) {
+  currentFormat = format;
+
+  // ボタンのアクティブ状態を更新
+  document.querySelectorAll('.format-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  event.target.classList.add('active');
+
+  // レコードを再グループ化
+  groupRecordsByMonth();
+
+  // 最新の月を表示
+  const months = Object.keys(monthlyRecords).sort().reverse();
+  if (months.length > 0) {
+    currentMonth = months[0];
+  } else {
+    currentMonth = null;
+  }
+
+  renderPagination();
+  renderRecords();
+
+  // ページトップにスクロール
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ページネーションを描画
+function renderPagination() {
+  const paginationEl = document.getElementById('pagination');
+  const months = Object.keys(monthlyRecords).sort().reverse();
+
+  if (months.length <= 1) {
+    paginationEl.style.display = 'none';
+    return;
+  }
+
+  const buttons = months.map(month => {
+    const isActive = month === currentMonth;
+    const displayName = getMonthDisplayName(month);
+    const activeClass = isActive ? 'active' : '';
+    return `<button class="pagination-btn ${activeClass}" onclick="changePage('${month}')">${displayName}</button>`;
+  }).join('');
+
+  paginationEl.innerHTML = buttons;
+  paginationEl.style.display = 'flex';
+}
+
+// ページを変更
+function changePage(month) {
+  currentMonth = month;
+  renderPagination();
+  renderRecords();
+
+  // ページトップにスクロール
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 // ストアリストを生成（アコーディオン式）
@@ -96,26 +207,18 @@ function createRecordCard(record) {
     releaseDate,
     stores = [],
     imageUrl,
-    spotifyUrl,
-    spotifyImage,
     genre,
-    itunesPreviewUrl
+    itunesPreviewUrl,
+    format
   } = record;
 
   // ユニークIDを生成
   const recordId = `${artist}-${title}`.replace(/[^a-zA-Z0-9]/g, '-');
 
-  // 画像URL（Spotifyの画像を優先、空文字列もチェック）
-  const hasValidSpotifyImage = spotifyImage && spotifyImage.trim();
-  const hasValidImageUrl = imageUrl && imageUrl.trim();
-  const imgSrc = hasValidSpotifyImage || hasValidImageUrl
-    ? (hasValidSpotifyImage ? spotifyImage : imageUrl)
+  // 画像URL
+  const imgSrc = (imageUrl && imageUrl.trim())
+    ? imageUrl
     : 'images/noimage.jpg';
-
-  // Spotifyボタン
-  const spotifyButton = spotifyUrl
-    ? `<a href="${spotifyUrl}" target="_blank" rel="noopener noreferrer" class="btn btn-spotify">Listen on Spotify</a>`
-    : '';
 
   // プレビューボタン（iTunesプレビューがある場合）
   const previewButton = itunesPreviewUrl
@@ -132,7 +235,7 @@ function createRecordCard(record) {
         <div class="info">
           <div class="main">
             <div class="artist">${escapeHtml(artist)}</div>
-            <div class="title">${escapeHtml(title)} 7"</div>
+            <div class="title">${escapeHtml(title)} ${format}</div>
             <div class="actions-inline">
               ${storesSection.button}
             </div>
@@ -216,16 +319,21 @@ function renderRecords() {
     return;
   }
 
-  const records = recordsData.records || [];
+  // 現在の月のレコードを取得
+  const records = currentMonth && monthlyRecords[currentMonth]
+    ? monthlyRecords[currentMonth]
+    : [];
 
   if (records.length === 0) {
-    containerEl.innerHTML = '<div class="loading">No 7" records found.</div>';
+    containerEl.innerHTML = `<div class="loading">No ${currentFormat} records found for this month.</div>`;
     return;
   }
 
+  const monthDisplay = getMonthDisplayName(currentMonth);
+
   const html = `
     <section class="releases">
-      <h2 class="title">7" Releases</h2>
+      <h2 class="title">${currentFormat} Releases - ${monthDisplay}</h2>
       <div class="records-grid list-view">
         ${records.map(record => createRecordCard(record)).join('')}
       </div>

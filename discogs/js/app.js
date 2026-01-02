@@ -611,6 +611,14 @@ async function compareSellers(releaseIds) {
   document.getElementById('loadingMessage').textContent = 'マーケットプレイス情報を取得中...';
   document.getElementById('sellerResults').style.display = 'none';
 
+  // ローディング表示が見えるようにスクロール
+  setTimeout(() => {
+    const loadingEl = document.getElementById('loading');
+    if (loadingEl) {
+      loadingEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }, 100);
+
   try {
     if (!client) {
       client = new DiscogsClient(token);

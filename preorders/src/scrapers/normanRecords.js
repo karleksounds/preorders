@@ -65,11 +65,16 @@ async function scrapeNormanRecords() {
     const page = await browser.newPage();
     await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36');
 
-    // Norman Recordsの今月リリースの7"のページ
-    const url = 'https://www.normanrecords.com/preorders?f%5B%5D=f%3Av%3A7&f%5B%5D=d%3Am';
-    console.log(`  Loading: ${url}`);
+    // 7"とLPの両方を取得
+    const formats = [
+      { name: '7"', url: 'https://www.normanrecords.com/preorders?f%5B%5D=f%3Av%3A7&f%5B%5D=d%3Am' },
+      { name: 'LP', url: 'https://www.normanrecords.com/preorders?f%5B%5D=f%3Av%3ALP&f%5B%5D=d%3Am' }
+    ];
 
-    await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+    for (const format of formats) {
+      console.log(`  Loading ${format.name}: ${format.url}`);
+
+      await page.goto(format.url, { waitUntil: 'networkidle2', timeout: 60000 });
 
     // ページが完全に読み込まれるまで待機
     await new Promise(resolve => setTimeout(resolve, 3000));
@@ -199,7 +204,7 @@ async function scrapeNormanRecords() {
           results.push({
             artist: details.artist,
             title: details.title,
-            format: '7"',
+            format: format.name,
             label: details.label || '',
             releaseDate,
             store: 'Norman Records',
@@ -216,7 +221,10 @@ async function scrapeNormanRecords() {
       }
     }
 
-    console.log(`  Found ${results.length} 7" items from Norman Records`);
+    console.log(`  Found ${products.length} ${format.name} items`);
+  }
+
+  console.log(`  Total found from Norman Records: ${results.length} items`);
   } catch (error) {
     console.error('Error scraping Norman Records:', error.message);
   } finally {
