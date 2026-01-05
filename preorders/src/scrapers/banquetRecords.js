@@ -54,9 +54,10 @@ async function scrapeBanquetRecords() {
     ];
 
     for (const format of formats) {
-      console.log(`  Loading ${format.name}: ${format.url}`);
+      try {
+        console.log(`  Loading ${format.name}: ${format.url}`);
 
-      await page.goto(format.url, { waitUntil: 'networkidle2', timeout: 60000 });
+        await page.goto(format.url, { waitUntil: 'networkidle2', timeout: 60000 });
 
       // ページが完全に読み込まれるまで待機
       await new Promise(resolve => setTimeout(resolve, 3000));
@@ -190,12 +191,17 @@ async function scrapeBanquetRecords() {
       }
     }
 
-    console.log(`  Found ${products.length} ${format.name} items`);
-  }
+        console.log(`  Found ${products.length} ${format.name} items`);
+      } catch (formatError) {
+        console.error(`  Error scraping ${format.name}: ${formatError.message}`);
+        // Continue with next format
+      }
+    }
 
   console.log(`  Total found from Banquet Records: ${results.length} items`);
   } catch (error) {
     console.error('Error scraping Banquet Records:', error.message);
+    // Continue with partial results
   } finally {
     if (browser) {
       await browser.close();
