@@ -23,4 +23,4 @@ npm-debug.log*
 
 # Scraped data files
 discogs_marketplace_*.json
-preorders/data/records.json
+# preorders/data/records.json is committed for GitHub Pages deployment
