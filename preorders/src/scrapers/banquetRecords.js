@@ -95,13 +95,13 @@ async function scrapeBanquetRecords() {
           const product = products[i];
 
           try {
-        console.log(`  Fetching product ${i + 1}/${limit}`);
+            console.log(`  Fetching product ${i + 1}/${limit}`);
 
-        await page.goto(product.url, { waitUntil: 'networkidle2', timeout: 30000 });
-        await new Promise(resolve => setTimeout(resolve, 2000));
+            await page.goto(product.url, { waitUntil: 'networkidle2', timeout: 30000 });
+            await new Promise(resolve => setTimeout(resolve, 2000));
 
-        // 商品詳細を取得
-        const details = await page.evaluate(() => {
+            // 商品詳細を取得
+            const details = await page.evaluate(() => {
           const result = {
             artist: '',
             title: '',
@@ -169,27 +169,27 @@ async function scrapeBanquetRecords() {
           }
 
           return result;
-        });
+            });
 
-        const releaseDate = parseBanquetDate(details.releaseDate);
+            const releaseDate = parseBanquetDate(details.releaseDate);
 
-        if (details.artist && details.title && releaseDate) {
-          results.push({
-            artist: details.artist,
-            title: details.title,
-            format: format.name,
-            label: details.label || '',
-            releaseDate,
-            store: 'Banquet Records',
-            url: product.url,
-            imageUrl: details.imageUrl || '',
-            genre: details.genre || ''
-          });
+            if (details.artist && details.title && releaseDate) {
+              results.push({
+                artist: details.artist,
+                title: details.title,
+                format: format.name,
+                label: details.label || '',
+                releaseDate,
+                store: 'Banquet Records',
+                url: product.url,
+                imageUrl: details.imageUrl || '',
+                genre: details.genre || ''
+              });
+            }
+          } catch (error) {
+            console.error(`  Error processing product: ${error.message}`);
+          }
         }
-      } catch (error) {
-        console.error(`  Error processing product: ${error.message}`);
-      }
-    }
 
         console.log(`  Found ${products.length} ${format.name} items`);
       } catch (formatError) {
