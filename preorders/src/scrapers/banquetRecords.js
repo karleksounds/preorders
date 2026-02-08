@@ -44,9 +44,6 @@ async function scrapeBanquetRecords() {
       args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
 
-    const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36');
-
     // 7"とLPの両方を取得
     const formats = [
       { name: '7"', keyword: '7"', url: 'https://www.banquetrecords.com/search?f=seven&t=preOrder&w=480' },
@@ -54,8 +51,13 @@ async function scrapeBanquetRecords() {
     ];
 
     for (const format of formats) {
+      let page;
       try {
         console.log(`  Loading ${format.name}: ${format.url}`);
+
+        // 各フォーマットで新しいページを作成
+        page = await browser.newPage();
+        await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36');
 
         await page.goto(format.url, { waitUntil: 'networkidle2', timeout: 60000 });
 
@@ -195,6 +197,11 @@ async function scrapeBanquetRecords() {
       } catch (formatError) {
         console.error(`  Error scraping ${format.name}: ${formatError.message}`);
         // Continue with next format
+      } finally {
+        // ページをクローズ
+        if (page) {
+          await page.close();
+        }
       }
     }
 
