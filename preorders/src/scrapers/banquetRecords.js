@@ -59,8 +59,8 @@ async function scrapeBanquetRecords() {
 
         await page.goto(format.url, { waitUntil: 'networkidle2', timeout: 60000 });
 
-      // ページが完全に読み込まれるまで待機
-      await new Promise(resolve => setTimeout(resolve, 3000));
+        // ページが完全に読み込まれるまで待機
+        await new Promise(resolve => setTimeout(resolve, 3000));
 
       // 商品情報を抽出
       const products = await page.evaluate((formatKeyword) => {
@@ -87,14 +87,14 @@ async function scrapeBanquetRecords() {
         return items;
       }, format.keyword);
 
-      console.log(`  Found ${products.length} ${format.name} product links`);
+        console.log(`  Found ${products.length} ${format.name} product links`);
 
-    // 各商品ページにアクセス（全件取得）
-    const limit = products.length;
-    for (let i = 0; i < limit; i++) {
-      const product = products[i];
+        // 各商品ページにアクセス（全件取得）
+        const limit = products.length;
+        for (let i = 0; i < limit; i++) {
+          const product = products[i];
 
-      try {
+          try {
         console.log(`  Fetching product ${i + 1}/${limit}`);
 
         await page.goto(product.url, { waitUntil: 'networkidle2', timeout: 30000 });
