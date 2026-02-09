@@ -7,6 +7,10 @@ on:
   # 手動実行も可能
   workflow_dispatch:
 
+# GitHub リポジトリへの書き込み権限を設定
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
