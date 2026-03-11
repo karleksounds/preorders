@@ -44,6 +44,6 @@ jobs:
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🤖 Update preorders data [skip ci]"
+            git commit -m "🤖 Update preorders data"
             git push
           fi
