@@ -16,6 +16,7 @@ npm-debug.log*
 # IDE
 .vscode/
 .idea/
+.claude/
 
 # Build files (keep compiled CSS)
 # If you want to exclude compiled CSS, uncomment below:
