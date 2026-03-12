@@ -6,6 +6,10 @@ on:
       - main
     paths:
       - 'preorders/**'
+  workflow_run:
+    workflows: ["Scrape Preorders"]
+    types:
+      - completed
   # 手動実行も可能
   workflow_dispatch:
 
