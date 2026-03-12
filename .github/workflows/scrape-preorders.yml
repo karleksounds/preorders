@@ -24,12 +24,9 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
-          cache-dependency-path: 'preorders/package-lock.json'
 
       - name: Install dependencies
-        run: |
-          cd preorders
-          npm ci
+        run: npm ci
 
       - name: Run scraper
         run: |

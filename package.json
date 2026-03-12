@@ -28,6 +28,9 @@
     "marketplace",
     "optimizer"
   ],
+  "workspaces": [
+    "preorders"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
