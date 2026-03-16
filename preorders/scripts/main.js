@@ -240,9 +240,11 @@ function createRecordCard(record) {
               ${storesSection.button}
             </div>
           </div>
-          ${genre ? `<div class="genre">${escapeHtml(genre)}</div>` : ''}
-          ${releaseDate ? `<div class="date">${escapeHtml(releaseDate)}</div>` : ''}
-          ${label ? `<div class="label">${escapeHtml(label)}</div>` : ''}
+          <div class="meta">
+            ${genre ? `<div class="genre">${escapeHtml(genre)}</div>` : ''}
+            ${releaseDate ? `<div class="date">${escapeHtml(releaseDate)}</div>` : ''}
+            ${label ? `<div class="label">${escapeHtml(label)}</div>` : ''}
+          </div>
           <div class="actions">
             ${previewButton}
           </div>

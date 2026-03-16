@@ -193,7 +193,7 @@ header {
 
     @media (max-width: 768px) {
       display: grid;
-      grid-template-columns: 100px 1fr;
+      grid-template-columns: 80px 1fr;
       gap: 15px;
     }
   }
@@ -205,8 +205,8 @@ header {
     object-fit: cover;
 
     @media (max-width: 768px) {
-      width: 100px;
-      height: 100px;
+      width: 80px;
+      height: 80px;
     }
   }
 
@@ -219,10 +219,9 @@ header {
     padding: 0;
 
     @media (max-width: 768px) {
-      display: flex;
       flex-direction: column;
       align-items: flex-start;
-      gap: 10px;
+      gap: 4px;
     }
 
     .main {
@@ -236,6 +235,7 @@ header {
         color: $primary-color;
 
         @media (max-width: 768px) {
+          margin: 0;
           font-size: 1rem;
         }
       }
@@ -246,6 +246,7 @@ header {
         color: $primary-color;
 
         @media (max-width: 768px) {
+          padding-bottom: 5px;
           font-size: 0.9rem;
         }
       }
@@ -295,6 +296,19 @@ header {
       }
     }
 
+    .meta {
+      display: contents; // デスクトップ: 透明ラッパー、子要素が .info の直接 flex item として並ぶ
+
+      @media (max-width: 768px) {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 0;
+        font-size: 0.8rem;
+        color: $text-color;
+      }
+    }
+
     .genre {
       width: 150px;
       flex-shrink: 0;
@@ -302,8 +316,14 @@ header {
       color: $text-color;
 
       @media (max-width: 768px) {
+        order: 1;
         width: auto;
-        font-size: 0.85rem;
+        font-size: inherit;
+
+        &::after {
+          content: " /";
+          margin-right: 4px;
+        }
       }
     }
 
@@ -314,8 +334,9 @@ header {
       color: $text-color;
 
       @media (max-width: 768px) {
+        order: 3;
         width: auto;
-        font-size: 0.85rem;
+        font-size: inherit;
       }
     }
 
@@ -327,8 +348,14 @@ header {
       color: $text-color;
 
       @media (max-width: 768px) {
+        order: 2;
         width: auto;
-        font-size: 0.85rem;
+        font-size: inherit;
+
+        &::after {
+          content: " /";
+          margin-right: 4px;
+        }
       }
     }
 
@@ -347,7 +374,7 @@ header {
 
         @media (max-width: 768px) {
           padding: 6px 12px;
-          font-size: 0.8rem;
+          font-size: 0.75rem;
         }
 
         &.btn-preview {
