@@ -163,12 +163,19 @@ function changePage(month) {
 
 // ストアリストを生成（アコーディオン式）
 function createStoresSection(stores, recordId) {
-  if (!stores || stores.length === 0) return { button: '', accordion: '' };
+  if (!stores || stores.length === 0) return { button: '', accordion: '', mobile: '' };
 
-  // 全てアコーディオン式
+  const storeName = s => escapeHtml(s.store.replace(' Records', ''));
+
   const storeItems = stores.map(s => `
     <a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer" class="link">
-      ${escapeHtml(s.store)}
+      ${storeName(s)}
+    </a>
+  `).join('');
+
+  const mobileItems = stores.map(s => `
+    <a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer" class="btn btn-store">
+      ${storeName(s)}
     </a>
   `).join('');
 
@@ -178,7 +185,8 @@ function createStoresSection(stores, recordId) {
     </button>`,
     accordion: `<div class="stores" id="stores-${recordId}">
       ${storeItems}
-    </div>`
+    </div>`,
+    mobile: `<div class="stores-mobile">${mobileItems}</div>`
   };
 }
 
@@ -248,6 +256,7 @@ function createRecordCard(record) {
           <div class="actions">
             ${previewButton}
           </div>
+          ${storesSection.mobile}
         </div>
       </div>
       ${storesSection.accordion}
