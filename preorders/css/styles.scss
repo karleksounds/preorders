@@ -214,27 +214,30 @@ header {
     display: flex;
     flex: 1;
     flex-direction: row;
-    align-items: center;
-    gap: 30px;
+    align-items: flex-start;
+    gap: 20px;
     padding: 0;
 
     @media (max-width: 768px) {
       flex-direction: column;
-      align-items: flex-start;
-      gap: 4px;
+      gap: 0;
     }
 
     .main {
       flex: 1;
       min-width: 0;
 
+      @media (max-width: 768px) {
+        display: contents;
+      }
+
       .artist {
-        margin-bottom: 5px;
         font-size: 1.1rem;
         font-weight: 700;
         color: $primary-color;
 
         @media (max-width: 768px) {
+          order: 1;
           margin: 0;
           font-size: 1rem;
         }
@@ -246,150 +249,81 @@ header {
         color: $primary-color;
 
         @media (max-width: 768px) {
-          padding-bottom: 5px;
+          order: 2;
           font-size: 0.9rem;
         }
       }
 
-      .actions-inline {
-        margin-top: 10px;
+      .store-links {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-top: 8px;
 
         @media (max-width: 768px) {
-          display: none;
+          order: 5;
+          margin-top: 6px;
         }
 
-        .toggle {
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          gap: 5px;
+        .btn-store-link {
+          display: inline-block;
+          padding: 5px 10px;
+          border-radius: 4px;
+          background: $tertiary-color;
+          color: #fff;
+          font-size: 0.8rem;
+          font-weight: 500;
+          text-decoration: none;
           cursor: pointer;
+          transition: background 0.2s;
 
-          .icon {
-            font-size: 0.8rem;
-            transition: transform 0.2s;
+          &:hover {
+            background: $secondary-color;
+            color: #fff;
+            text-decoration: none;
           }
         }
       }
     }
 
-    .btn {
-      display: inline-block;
-      padding: 10px 20px;
-      border-radius: 4px;
-      font-size: 0.9rem;
-      font-weight: 600;
-      text-align: center;
-      text-decoration: none;
-      cursor: pointer;
-      transition: background 0.2s;
-
-      @media (max-width: 768px) {
-        padding: 6px 10px;
-        font-size: 0.75rem;
-      }
-    }
-
-    .btn-store {
-      border: 1px solid $primary-color;
-      background: none;
-      color: $primary-color;
-
-      &:hover {
-        background: $tertiary-color;
-        color: #fff;
-      }
-    }
-
     .meta {
-      display: contents; // デスクトップ: 透明ラッパー、子要素が .info の直接 flex item として並ぶ
-
-      @media (max-width: 768px) {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        gap: 0;
-        font-size: 0.8rem;
-        color: $text-color;
-      }
-    }
-
-    .genre {
-      width: 150px;
-      flex-shrink: 0;
-      font-size: 0.9rem;
-      color: $text-color;
-
-      @media (max-width: 768px) {
-        order: 1;
-        width: auto;
-        font-size: inherit;
-
-        &::after {
-          content: " /";
-          margin-right: 4px;
-        }
-      }
-    }
-
-    .date {
-      width: 100px;
-      flex-shrink: 0;
-      font-size: 0.9rem;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0;
+      margin-top: 10px;
+      font-size: 0.85rem;
       color: $text-color;
 
       @media (max-width: 768px) {
         order: 3;
-        width: auto;
-        font-size: inherit;
+        margin: 10px 0 5px;
+        font-size: 0.8rem;
+      }
+    }
+
+    .genre {
+      color: $text-color;
+
+      &::after {
+        content: " /";
+        margin-right: 4px;
       }
     }
 
     .label {
-      width: 150px;
-      margin-bottom: 0;
-      flex-shrink: 0;
-      font-size: 0.9rem;
       color: $text-color;
 
-      @media (max-width: 768px) {
-        order: 2;
-        width: auto;
-        font-size: inherit;
-
-        &::after {
-          content: " /";
-          margin-right: 4px;
-        }
+      &::after {
+        content: " /";
+        margin-right: 4px;
       }
     }
 
-    .stores-mobile {
-      display: none;
-
-      @media (max-width: 768px) {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        gap: 6px;
-        width: 100%;
-
-        a {
-          display: inline-block !important;
-          padding: 6px 10px !important;
-          border-radius: 4px !important;
-          border: none !important;
-          background: #ffcfcf !important;
-          font-size: 0.75rem !important;
-          font-weight: 500 !important;
-          text-decoration: none !important;
-          cursor: pointer !important;
-        }
-
-        a:hover {
-            color: $primary-color !important;
-        }
-      }
+    .date {
+      color: $text-color;
     }
 
     .actions {
@@ -398,6 +332,7 @@ header {
       gap: 10px;
 
       @media (max-width: 768px) {
+        order: 4;
         width: auto;
       }
 
@@ -415,6 +350,7 @@ header {
           background: #ff6b6b;
           color: white;
           cursor: pointer;
+          border-radius: 4px;
 
           &:hover {
             background: darken(#ff6b6b, 10%);
@@ -429,36 +365,4 @@ header {
     }
   }
 
-  // アコーディオンを画像の横から開始
-  .stores {
-    display: none;
-    width: 100%;
-    gap: 15px;
-    padding: 5px 20px 5px 0;
-    margin-left: 140px; // 画像幅 + gap
-
-    @media (max-width: 768px) {
-      display: none !important;
-    }
-
-    &.show {
-      display: flex;
-    }
-
-    .link {
-      display: inline-block;
-      padding: 8px 20px;
-      border-radius: 4px;
-      background: $tertiary-color;
-      font-size: 0.9rem;
-      font-weight: 600;
-      text-decoration: none;
-      color: #fff;
-      transition: background 0.2s;
-
-      &:hover {
-        background: $secondary-color;
-      }
-    }
-  }
 }

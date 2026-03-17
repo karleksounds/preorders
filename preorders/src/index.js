@@ -3,6 +3,7 @@ const path = require('path');
 const scrapeCargoRecords = require('./scrapers/cargoRecords');
 const scrapeBanquetRecords = require('./scrapers/banquetRecords');
 const scrapeNormanRecords = require('./scrapers/normanRecords');
+const scrapeJunoRecords = require('./scrapers/junoRecords');
 const { addItunesInfo } = require('./services/itunes');
 
 /**
@@ -136,9 +137,12 @@ async function main() {
   // Banquet Recordsから7"を取得
   const banquetResults = await scrapeBanquetRecords();
 
+  // Juno Recordsから取得
+  const junoResults = await scrapeJunoRecords();
+
   // 結果を結合
-  const allResults = [...normanResults, ...cargoResults, ...banquetResults];
-  console.log(`\nTotal 7" records found: ${allResults.length} (Norman: ${normanResults.length}, Cargo: ${cargoResults.length}, Banquet: ${banquetResults.length})`);
+  const allResults = [...normanResults, ...cargoResults, ...banquetResults, ...junoResults];
+  console.log(`\nTotal records found: ${allResults.length} (Norman: ${normanResults.length}, Cargo: ${cargoResults.length}, Banquet: ${banquetResults.length}, Juno: ${junoResults.length})`);
 
   // 重複をグループ化（Norman Recordsを軸に）
   let allRecords = groupDuplicates(allResults);

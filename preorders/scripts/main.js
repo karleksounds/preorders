@@ -161,49 +161,17 @@ function changePage(month) {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-// ストアリストを生成（アコーディオン式）
-function createStoresSection(stores, recordId) {
-  if (!stores || stores.length === 0) return { button: '', accordion: '', mobile: '' };
+// ストアリンクを生成
+function createStoreLinks(stores) {
+  if (!stores || stores.length === 0) return '';
 
-  const storeName = s => escapeHtml(s.store.replace(' Records', ''));
-
-  const storeItems = stores.map(s => `
-    <a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer" class="link">
-      ${storeName(s)}
+  const items = stores.map(s => `
+    <a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer" class="btn-store-link">
+      ${escapeHtml(s.store.replace(' Records', ''))}
     </a>
   `).join('');
 
-  const mobileItems = stores.map(s => `
-    <a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer" class="btn btn-store">
-      ${storeName(s)}
-    </a>
-  `).join('');
-
-  return {
-    button: `<button class="btn btn-store toggle" onclick="toggleStores('${recordId}')">
-      Find in Store <span class="icon">▼</span>
-    </button>`,
-    accordion: `<div class="stores" id="stores-${recordId}">
-      ${storeItems}
-    </div>`,
-    mobile: `<div class="stores-mobile">${mobileItems}</div>`
-  };
-}
-
-// ストアリストの開閉
-function toggleStores(recordId) {
-  const accordion = document.getElementById(`stores-${recordId}`);
-  const button = document.querySelector(`button[onclick="toggleStores('${recordId}')"]`);
-
-  if (accordion && button) {
-    const icon = button.querySelector('.icon');
-    accordion.classList.toggle('show');
-    if (accordion.classList.contains('show')) {
-      icon.textContent = '▲';
-    } else {
-      icon.textContent = '▼';
-    }
-  }
+  return `<div class="store-links">${items}</div>`;
 }
 
 // レコードカードのHTMLを生成
@@ -233,8 +201,8 @@ function createRecordCard(record) {
     ? `<button class="btn btn-preview" onclick="playPreview('${itunesPreviewUrl}', this)">▶ Preview</button>`
     : '';
 
-  // ストアセクション
-  const storesSection = createStoresSection(stores, recordId);
+  // ストアリンク
+  const storeLinks = createStoreLinks(stores);
 
   return `
     <article class="record">
@@ -244,22 +212,18 @@ function createRecordCard(record) {
           <div class="main">
             <div class="artist">${escapeHtml(artist)}</div>
             <div class="title">${escapeHtml(title)} ${format}</div>
-            <div class="actions-inline">
-              ${storesSection.button}
+            <div class="meta">
+              ${genre ? `<div class="genre">${escapeHtml(genre)}</div>` : ''}
+              ${label ? `<div class="label">${escapeHtml(label)}</div>` : ''}
+              ${releaseDate ? `<div class="date">${escapeHtml(releaseDate)}</div>` : ''}
             </div>
-          </div>
-          <div class="meta">
-            ${genre ? `<div class="genre">${escapeHtml(genre)}</div>` : ''}
-            ${releaseDate ? `<div class="date">${escapeHtml(releaseDate)}</div>` : ''}
-            ${label ? `<div class="label">${escapeHtml(label)}</div>` : ''}
+            ${storeLinks}
           </div>
           <div class="actions">
             ${previewButton}
           </div>
-          ${storesSection.mobile}
         </div>
       </div>
-      ${storesSection.accordion}
     </article>
   `;
 }
