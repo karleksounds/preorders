@@ -54,6 +54,33 @@ header {
   color: $secondary-color;
 }
 
+// Search Bar
+.search-bar {
+  justify-content: center;
+  margin: 0 20px 20px;
+
+  input[type="search"] {
+    width: 100%;
+    max-width: 480px;
+    padding: 10px 16px;
+    border: 2px solid $primary-color;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: $text-color;
+    background: $background-color;
+    outline: none;
+    transition: border-color 0.2s;
+
+    &::placeholder {
+      color: lighten($text-color, 30%);
+    }
+
+    &:focus {
+      border-color: $tertiary-color;
+    }
+  }
+}
+
 // Format Toggle
 .format-toggle {
   display: flex;

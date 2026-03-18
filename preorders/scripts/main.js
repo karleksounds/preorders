@@ -3,6 +3,7 @@ let currentAudio = null; // 現在再生中のオーディオ
 let currentMonth = null; // 現在表示中の月
 let currentFormat = '7"'; // 現在表示中のフォーマット
 let monthlyRecords = {}; // 月ごとのレコードデータ
+let currentSearchQuery = ''; // 現在の検索クエリ
 
 // データを読み込み
 async function loadRecords() {
@@ -98,8 +99,15 @@ function getMonthDisplayName(monthKey) {
 
 // フォーマット切り替えボタンを描画
 function renderFormatToggle() {
-  const toggleEl = document.getElementById('format-toggle');
-  toggleEl.style.display = 'flex';
+  document.getElementById('format-toggle').style.display = 'flex';
+  document.getElementById('search-bar').style.display = 'flex';
+}
+
+// 検索処理
+function handleSearch(query) {
+  currentSearchQuery = query.trim().toLowerCase();
+  renderPagination();
+  renderRecords();
 }
 
 // フォーマットを変更
@@ -133,6 +141,13 @@ function changeFormat(format) {
 // ページネーションを描画
 function renderPagination() {
   const paginationEl = document.getElementById('pagination');
+
+  // 検索中はページネーションを非表示
+  if (currentSearchQuery) {
+    paginationEl.style.display = 'none';
+    return;
+  }
+
   const months = Object.keys(monthlyRecords).sort().reverse();
 
   if (months.length <= 1) {
@@ -294,7 +309,35 @@ function renderRecords() {
     return;
   }
 
-  // 現在の月のレコードを取得
+  // 検索モード
+  if (currentSearchQuery) {
+    const q = currentSearchQuery;
+    const results = recordsData.records.filter(r =>
+      r.format === currentFormat &&
+      (
+        (r.artist || '').toLowerCase().includes(q) ||
+        (r.title || '').toLowerCase().includes(q) ||
+        (r.label || '').toLowerCase().includes(q)
+      )
+    );
+
+    if (results.length === 0) {
+      containerEl.innerHTML = `<div class="loading">No results found for "${escapeHtml(currentSearchQuery)}".</div>`;
+      return;
+    }
+
+    containerEl.innerHTML = `
+      <section class="releases">
+        <h2 class="title">${results.length} result${results.length > 1 ? 's' : ''} for "${escapeHtml(currentSearchQuery)}"</h2>
+        <div class="records-grid list-view">
+          ${results.map(record => createRecordCard(record)).join('')}
+        </div>
+      </section>
+    `;
+    return;
+  }
+
+  // 通常モード: 現在の月のレコードを取得
   const records = currentMonth && monthlyRecords[currentMonth]
     ? monthlyRecords[currentMonth]
     : [];
@@ -306,7 +349,7 @@ function renderRecords() {
 
   const monthDisplay = getMonthDisplayName(currentMonth);
 
-  const html = `
+  containerEl.innerHTML = `
     <section class="releases">
       <h2 class="title">${currentFormat} Releases - ${monthDisplay}</h2>
       <div class="records-grid list-view">
@@ -314,8 +357,6 @@ function renderRecords() {
       </div>
     </section>
   `;
-
-  containerEl.innerHTML = html;
 }
 
 // 初期化

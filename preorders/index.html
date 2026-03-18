@@ -24,6 +24,10 @@
         <button class="format-btn" onclick="changeFormat('LP')">LP</button>
       </nav>
 
+      <div class="search-bar" id="search-bar" style="display: none;">
+        <input type="search" id="search-input" placeholder="Search artist, title, label..." oninput="handleSearch(this.value)">
+      </div>
+
       <nav class="pagination" id="pagination" style="display: none;">
         <!-- Pagination will be inserted here by JavaScript -->
       </nav>
