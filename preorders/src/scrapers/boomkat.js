@@ -33,12 +33,12 @@ function parseBoomkatDate(text) {
 
 function detectFormat(formats) {
   for (const f of formats) {
-    if (/\bLP\b/i.test(f)) return 'LP';
+    if (/\bLP\b/i.test(f)) return { format: 'LP', displayFormat: 'LP' };
   }
   for (const f of formats) {
-    if (/7["\u201d]|7\s*inch/i.test(f)) return '7"';
-    if (/12["\u201d]|12\s*inch/i.test(f)) return '7"';
-    if (/10["\u201d]|10\s*inch/i.test(f)) return '7"';
+    if (/7["\u201d]|7\s*inch/i.test(f)) return { format: '7"', displayFormat: '7"' };
+    if (/12["\u201d]|12\s*inch/i.test(f)) return { format: '7"', displayFormat: '12"' };
+    if (/10["\u201d]|10\s*inch/i.test(f)) return { format: '7"', displayFormat: '10"' };
   }
   return null;
 }
@@ -120,14 +120,16 @@ async function scrapeBoomkat() {
           const releaseDate = parseBoomkatDate(item.dateText);
           if (!releaseDate) continue;
 
-          const format = detectFormat(item.formats);
-          if (!format) continue;
+          const formatResult = detectFormat(item.formats);
+          if (!formatResult) continue;
+          const { format, displayFormat } = formatResult;
 
           if (item.artist && item.title) {
             results.push({
               artist: item.artist,
               title: item.title,
               format,
+              displayFormat,
               label: item.label,
               releaseDate,
               store: 'Boomkat',

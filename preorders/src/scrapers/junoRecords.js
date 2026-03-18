@@ -15,10 +15,10 @@ function parseJunoDate(text) {
 }
 
 function detectFormat(text) {
-  if (/\bLP\b/i.test(text)) return 'LP';
-  if (/7["\u201d]/.test(text) || /7\s*inch/i.test(text)) return '7"';
-  if (/12["\u201d]/.test(text) || /12\s*inch/i.test(text)) return '7"'; // 12" → 7"セクション
-  if (/10["\u201d]/.test(text) || /10\s*inch/i.test(text)) return '7"'; // 10" → 7"セクション
+  if (/\bLP\b/i.test(text)) return { format: 'LP', displayFormat: 'LP' };
+  if (/7["\u201d]/.test(text) || /7\s*inch/i.test(text)) return { format: '7"', displayFormat: '7"' };
+  if (/12["\u201d]/.test(text) || /12\s*inch/i.test(text)) return { format: '7"', displayFormat: '12"' };
+  if (/10["\u201d]/.test(text) || /10\s*inch/i.test(text)) return { format: '7"', displayFormat: '10"' };
   return null;
 }
 
@@ -66,8 +66,9 @@ async function scrapeJunoRecords() {
 
           // フォーマット（span.text-primaryの内容から判定）
           const formatText = $el.find('span.text-primary').first().text();
-          const format = detectFormat(formatText);
-          if (!format) return;
+          const formatResult = detectFormat(formatText);
+          if (!formatResult) return;
+          const { format, displayFormat } = formatResult;
 
           // レーベル
           const label = $el.find('a.text-md.text-light[href*="/labels/"]').first().text().trim();
@@ -88,6 +89,7 @@ async function scrapeJunoRecords() {
               artist,
               title,
               format,
+              displayFormat,
               label,
               releaseDate,
               store: 'Juno Records',

@@ -1,4 +1,5 @@
 let recordsData = null;
+let excludeConfig = { genres: [], labels: [] };
 let currentAudio = null; // 現在再生中のオーディオ
 let currentMonth = null; // 現在表示中の月
 let currentFormat = '7"'; // 現在表示中のフォーマット
@@ -20,6 +21,14 @@ async function loadRecords() {
     }
 
     recordsData = await response.json();
+
+    // 除外リストを読み込み
+    try {
+      const excludeRes = await fetch('data/exclude.json');
+      if (excludeRes.ok) excludeConfig = await excludeRes.json();
+    } catch (_) {}
+
+
 
     // Display last update date
     if (recordsData.updatedAt) {
@@ -63,10 +72,13 @@ function groupRecordsByMonth() {
 
   if (!recordsData || !recordsData.records) return;
 
-  // 現在のフォーマットでフィルタリング
-  const filteredRecords = recordsData.records.filter(record =>
-    record.format === currentFormat
-  );
+  // 現在のフォーマット＋除外リストでフィルタリング
+  const filteredRecords = recordsData.records.filter(record => {
+    if (record.format !== currentFormat) return false;
+    if (record.genre && excludeConfig.genres.includes(record.genre)) return false;
+    if (record.label && excludeConfig.labels.includes(record.label)) return false;
+    return true;
+  });
 
   filteredRecords.forEach(record => {
     if (!record.releaseDate) return;
@@ -200,7 +212,8 @@ function createRecordCard(record) {
     imageUrl,
     genre,
     itunesPreviewUrl,
-    format
+    format,
+    displayFormat
   } = record;
 
   // ユニークIDを生成
@@ -226,7 +239,7 @@ function createRecordCard(record) {
         <div class="info">
           <div class="main">
             <div class="artist">${escapeHtml(artist)}</div>
-            <div class="title">${escapeHtml(title)} ${format}</div>
+            <div class="title">${escapeHtml(title)} ${displayFormat || format}</div>
             <div class="meta">
               ${genre ? `<div class="genre">${escapeHtml(genre)}</div>` : ''}
               ${label ? `<div class="label">${escapeHtml(label)}</div>` : ''}
@@ -312,14 +325,14 @@ function renderRecords() {
   // 検索モード
   if (currentSearchQuery) {
     const q = currentSearchQuery;
-    const results = recordsData.records.filter(r =>
-      r.format === currentFormat &&
-      (
-        (r.artist || '').toLowerCase().includes(q) ||
-        (r.title || '').toLowerCase().includes(q) ||
-        (r.label || '').toLowerCase().includes(q)
-      )
-    );
+    const results = recordsData.records.filter(r => {
+      if (r.format !== currentFormat) return false;
+      if (r.genre && excludeConfig.genres.includes(r.genre)) return false;
+      if (r.label && excludeConfig.labels.includes(r.label)) return false;
+      return (r.artist || '').toLowerCase().includes(q) ||
+             (r.title || '').toLowerCase().includes(q) ||
+             (r.label || '').toLowerCase().includes(q);
+    });
 
     if (results.length === 0) {
       containerEl.innerHTML = `<div class="loading">No results found for "${escapeHtml(currentSearchQuery)}".</div>`;
