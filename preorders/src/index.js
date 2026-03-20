@@ -128,6 +128,8 @@ function groupDuplicates(records) {
  */
 async function main() {
   console.log('Starting 7" record scraper...\n');
+  const dataDir = path.join(__dirname, '..', 'data');
+  const dataPath = path.join(dataDir, 'records.json');
 
   // Norman Recordsから7"を取得（優先）
   const normanResults = await scrapeNormanRecords();
@@ -145,8 +147,27 @@ async function main() {
   const boomkatResults = await scrapeBoomkat();
 
   // 結果を結合
-  const allResults = [...normanResults, ...cargoResults, ...banquetResults, ...junoResults, ...boomkatResults];
-  console.log(`\nTotal records found: ${allResults.length} (Norman: ${normanResults.length}, Cargo: ${cargoResults.length}, Banquet: ${banquetResults.length}, Juno: ${junoResults.length}, Boomkat: ${boomkatResults.length})`);
+  const freshResults = [...normanResults, ...cargoResults, ...banquetResults, ...junoResults, ...boomkatResults];
+  console.log(`\nTotal records found: ${freshResults.length} (Norman: ${normanResults.length}, Cargo: ${cargoResults.length}, Banquet: ${banquetResults.length}, Juno: ${junoResults.length}, Boomkat: ${boomkatResults.length})`);
+
+  // 先月以前のデータを既存ファイルから保持
+  const currentYearMonth = new Date().toISOString().slice(0, 7); // "YYYY-MM"
+  let pastRecords = [];
+  if (fs.existsSync(dataPath)) {
+    try {
+      const existing = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+      pastRecords = (existing.records || []).filter(r =>
+        r.releaseDate && r.releaseDate.slice(0, 7) < currentYearMonth
+      );
+      console.log(`Preserved ${pastRecords.length} records from previous months`);
+    } catch (_) {}
+  }
+
+  // 過去月レコードを展開（stores → store形式）してフレッシュデータと結合
+  const pastExpanded = pastRecords.flatMap(r =>
+    (r.stores || []).map(s => ({ ...r, store: s.store, url: s.url, stores: undefined }))
+  );
+  const allResults = [...pastExpanded, ...freshResults];
 
   // 重複をグループ化（Norman Recordsを軸に）
   let allRecords = groupDuplicates(allResults);
@@ -167,7 +188,6 @@ async function main() {
   console.log('iTunes preview information added\n');
 
   // データディレクトリが存在しない場合は作成
-  const dataDir = path.join(__dirname, '..', 'data');
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
@@ -177,8 +197,6 @@ async function main() {
     records: recordsWithItunes,
     updatedAt: new Date().toISOString()
   };
-
-  const dataPath = path.join(dataDir, 'records.json');
   fs.writeFileSync(dataPath, JSON.stringify(outputData, null, 2));
   console.log(`Data saved to ${dataPath}`);
 
