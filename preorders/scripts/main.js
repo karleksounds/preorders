@@ -362,12 +362,31 @@ function renderRecords() {
 
   const monthDisplay = getMonthDisplayName(currentMonth);
 
+  // Group records by releaseDate
+  const byDate = {};
+  records.forEach(record => {
+    const date = record.releaseDate || '';
+    if (!byDate[date]) byDate[date] = [];
+    byDate[date].push(record);
+  });
+
+  const dateGroups = Object.keys(byDate).sort().map(date => {
+    const [year, month, day] = date.split('-');
+    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+                        'July', 'August', 'September', 'October', 'November', 'December'];
+    const dateDisplay = `${parseInt(day)} ${monthNames[parseInt(month) - 1]} ${year}`;
+    return `
+      <div class="date-header">${dateDisplay}</div>
+      <div class="records-grid list-view">
+        ${byDate[date].map(record => createRecordCard(record)).join('')}
+      </div>
+    `;
+  }).join('');
+
   containerEl.innerHTML = `
     <section class="releases">
       <h2 class="title">${currentFormat} Releases - ${monthDisplay}</h2>
-      <div class="records-grid list-view">
-        ${records.map(record => createRecordCard(record)).join('')}
-      </div>
+      ${dateGroups}
     </section>
   `;
 }

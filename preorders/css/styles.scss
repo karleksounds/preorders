@@ -194,6 +194,21 @@ header {
   }
 }
 
+// Date Header
+.date-header {
+  margin: 24px 0 0;
+  padding: 8px 12px;
+  background: $primary-color;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
 // Records Grid (List View Only)
 .records-grid {
   display: grid;
