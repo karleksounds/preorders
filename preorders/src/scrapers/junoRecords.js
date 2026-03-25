@@ -45,9 +45,11 @@ async function scrapeJunoRecords() {
       console.log(`  Fetching page ${pageNum}: ${url}`);
 
       try {
-        await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        // アイテムが表示されるまで待機（最大10秒）
+        await page.waitForSelector('.dv-item.dv-item-music', { timeout: 10000 }).catch(() => {});
 
-        const { items, hasNext } = await page.evaluate((MONTHS) => {
+        const { items } = await page.evaluate((MONTHS) => {
           function parseJunoDateInPage(text) {
             const match = text.match(/(\d{1,2})\s+([A-Za-z]{3})\s+(\d{2,4})/);
             if (!match) return null;
@@ -94,8 +96,7 @@ async function scrapeJunoRecords() {
             } catch (_) {}
           });
 
-          const hasNext = !!document.querySelector('link[rel="next"]');
-          return { items, hasNext };
+          return { items };
         }, MONTHS);
 
         items.forEach(item => {
@@ -104,9 +105,9 @@ async function scrapeJunoRecords() {
 
         console.log(`  Page ${pageNum}: ${items.length} items found`);
 
-        if (!hasNext) break;
+        if (items.length === 0) break;
         pageNum++;
-        await new Promise(resolve => setTimeout(resolve, 1000));
+        await new Promise(resolve => setTimeout(resolve, 1500));
       } catch (err) {
         console.error(`  Error fetching page ${pageNum}:`, err.message);
         break;
