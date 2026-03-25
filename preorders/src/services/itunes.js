@@ -61,8 +61,8 @@ async function addItunesInfo(records) {
   for (const record of records) {
     processed++;
 
-    // 既にプレビューURLがある場合はスキップ
-    if (record.itunesPreviewUrl) {
+    // iTunesのURLは長期有効なのでスキップ、DeezerのURLは期限切れになるので再取得
+    if (record.itunesPreviewUrl && !record.itunesPreviewUrl.includes('dzcdn.net')) {
       results.push(record);
       itunesCount++;
       continue;
