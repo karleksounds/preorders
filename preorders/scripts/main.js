@@ -224,13 +224,10 @@ function createRecordCard(record) {
     ? imageUrl
     : 'images/noimage.jpg';
 
-  // プレビューボタン（iTunes優先、なければDeezerをオンデマンド取得）
-  const hasDeezerPreview = record.hasDeezerPreview;
+  // プレビューボタン（iTunesプレビューがある場合のみ）
   const previewButton = itunesPreviewUrl
     ? `<button class="btn btn-preview" onclick="playPreview('${itunesPreviewUrl}', this)">▶ Preview</button>`
-    : hasDeezerPreview
-      ? `<button class="btn btn-preview" onclick="playPreviewDeezer('${artist.replace(/'/g, "\\'")}', '${title.replace(/'/g, "\\'")}', this)">▶ Preview</button>`
-      : '';
+    : '';
 
   // ストアリンク
   const storeLinks = createStoreLinks(stores);
@@ -264,49 +261,6 @@ function escapeHtml(text) {
   const div = document.createElement('div');
   div.textContent = text;
   return div.innerHTML;
-}
-
-// Deezer APIからオンデマンドでプレビューURLを取得して再生
-async function playPreviewDeezer(artist, title, buttonElement) {
-  if (buttonElement.classList.contains('playing')) {
-    if (currentAudio) { currentAudio.pause(); currentAudio = null; }
-    buttonElement.innerHTML = '▶ Preview';
-    buttonElement.classList.remove('playing');
-    return;
-  }
-
-  buttonElement.innerHTML = '⏳ Loading...';
-  buttonElement.disabled = true;
-
-  try {
-    const query = encodeURIComponent(`${artist} ${title.split('/')[0].trim()}`);
-    const res = await fetch(`https://api.deezer.com/search?q=${query}&limit=1&output=jsonp`, { mode: 'no-cors' })
-      .catch(() => null);
-
-    // CORS非対応のためJSONPで試みる
-    const previewUrl = await new Promise((resolve) => {
-      const cb = `dz_${Date.now()}`;
-      const script = document.createElement('script');
-      window[cb] = (data) => {
-        delete window[cb];
-        document.body.removeChild(script);
-        resolve(data?.data?.[0]?.preview || null);
-      };
-      script.src = `https://api.deezer.com/search?q=${query}&limit=1&output=jsonp&callback=${cb}`;
-      script.onerror = () => { delete window[cb]; document.body.removeChild(script); resolve(null); };
-      document.body.appendChild(script);
-    });
-
-    buttonElement.disabled = false;
-    if (!previewUrl) {
-      buttonElement.innerHTML = '▶ Preview';
-      return;
-    }
-    playPreview(previewUrl, buttonElement);
-  } catch (e) {
-    buttonElement.disabled = false;
-    buttonElement.innerHTML = '▶ Preview';
-  }
 }
 
 // プレビュー再生機能
