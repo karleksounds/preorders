@@ -124,7 +124,8 @@ async function scrapeNormanRecords() {
             label: '',
             releaseDate: '',
             imageUrl: '',
-            genre: ''
+            genre: '',
+            format: ''
           };
 
           // アーティスト名とタイトルを取得
@@ -181,6 +182,13 @@ async function scrapeNormanRecords() {
             result.releaseDate = dateMatch[1].trim();
           }
 
+          // フォーマットをページ内容から検出
+          const pageText = document.body.innerText;
+          if (/\bLP\b/.test(pageText)) result.format = 'LP';
+          else if (/7[""]/.test(pageText) || /7\s*inch/i.test(pageText)) result.format = '7"';
+          else if (/12[""]/.test(pageText) || /12\s*inch/i.test(pageText)) result.format = '7"';
+          else if (/10[""]/.test(pageText) || /10\s*inch/i.test(pageText)) result.format = '7"';
+
           // 画像URLを取得
           const ogImage = document.querySelector('meta[property="og:image"]');
           if (ogImage && ogImage.content) {
@@ -200,7 +208,11 @@ async function scrapeNormanRecords() {
 
         const releaseDate = parseNormanDate(details.releaseDate);
 
-        if (details.artist && details.title) {
+        // ページで検出したフォーマットが一致しない場合はスキップ
+        const detectedFormat = details.format || format.name;
+        if (detectedFormat !== format.name) {
+          console.log(`  Skipping mismatched format: expected ${format.name}, got ${detectedFormat}`);
+        } else if (details.artist && details.title) {
           results.push({
             artist: details.artist,
             title: details.title,
