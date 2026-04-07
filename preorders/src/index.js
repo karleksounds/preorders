@@ -182,6 +182,31 @@ async function main() {
     record.releaseDate = formatDateToYYYYMMDD(record.releaseDate);
   });
 
+  // 既存のiTunes URLをキャッシュ（毎日の再クエリを防ぐ）
+  const existingPreviewMap = {};
+  if (fs.existsSync(dataPath)) {
+    try {
+      const existing = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+      (existing.records || []).forEach(r => {
+        if (r.itunesPreviewUrl) {
+          const key = `${r.artist.toLowerCase()}-${r.title.toLowerCase()}`;
+          existingPreviewMap[key] = r.itunesPreviewUrl;
+        }
+      });
+      console.log(`Loaded ${Object.keys(existingPreviewMap).length} existing iTunes preview URLs`);
+    } catch (_) {}
+  }
+
+  // 既存のプレビューURLを適用（未取得のもののみiTunesに問い合わせ）
+  sortedRecords.forEach(r => {
+    if (!r.itunesPreviewUrl) {
+      const key = `${r.artist.toLowerCase()}-${r.title.toLowerCase()}`;
+      if (existingPreviewMap[key]) {
+        r.itunesPreviewUrl = existingPreviewMap[key];
+      }
+    }
+  });
+
   // iTunes プレビュー情報を追加
   console.log('\nAdding iTunes preview information...');
   const recordsWithItunes = await addItunesInfo(sortedRecords);
