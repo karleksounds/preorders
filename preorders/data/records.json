@@ -1380,6 +1380,25 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/88/7d/f7887d0f-57d8-cc21-cd35-6d88a7221caf/mzaf_8016060740695677563.plus.aac.p.m4a"
     },
     {
+      "artist": "The Lemon Twigs",
+      "title": "Look For Your Mind!",
+      "format": "LP",
+      "label": "Captured Tracks",
+      "releaseDate": "2026-05-08",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/214759-the-lemon-twigs-look-for-your-mind",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/9/214759-the-lemon-twigs-look-for-your-mind.jpg",
+      "genre": "Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/214759-the-lemon-twigs-look-for-your-mind"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/52/4e/cb524e3e-d5e7-aa24-7e48-d2d47f8e1cc6/mzaf_17524266590478356355.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "KNEECAP / \"FENIAN\" Album Listening Party",
       "title": "Monday 27th April at Banquet Records, 6:00pm",
       "format": "LP",
@@ -21517,5 +21536,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-04-10T02:54:12.888Z"
+  "updatedAt": "2026-04-10T07:28:33.317Z"
 }
