@@ -150,24 +150,44 @@ async function main() {
   const freshResults = [...normanResults, ...cargoResults, ...banquetResults, ...junoResults, ...boomkatResults];
   console.log(`\nTotal records found: ${freshResults.length} (Norman: ${normanResults.length}, Cargo: ${cargoResults.length}, Banquet: ${banquetResults.length}, Juno: ${junoResults.length}, Boomkat: ${boomkatResults.length})`);
 
-  // 先月以前のデータを既存ファイルから保持
+  // 既存ファイルから過去月・現在月レコードとiTunes URLを一括ロード
   const currentYearMonth = new Date().toISOString().slice(0, 7); // "YYYY-MM"
   let pastRecords = [];
+  let existingCurrentRecords = [];
+  const existingPreviewMap = {};
   if (fs.existsSync(dataPath)) {
     try {
       const existing = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-      pastRecords = (existing.records || []).filter(r =>
+      const allExisting = existing.records || [];
+      // 先月以前
+      pastRecords = allExisting.filter(r =>
         r.releaseDate && r.releaseDate.slice(0, 7) < currentYearMonth
       );
+      // 今月（スクレイプで消えても保持するため）
+      existingCurrentRecords = allExisting.filter(r =>
+        r.releaseDate && r.releaseDate.slice(0, 7) >= currentYearMonth
+      );
+      // iTunes URLキャッシュ
+      allExisting.forEach(r => {
+        if (r.itunesPreviewUrl) {
+          const key = `${r.artist.toLowerCase()}-${r.title.toLowerCase()}`;
+          existingPreviewMap[key] = r.itunesPreviewUrl;
+        }
+      });
       console.log(`Preserved ${pastRecords.length} records from previous months`);
+      console.log(`Loaded ${existingCurrentRecords.length} existing current-month records`);
+      console.log(`Loaded ${Object.keys(existingPreviewMap).length} existing iTunes preview URLs`);
     } catch (_) {}
   }
 
-  // 過去月レコードを展開（stores → store形式）してフレッシュデータと結合
-  const pastExpanded = pastRecords.flatMap(r =>
-    (r.stores || []).map(s => ({ ...r, store: s.store, url: s.url, stores: undefined }))
-  );
-  const allResults = [...pastExpanded, ...freshResults];
+  // 過去月・現在月レコードを展開（stores → store形式）
+  const expandStores = r =>
+    (r.stores || []).map(s => ({ ...r, store: s.store, url: s.url, stores: undefined }));
+  const pastExpanded = pastRecords.flatMap(expandStores);
+  const currentExpanded = existingCurrentRecords.flatMap(expandStores);
+
+  // 既存データを先に、フレッシュデータを後ろに（フレッシュが優先）
+  const allResults = [...pastExpanded, ...currentExpanded, ...freshResults];
 
   // 重複をグループ化（Norman Recordsを軸に）
   let allRecords = groupDuplicates(allResults);
@@ -181,21 +201,6 @@ async function main() {
   sortedRecords.forEach(record => {
     record.releaseDate = formatDateToYYYYMMDD(record.releaseDate);
   });
-
-  // 既存のiTunes URLをキャッシュ（毎日の再クエリを防ぐ）
-  const existingPreviewMap = {};
-  if (fs.existsSync(dataPath)) {
-    try {
-      const existing = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-      (existing.records || []).forEach(r => {
-        if (r.itunesPreviewUrl) {
-          const key = `${r.artist.toLowerCase()}-${r.title.toLowerCase()}`;
-          existingPreviewMap[key] = r.itunesPreviewUrl;
-        }
-      });
-      console.log(`Loaded ${Object.keys(existingPreviewMap).length} existing iTunes preview URLs`);
-    } catch (_) {}
-  }
 
   // 既存のプレビューURLを適用（未取得のもののみiTunesに問い合わせ）
   sortedRecords.forEach(r => {
