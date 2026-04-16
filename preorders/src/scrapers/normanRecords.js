@@ -208,6 +208,14 @@ async function scrapeNormanRecords() {
 
         const releaseDate = parseNormanDate(details.releaseDate);
 
+        // Cloudflareセキュリティ確認ページを検出した場合はスキップ
+        if (details.title.toLowerCase().includes('performing security') ||
+            details.title.toLowerCase().includes('security verification') ||
+            details.artist.toLowerCase().includes('performing security')) {
+          console.log(`  Skipping Cloudflare security page: ${product.url}`);
+          continue;
+        }
+
         // ページで検出したフォーマットが一致しない場合はスキップ
         const detectedFormat = details.format || format.name;
         if (detectedFormat !== format.name) {
