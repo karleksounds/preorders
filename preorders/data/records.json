@@ -111,6 +111,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/jungle/sunshine/CAI003CD"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/jungle-sunshine-vinyl/1150313-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/e3/d3/e1e3d31f-3a28-9fbb-9440-f8c1596548c1/mzaf_1641268228035929110.plus.aac.p.m4a",
@@ -173,6 +177,25 @@
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/60/c5/3f60c541-03f2-1d6e-29d8-4eb320bf6ee9/mzaf_17076004446315273834.plus.aac.p.m4a",
       "hasDeezerPreview": false
+    },
+    {
+      "artist": "Waterparks",
+      "title": "JINX",
+      "format": "LP",
+      "label": "BMG",
+      "releaseDate": "2026-07-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/waterparks/jinx/964200052",
+      "imageUrl": "https://www.banquetrecords.com/item.png?964200052",
+      "genre": "Pop Punk Punk",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/waterparks/jinx/964200052"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
     },
     {
       "artist": "Kasabian",
@@ -482,6 +505,50 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "GIRL TROUBLE",
+      "title": "As Is",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "K US",
+      "releaseDate": "2026-06-26",
+      "url": "https://www.juno.co.uk/products/girl-trouble-as-is-vinyl/1149478-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1149478-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/girl-trouble-as-is-vinyl/1149478-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/22/c2/ff/22c2ffd3-35eb-2556-9df0-c7b4fab4d0da/mzaf_7922966280721839548.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "MAKESHIFT ART BAR",
+      "title": "Marionette EP",
+      "format": "7\"",
+      "displayFormat": "12\"",
+      "label": "Heist Or Hit",
+      "releaseDate": "2026-06-26",
+      "url": "https://www.juno.co.uk/products/makeshift-art-bar-marionette-ep-vinyl/1150790-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1150790-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/makeshift-art-bar-marionette-ep-vinyl/1150790-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/makeshift-art-bar-marionette-ep-vinyl/1150791-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Pye Corner Audio",
       "title": "More Songs About The Sun",
       "format": "LP",
@@ -726,6 +793,46 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "PLURALONE",
+      "title": "A Drop In The Ocean",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "ORG Music US",
+      "releaseDate": "2026-06-12",
+      "url": "https://www.juno.co.uk/products/pluralone-a-drop-in-the-ocean-vinyl/1149481-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1149481-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/pluralone-a-drop-in-the-ocean-vinyl/1149481-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/d3/53/75d3531a-335b-b313-56e1-362558a6e4ee/mzaf_5294255878021997885.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "DEADBEAT BEAT",
+      "title": "From Here To Ohio",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "We Are Time US",
+      "releaseDate": "2026-06-12",
+      "url": "https://www.juno.co.uk/products/deadbeat-beat-from-here-to-ohio-vinyl/1146877-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1146877-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/deadbeat-beat-from-here-to-ohio-vinyl/1146877-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Fink",
       "title": "The City Is Coming To Erase it All",
       "format": "LP",
@@ -933,6 +1040,26 @@
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/45/ba/2145bad4-bf49-2943-38cf-a630ebd1228a/mzaf_1796751169330659502.plus.aac.p.m4a",
       "hasDeezerPreview": false
+    },
+    {
+      "artist": "OF MONTREAL",
+      "title": "Aethermead",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Polyvinyl US",
+      "releaseDate": "2026-06-05",
+      "url": "https://www.juno.co.uk/products/of-montreal-aethermead-vinyl/1148605-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1148605-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/of-montreal-aethermead-vinyl/1148605-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
     },
     {
       "artist": "Paul McCartney",
@@ -1147,6 +1274,86 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/85/1d/ae851d7e-7393-bd62-e3b5-34e853b24cbe/mzaf_11444739057361527076.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "title": "Gish",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Virgin US",
+      "releaseDate": "2026-05-29",
+      "url": "https://www.juno.co.uk/products/smashing-pumpkins-gish-vinyl/1150326-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1150326-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/smashing-pumpkins-gish-vinyl/1150326-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d9/d5/82/d9d58266-60b0-0c5b-b773-fe7c6b2e9ab9/mzaf_2028372068420269939.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The FOUR EYES",
+      "title": "Earth 2025 EP",
+      "format": "7\"",
+      "displayFormat": "7\"",
+      "label": "Sacramento US",
+      "releaseDate": "2026-05-29",
+      "url": "https://www.juno.co.uk/products/the-four-eyes-earth-2025-ep-vinyl/1146883-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1146883-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-four-eyes-earth-2025-ep-vinyl/1146883-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/67/0c/c9/670cc935-f5f3-47da-c55d-ef8eba01066f/mzaf_7260559993496515648.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "KNOCK KNOCK",
+      "title": "Night School",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Sacramento US",
+      "releaseDate": "2026-05-29",
+      "url": "https://www.juno.co.uk/products/knock-knock-night-school-vinyl/1146891-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1146891-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/knock-knock-night-school-vinyl/1146891-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/24/96/c9249688-ffdc-40c1-d56e-d84ee8537ed7/mzaf_15473080214798193650.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "DRAGGING AN OX THROUGH WATER",
+      "title": "Whole Earth Cataloged",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Mississippi US",
+      "releaseDate": "2026-05-29",
+      "url": "https://www.juno.co.uk/products/dragging-an-ox-through-water-whole-earth-cataloged-vinyl/1148608-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1148608-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/dragging-an-ox-through-water-whole-earth-cataloged-vinyl/1148608-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
       "hasDeezerPreview": false
     },
     {
@@ -1632,6 +1839,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "The SPATULAS",
+      "title": "A Blue Dot",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Post Present Medium",
+      "releaseDate": "2026-05-15",
+      "url": "https://www.juno.co.uk/products/the-spatulas-a-blue-dot-vinyl/1148599-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1148599-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-spatulas-a-blue-dot-vinyl/1148599-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The Lemon Twigs",
       "title": "Look For Your Mind!",
       "format": "LP",
@@ -2009,6 +2236,65 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "GIRLI",
+      "title": "it's just my opinion",
+      "format": "LP",
+      "label": "Believe Recordings",
+      "releaseDate": "2026-05-08",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/girli/it%27s-just-my-opinion/BELIEVE137CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BELIEVE137CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/girli/it%27s-just-my-opinion/BELIEVE137CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/b8/12/80b812cf-16ed-becc-a16c-5565aedccae8/mzaf_8646651157411041335.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "PHANTASTIC FERNITURE",
+      "title": "Change My Mind",
+      "format": "7\"",
+      "displayFormat": "7\"",
+      "label": "Polyvinyl US",
+      "releaseDate": "2026-05-08",
+      "url": "https://www.juno.co.uk/products/phantastic-ferniture-change-my-mind-vinyl/1147433-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1147433-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/phantastic-ferniture-change-my-mind-vinyl/1147433-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/f5/d5/80f5d5de-95ed-b053-b4e9-c06cef423929/mzaf_4275185083675215993.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "BLACK VEIL BRIDES",
+      "title": "Vindicate",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Spinefarm",
+      "releaseDate": "2026-05-08",
+      "url": "https://www.juno.co.uk/products/black-veil-brides-vindicate-vinyl/1145615-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1145615-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/black-veil-brides-vindicate-vinyl/1145615-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/9b/d1/089bd122-26b6-bdec-2622-8f5e7cd7991b/mzaf_17100841345511976786.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -3342,6 +3628,45 @@
       "hasDeezerPreview": true
     },
     {
+      "artist": "PARKWALKER",
+      "title": "THE EXTRA MILE",
+      "format": "LP",
+      "label": "THIS CHARMING MAN RECORDS",
+      "releaseDate": "2026-05-01",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/173013/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00173013.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/173013/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/19/83/3e1983b3-00fb-8300-b4b0-6e65edfba983/mzaf_10169873209815825994.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "GO HIRANO",
+      "title": "The Habit",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Black Editions US",
+      "releaseDate": "2026-05-01",
+      "url": "https://www.juno.co.uk/products/go-hirano-the-habit-vinyl/1146889-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1146889-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/go-hirano-the-habit-vinyl/1146889-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/a2/62/e5a2620c-f77f-a758-2a58-5556decbf1e7/mzaf_12145609849196049188.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "MOLDEN & SEILER",
       "title": "De Zwidan Zwa Im Broda",
       "format": "LP",
@@ -3431,6 +3756,10 @@
         {
           "store": "Cargo Records",
           "url": "https://www.cargo-records.de/en/item/175429/katalog_art.123.html"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/blood-sucking-maniacs/blood-sucking-maniacs/POB080LP"
         }
       ],
       "itunesPreviewUrl": "",
@@ -3716,6 +4045,10 @@
         {
           "store": "Cargo Records",
           "url": "https://www.cargo-records.de/en/item/175430/katalog_art.123.html"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/flying-mojito-bros/just-passing-through/UR438LP-C1"
         }
       ],
       "itunesPreviewUrl": "",
@@ -4134,6 +4467,10 @@
         {
           "store": "Cargo Records",
           "url": "https://www.cargo-records.de/en/item/175531/katalog_art.123.html"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/portrayal-of-guilt/...beginning-of-the-end/RFC297LP-C4"
         }
       ],
       "itunesPreviewUrl": "",
@@ -4286,6 +4623,10 @@
         {
           "store": "Cargo Records",
           "url": "https://www.cargo-records.de/en/item/175020/katalog_art.123.html"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/tempers/delusion/FOL01LP-C1"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6039,6 +6380,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/brontes/brontes/LNFG217R"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/brontes-vinyl/1123527-01/"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6993,6 +7338,14 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/failure/location-lost/FLR012H"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/failure-location-lost-vinyl/1139458-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/failure-location-lost-vinyl/1139459-01/"
         }
       ],
       "itunesPreviewUrl": "",
@@ -7493,6 +7846,785 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "TNT",
+      "title": "Vol 10 - Hey Ya / I like the way...",
+      "format": "7\"",
+      "label": "TNT",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/tnt/vol-10---hey-ya-i-like-the-way.../TNT010",
+      "imageUrl": "https://www.banquetrecords.com/item.png?TNT010",
+      "genre": "Hip Hop",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/tnt/vol-10---hey-ya-i-like-the-way.../TNT010"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Nicholas Craven / Ransom, Boldy James",
+      "title": "Salvation For The Wicked",
+      "format": "LP",
+      "label": "Next Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/ransom%2C-boldy-james-nicholas-craven/salvation-for-the-wicked/NXT150BLP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?NXT150BLP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ransom%2C-boldy-james-nicholas-craven/salvation-for-the-wicked/NXT150BLP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/a6/9f/04a69f0f-c795-8a82-312e-f959bb33fbd6/mzaf_17511942749690793917.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "LICE",
+      "title": "Miami Lice: Season Four",
+      "format": "LP",
+      "label": "Rhymesayers Entertainment",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/lice/miami-lice%3A-season-four/RSE429LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?RSE429LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/lice/miami-lice%3A-season-four/RSE429LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/0d/16/610d16d3-3419-1d29-8c34-97681dfe4705/mzaf_17276661550659026892.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Child Actor / Fatboi Sharif",
+      "title": "Crayola Circles",
+      "format": "LP",
+      "label": "Backwoodz Studioz / Rhymesayers",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/fatboi-sharif-child-actor/crayola-circles/BWZ814LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BWZ814LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/fatboi-sharif-child-actor/crayola-circles/BWZ814LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/d8/45/cbd84593-07d6-119e-c9b2-28b5748dbf06/mzaf_6765295508496536310.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Espen Reinertsen",
+      "title": "Venus Er I Håret",
+      "format": "LP",
+      "label": "Susannasonata",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/espen-reinertsen/venus-er-i-haret/SONATALP098",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SONATALP098",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/espen-reinertsen/venus-er-i-haret/SONATALP098"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Donald Beaman",
+      "title": "Fog On Mirror Glass",
+      "format": "LP",
+      "label": "Royal Oakie",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/donald-beaman/fog-on-mirror-glass/DE0052ROLP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DE0052ROLP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/donald-beaman/fog-on-mirror-glass/DE0052ROLP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/7f/ad/3b7fad92-9cc8-1e43-ec30-a37651928f57/mzaf_9698016104809404983.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Daniel Blumberg",
+      "title": "Sotto le Nuvole (Pompeii: Below The Clouds) (Original Motion Picture Soundtrack)",
+      "format": "LP",
+      "label": "Otoroku",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/daniel-blumberg/sotto-le-nuvole-%28pompeii%3A-below-the-clouds%29-%28original-motion-picture-soundtrack%29/ROKU048LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ROKU048LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/daniel-blumberg/sotto-le-nuvole-%28pompeii%3A-below-the-clouds%29-%28original-motion-picture-soundtrack%29/ROKU048LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/bf/1b/25bf1ba9-6d20-ed7b-570d-e47cc2aa82fe/mzaf_3039323287305978490.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Crying Loser",
+      "title": "The Ick",
+      "format": "LP",
+      "label": "We Go To 11",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/crying-loser/the-ick/WGT11LP001V",
+      "imageUrl": "https://www.banquetrecords.com/item.png?WGT11LP001V",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/crying-loser/the-ick/WGT11LP001V"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/d7/fb/02d7fb2c-8e64-8886-08a1-5683c80bec97/mzaf_17298595296070614902.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Carla Dal Forno",
+      "title": "Confession",
+      "format": "LP",
+      "label": "Kallista Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/carla-dal-forno/confession/KALLISTALP003",
+      "imageUrl": "https://www.banquetrecords.com/item.png?KALLISTALP003",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/carla-dal-forno/confession/KALLISTALP003"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/c6/42/fac642c3-111b-ed15-467e-1288777f26c6/mzaf_18208976888156029288.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Caravan Palace",
+      "title": "Robot (10th Anniversary)",
+      "format": "LP",
+      "label": "Wagram Music",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/caravan-palace/robot-%2810th-anniversary%29/3493166",
+      "imageUrl": "https://www.banquetrecords.com/item.png?3493166",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/caravan-palace/robot-%2810th-anniversary%29/3493166"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Soda Stereo",
+      "title": "Sueno Stereo",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/soda-stereo/sueno-stereo/MOVLP3984C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP3984C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/soda-stereo/sueno-stereo/MOVLP3984C"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/1c/09/391c09a7-9975-009b-0b17-8ffb1fefda82/mzaf_10075498391200225322.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Soda Stereo",
+      "title": "Dynamo",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/soda-stereo/dynamo/MOVLP3983C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP3983C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/soda-stereo/dynamo/MOVLP3983C"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/51/ef/f0/51eff089-0f22-1e4f-131a-0cdfed9fcb7a/mzaf_3989441703195684111.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Soda Stereo",
+      "title": "Comfort Y Musica Para Volar",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/soda-stereo/comfort-y-musica-para-volar/MOVLP3985C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP3985C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/soda-stereo/comfort-y-musica-para-volar/MOVLP3985C"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/30/12/a3/3012a36e-814d-a7e7-0c3d-dfd34616caf0/mzaf_11844949311912899511.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Druid",
+      "title": "Toward The Sun",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/druid/toward-the-sun/MOVLP3605C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP3605C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/druid/toward-the-sun/MOVLP3605C"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/4a/2a/a9/4a2aa9b9-feed-e857-36d7-1bc25f6855f3/mzaf_1906662941151518425.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Eve 6",
+      "title": "Eve 6",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/eve-6/eve-6/MOVLP4013C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP4013C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/eve-6/eve-6/MOVLP4013C"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b2/98/41/b29841c3-0b45-d07e-02d0-a2de8390b429/mzaf_13798063216524982165.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Original Soundtrack",
+      "title": "Stone Killer",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/original-soundtrack/stone-killer/MOVATM453C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVATM453C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/original-soundtrack/stone-killer/MOVATM453C"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a1/73/1f/a1731fd3-1abb-a3d4-5c98-a1c7aa47ae35/mzaf_9692785579524116718.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Roy Orbison",
+      "title": "Monument Singles Collection 1960-64",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/roy-orbison/monument-singles-collection-1960-64/MOVLP350C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP350C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/roy-orbison/monument-singles-collection-1960-64/MOVLP350C"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Oonagh Haines",
+      "title": "Not Not Pretending",
+      "format": "LP",
+      "label": "moli del tro",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/oonagh-haines/not-not-pretending/MDT015",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MDT015",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/oonagh-haines/not-not-pretending/MDT015"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Helen Ripley-Marshall",
+      "title": "Green Chaos",
+      "format": "LP",
+      "label": "Fresh Hold Releases",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/helen-ripley-marshall/green-chaos/FH003",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FH003",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/helen-ripley-marshall/green-chaos/FH003"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5b/a5/5c/5ba55cc6-4768-1e06-fa69-155b1373be95/mzaf_15310206153500491094.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Daniel Dor / Nitai Hershkovits",
+      "title": "Found & Found",
+      "format": "LP",
+      "label": "Circus Company",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/nitai-hershkovits-daniel-dor/found-%26-found/CCS141",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CCS141",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/nitai-hershkovits-daniel-dor/found-%26-found/CCS141"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/9c/0f/4f9c0f05-e75e-80ad-38ab-e6ad1c8cbae8/mzaf_13519702638076342947.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Gentle People",
+      "title": "Soundtracks For Living (Expanded Edition)",
+      "format": "LP",
+      "label": "WRWTFWW Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-gentle-people/soundtracks-for-living-%28expanded-edition%29/WRWTFWW122",
+      "imageUrl": "https://www.banquetrecords.com/item.png?WRWTFWW122",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-gentle-people/soundtracks-for-living-%28expanded-edition%29/WRWTFWW122"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/e9/17/7de91757-c609-bde7-45f4-2ba2c71709e9/mzaf_7092077561010641490.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Schwarz / Wesseltoft",
+      "title": "Duo",
+      "format": "LP",
+      "label": "Mule Musiq",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/wesseltoft-schwarz/duo/MULEMUSIQ303",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MULEMUSIQ303",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/wesseltoft-schwarz/duo/MULEMUSIQ303"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/20/29/36/202936ee-5b83-c88d-5c63-2a463e862421/mzaf_12744653787999732883.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Terror",
+      "title": "Still Suffer",
+      "format": "LP",
+      "label": "Flatspot Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/terror/still-suffer/FSR92LP-C9",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FSR92LP-C9",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/terror/still-suffer/FSR92LP-C9"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/a4/2e/7ba42e6b-87cf-a963-bf3e-8a3bbc20c2e3/mzaf_5310765337691570317.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Angelo De Augustine",
+      "title": "Angel in Plainclothes",
+      "format": "LP",
+      "label": "Asthmatic Kitty Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/angelo-de-augustine/angel-in-plainclothes/AKR155LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?AKR155LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/angelo-de-augustine/angel-in-plainclothes/AKR155LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/15/78/bf15782c-6d3b-e01a-5d5c-1c9e1b03e29c/mzaf_6544490906133685904.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "OD Bongo",
+      "title": "Bongoville",
+      "format": "LP",
+      "label": "Carton Records / Zamzamrec / Prix Libre / Basalte",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/od-bongo/bongoville/ROND9CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ROND9CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/od-bongo/bongoville/ROND9CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Jean Claudric",
+      "title": "Aznavour Symphonique",
+      "format": "LP",
+      "label": "Anouche Record",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/jean-claudric/aznavour-symphonique/AR202601C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?AR202601C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/jean-claudric/aznavour-symphonique/AR202601C"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Hrishikesh Hirway",
+      "title": "In the Last Hour of Light",
+      "format": "LP",
+      "label": "Keeled Scales",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/hrishikesh-hirway/in-the-last-hour-of-light/KS083LP-C1",
+      "imageUrl": "https://www.banquetrecords.com/item.png?KS083LP-C1",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/hrishikesh-hirway/in-the-last-hour-of-light/KS083LP-C1"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/93/cc/fa93cc90-7f53-355f-d330-7a2ef2608b35/mzaf_13246738853287757885.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Glen Hansard",
+      "title": "Don+t Settle (Vol. 1 - Transmissions East)",
+      "format": "LP",
+      "label": "Plateau Records (Atc)",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/glen-hansard/don%2Bt-settle-%28vol.-1---transmissions-east%29/PLATEAU75LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?PLATEAU75LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/glen-hansard/don%2Bt-settle-%28vol.-1---transmissions-east%29/PLATEAU75LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "The Rapture",
+      "title": "In The Grace Of Your Love",
+      "format": "LP",
+      "label": "DFA Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-rapture/in-the-grace-of-your-love/DFA2284LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DFA2284LP",
+      "genre": "Electro Indie Albums",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-rapture/in-the-grace-of-your-love/DFA2284LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/09/d1/03/09d10322-c63c-1701-b830-715cfb2dcac0/mzaf_7996374983172211245.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Atjazz",
+      "title": "Starbase 17",
+      "format": "LP",
+      "label": "Atjazz Record Company",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/atjazz/starbase-17/ARC1974V",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ARC1974V",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/atjazz/starbase-17/ARC1974V"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "A. G. Cook",
+      "title": "The Moment (The Score)",
+      "format": "LP",
+      "label": "A24 Music",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/a.-g.-cook/the-moment-%28the-score%29/A24M057LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?A24M057LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/a.-g.-cook/the-moment-%28the-score%29/A24M057LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/d7/32/a0d73205-2780-de8c-819f-8602a45ee3fc/mzaf_2880907294145385204.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Euphoria",
+      "title": "A Gift From Euphoria",
+      "format": "LP",
+      "label": "Jackpot Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/euphoria/a-gift-from-euphoria/JPR124LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?JPR124LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/euphoria/a-gift-from-euphoria/JPR124LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/8d/73/308d7396-fb20-481b-5cd7-62c8eb5995f6/mzaf_17050700627280821077.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Gia Margaret",
+      "title": "Singing",
+      "format": "LP",
+      "label": "Jagjaguwar",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/gia-margaret/singing/JAG384LP-C1",
+      "imageUrl": "https://www.banquetrecords.com/item.png?JAG384LP-C1",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/gia-margaret/singing/JAG384LP-C1"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "The Reds, Pinks and Purples",
+      "title": "Acknowledge Kindness",
+      "format": "LP",
+      "label": "Fire Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-reds%2C-pinks-and-purples/acknowledge-kindness/FIRELP818D",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FIRELP818D",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-reds%2C-pinks-and-purples/acknowledge-kindness/FIRELP818D"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/27/13/ad271363-3b02-c6ab-db15-9c56e249b56a/mzaf_5711089895277495955.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SRC",
+      "title": "Milestones",
+      "format": "LP",
+      "label": "Jackpot Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/src/milestones/JPR127LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?JPR127LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/src/milestones/JPR127LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Irmin Schmidt",
+      "title": "Requiem",
+      "format": "LP",
+      "label": "Mute",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/irmin-schmidt/requiem/CDFDSPOON70",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CDFDSPOON70",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/irmin-schmidt/requiem/CDFDSPOON70"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Parliament",
+      "title": "Osmium Deluxe",
+      "format": "LP",
+      "label": "Demon Records",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/parliament/osmium-deluxe/DEMREC1188X",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DEMREC1188X",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/parliament/osmium-deluxe/DEMREC1188X"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Avital Rolnick",
+      "title": "The Space Within",
+      "format": "LP",
+      "label": "A Colourful Storm",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/avital-rolnick/the-space-within/ACOLOUR049",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ACOLOUR049",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/avital-rolnick/the-space-within/ACOLOUR049"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Gareth Donkin",
+      "title": "Extraordinary",
+      "format": "LP",
+      "label": "Drink Sum Wtr",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/gareth-donkin/extraordinary/DSW026LP-C1",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DSW026LP-C1",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/gareth-donkin/extraordinary/DSW026LP-C1"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/7c/76/8e7c7677-5abb-740e-f843-bc7b27c73f11/mzaf_16432587257050158113.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "VALVE",
+      "title": "Half-Life: Alyx (Official Game Soundtrack)",
+      "format": "LP",
+      "label": "Ipecac Recordings",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/valve/half-life%3A-alyx-%28official-game-soundtrack%29/IPC225LP-C2",
+      "imageUrl": "https://www.banquetrecords.com/item.png?IPC225LP-C2",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/valve/half-life%3A-alyx-%28official-game-soundtrack%29/IPC225LP-C2"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/71/f5/9671f560-f6b6-95a8-667d-29207e235734/mzaf_6582170725858282859.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Mitchum Yacoub",
+      "title": "A Way In",
+      "format": "LP",
+      "label": "All-Town Sound (Colemine)",
+      "releaseDate": "2026-04-24",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/mitchum-yacoub/a-way-in/ATS004LP-C1",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ATS004LP-C1",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/mitchum-yacoub/a-way-in/ATS004LP-C1"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The Cure",
       "title": "Boys Don't Cry",
       "format": "LP",
@@ -7506,6 +8638,857 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/the-cure/boys-don%27t-cry/5732236"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Bikini Kill",
+      "title": "I Like F**king / I Hate Danger",
+      "format": "7\"",
+      "label": "Bikini Kill",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215273-bikini-kill-i-like-fking-i-hate",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/23/215273-bikini-kill-i-like-fking-i-hate.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215273-bikini-kill-i-like-fking-i-hate"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/b1/4d/4ab14d71-f15b-db05-4419-a83e2762bc8d/mzaf_9017806609491706778.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Bikini Kill",
+      "title": "The Anti-Pleasure Dissertation",
+      "format": "7\"",
+      "label": "Bikini Kill",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215272-bikini-kill-the-antipleasure-dissertation",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/22/215272-bikini-kill-the-antipleasure-dissertation.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215272-bikini-kill-the-antipleasure-dissertation"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/bikini-kill/the-anti-pleasure-dissertation/BK07"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Common Saints",
+      "title": "Idol Eyes / Summer Son",
+      "format": "7\"",
+      "label": "Starsonics",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215264-common-saints-idol-eyes-summer-son",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/14/215264-common-saints-idol-eyes-summer-son.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215264-common-saints-idol-eyes-summer-son"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6a/82/37/6a823757-4661-26da-e7ae-7a38af2968c5/mzaf_17478664814345862481.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Air Miami / Colourbox",
+      "title": "Complication Opposition",
+      "format": "7\"",
+      "label": "4AD",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215234-air-miami-colourbox-complication-opposition",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/234/215234-air-miami-colourbox-complication-opposition.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215234-air-miami-colourbox-complication-opposition"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/colourbox-air-miami/complication-opposition/4AD0901S"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "They Might Be Giants",
+      "title": "stelluB / Sapphire Bullets of Pure Love",
+      "format": "7\"",
+      "label": "Idlewild",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215246-they-might-be-giants-stellub-sapphire-bullets-of-pure",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/246/215246-they-might-be-giants-stellub-sapphire-bullets-of-pure.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215246-they-might-be-giants-stellub-sapphire-bullets-of-pure"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "They Might Be Giants",
+      "title": "Lazy / Buckle Down, Winsocki",
+      "format": "7\"",
+      "label": "Idlewild",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215240-they-might-be-giants-lazy-buckle-down-winsocki",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/240/215240-they-might-be-giants-lazy-buckle-down-winsocki.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215240-they-might-be-giants-lazy-buckle-down-winsocki"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/79/5b/3f795b9d-9ed8-b79e-ade0-7e6ba5c62b37/mzaf_15659205101598813385.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Sleaford Mods feat. Aldous Harding",
+      "title": "Elitest G.O.A.T. (The Prodigy Acid Thunder Mix)",
+      "format": "7\"",
+      "label": "Rough Trade",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215236-sleaford-mods-feat-aldous-harding-elitest-goat-the-prodigy-acid",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/236/215236-sleaford-mods-feat-aldous-harding-elitest-goat-the-prodigy-acid.jpg",
+      "genre": "House",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215236-sleaford-mods-feat-aldous-harding-elitest-goat-the-prodigy-acid"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "The Valdons",
+      "title": "All Day Long / Love Me, Leave Me",
+      "format": "7\"",
+      "label": "Secret Stash",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215228-the-valdons-all-day-long-love-me",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/228/215228-the-valdons-all-day-long-love-me.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215228-the-valdons-all-day-long-love-me"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Raekwon",
+      "title": "Rich & Black ft Nas / Crane Style ft Busta Rhymes",
+      "format": "7\"",
+      "label": "Ice H2o Records",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215224-raekwon-rich-black-ft-nas-crane",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/224/215224-raekwon-rich-black-ft-nas-crane.jpg",
+      "genre": "Hip-Hop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215224-raekwon-rich-black-ft-nas-crane"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Pratt & Moody and Cold Diamond & Mink",
+      "title": "Hard Way To Live / You Bring Me Joy",
+      "format": "7\"",
+      "label": "Timmion",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/223/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Orcutt Shelley Miller Yow",
+      "title": "Hot Head / A Man Needs A Maid",
+      "format": "7\"",
+      "label": "Silver Current Records",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215195-orcutt-shelley-miller-yow-hot-head-a-man-needs",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/195/215195-orcutt-shelley-miller-yow-hot-head-a-man-needs.jpg",
+      "genre": "Shoegaze",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215195-orcutt-shelley-miller-yow-hot-head-a-man-needs"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Bramwell",
+      "title": "Problems",
+      "format": "7\"",
+      "label": "Precious Recordings",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215117-bramwell-problems",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/117/215117-bramwell-problems.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215117-bramwell-problems"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "No Peeling",
+      "title": "EP 2",
+      "format": "7\"",
+      "label": "Wrong Speed Records",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215110-no-peeling-ep-2",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/110/215110-no-peeling-ep-2.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215110-no-peeling-ep-2"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/no-peeling/ep-2/WSR085"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Kendra Morris",
+      "title": "Flat Tire",
+      "format": "7\"",
+      "label": "Karma Chief Records",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215107-kendra-morris-flat-tire",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/107/215107-kendra-morris-flat-tire.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215107-kendra-morris-flat-tire"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/kendra-morris/flat-tire/KCR134-C1"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Big Break",
+      "title": "Exile On Exchange St",
+      "format": "7\"",
+      "label": "Wrong Speed Records",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/209440-big-break-exile-on-exchange-st",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/190/209440-big-break-exile-on-exchange-st.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/209440-big-break-exile-on-exchange-st"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/big-break/exile-on-exchange-st/WSR078"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Baby Charles",
+      "title": "I Bet You Look Good On The Dancefloor / Time Wasting",
+      "format": "7\"",
+      "label": "Record Kicks",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215101-baby-charles-i-bet-you-look-good",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/101/215101-baby-charles-i-bet-you-look-good.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215101-baby-charles-i-bet-you-look-good"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/baby-charles/i-bet-you-look-good-on-the-dancefloor-time-wasting/RK45014-26"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Thee Headcoats / Thee Headcoatees",
+      "title": "Jim Bowie / As The Broken Tree Begins To Fall",
+      "format": "7\"",
+      "label": "Spinout Nuggets",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215031-thee-headcoats-thee-headcoatees-jim-bowie-as-the-broken",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/31/215031-thee-headcoats-thee-headcoatees-jim-bowie-as-the-broken.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215031-thee-headcoats-thee-headcoatees-jim-bowie-as-the-broken"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Wild Billy Childish & The North Kent Folkways Revival",
+      "title": "House of The Rising Sun / Black Girl",
+      "format": "7\"",
+      "label": "Spinout Nuggets",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215009-wild-billy-childish-the-north-house-of-the-rising-sun",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/9/215009-wild-billy-childish-the-north-house-of-the-rising-sun.jpg",
+      "genre": "Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215009-wild-billy-childish-the-north-house-of-the-rising-sun"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Devo",
+      "title": "Nitrous Nightmare Halloween Live '75",
+      "format": "LP",
+      "label": "Futurismo",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215163-devo-nitrous-nightmare-halloween-live-75",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/163/215163-devo-nitrous-nightmare-halloween-live-75.jpg",
+      "genre": "New Wave",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215163-devo-nitrous-nightmare-halloween-live-75"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Osees",
+      "title": "Cara Maluco",
+      "format": "7\"",
+      "label": "Deathgod Records",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215191-osees-cara-maluco",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/191/215191-osees-cara-maluco.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215191-osees-cara-maluco"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "TOPS",
+      "title": "Empty Seats",
+      "format": "7\"",
+      "label": "Ghostly International",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/193677-tops-empty-seats",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/177/193677-tops-empty-seats.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/193677-tops-empty-seats"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "The Black Wizards",
+      "title": "Killing The Buzz",
+      "format": "7\"",
+      "label": "Hassle",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215384-the-black-wizards-killing-the-buzz",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/134/215384-the-black-wizards-killing-the-buzz.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215384-the-black-wizards-killing-the-buzz"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Andy Crofts",
+      "title": "Blue",
+      "format": "7\"",
+      "label": "Colorama Records",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215295-andy-crofts-blue",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/45/215295-andy-crofts-blue.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215295-andy-crofts-blue"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/andy-crofts/blue/RAMAVS063"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Baccara",
+      "title": "Yes Sir, I Can Boogie",
+      "format": "7\"",
+      "label": "Sony",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215287-baccara-yes-sir-i-can-boogie",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/37/215287-baccara-yes-sir-i-can-boogie.jpg",
+      "genre": "House",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215287-baccara-yes-sir-i-can-boogie"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/baccara/yes-sir%2C-i-can-boogie/19958450397"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/60/45/58/60455857-dcbb-75ee-7f53-5731b0c7913d/mzaf_4764297907560349406.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Hooterville Trolley / The Fog",
+      "title": "No Silver Bird / Grey Zone",
+      "format": "7\"",
+      "label": "Uprising",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/214981-no-silver-bird-the-fog-the-hooterville-trolley-grey-zone",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/231/214981-no-silver-bird-the-fog-the-hooterville-trolley-grey-zone.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/214981-no-silver-bird-the-fog-the-hooterville-trolley-grey-zone"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Iceage",
+      "title": "For Love of Grace & the Hereafter",
+      "format": "LP",
+      "label": "Mexican Summer",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215192-iceage-for-love-of-grace-the",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/192/215192-iceage-for-love-of-grace-the.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215192-iceage-for-love-of-grace-the"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Kurt Vile",
+      "title": "Philadelphia's Been Good To Me",
+      "format": "LP",
+      "label": "Verve",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215194-kurt-vile-philadelphias-been-good-to-me",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/194/215194-kurt-vile-philadelphias-been-good-to-me.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215194-kurt-vile-philadelphias-been-good-to-me"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Reality Awaits",
+      "format": "LP",
+      "label": "Columbia",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215231-the-strokes-reality-awaits",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/231/215231-the-strokes-reality-awaits.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215231-the-strokes-reality-awaits"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-strokes/reality-awaits/19958448322"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/e5/26/4de52614-72e9-8e61-572a-7fd9a794f688/mzaf_10880856398271785470.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Warning",
+      "title": "Rituals of Shame",
+      "format": "LP",
+      "label": "Relapse",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/214783-warning-rituals-of-shame",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/33/214783-warning-rituals-of-shame.jpg",
+      "genre": "Metal",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/214783-warning-rituals-of-shame"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "BLARF",
+      "title": "Film Scores For Films That Don't Exist",
+      "format": "LP",
+      "label": "Stones Throw",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215161-blarf-film-scores-for-films-that",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/161/215161-blarf-film-scores-for-films-that.jpg",
+      "genre": "Neo-classical",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215161-blarf-film-scores-for-films-that"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "MONO",
+      "title": "Snowdrop",
+      "format": "LP",
+      "label": "Temporary Residence",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215248-mono-snowdrop",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/248/215248-mono-snowdrop.jpg",
+      "genre": "Shoegaze",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215248-mono-snowdrop"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Hella",
+      "title": "Hold Your Horse Is",
+      "format": "LP",
+      "label": "Frenetic",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/82837-hella-hold-your-horse-is",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/87/82837-hella-hold-your-horse-is.jpg",
+      "genre": "Shoegaze",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/82837-hella-hold-your-horse-is"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "David Eugene Edwards",
+      "title": "Mercurial Silence",
+      "format": "LP",
+      "label": "Sargent House",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215296-david-eugene-edwards-mercurial-silence",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/46/215296-david-eugene-edwards-mercurial-silence.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215296-david-eugene-edwards-mercurial-silence"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Pond",
+      "title": "Terrestrials",
+      "format": "LP",
+      "label": "Mangovision",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215187-pond-terrestrials",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/187/215187-pond-terrestrials.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215187-pond-terrestrials"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "One Leg One Eye",
+      "title": "CRONE",
+      "format": "LP",
+      "label": "AD 93",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215193-one-leg-one-eye-crone",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/193/215193-one-leg-one-eye-crone.jpg",
+      "genre": "Experimental",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215193-one-leg-one-eye-crone"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Jejune",
+      "title": "Wait A Lifetime",
+      "format": "LP",
+      "label": "Numero Group",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215255-jejune-wait-a-lifetime",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/5/215255-jejune-wait-a-lifetime.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215255-jejune-wait-a-lifetime"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Nectar Woode",
+      "title": "Naturally",
+      "format": "LP",
+      "label": "RCA",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215285-nectar-woode-naturally",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/35/215285-nectar-woode-naturally.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215285-nectar-woode-naturally"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Meat Puppets",
+      "title": "Forbidden Places (35th Anniversary Edition)",
+      "format": "LP",
+      "label": "Real Gone Music",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215291-meat-puppets-forbidden-places-35th-anniversary-edition",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/41/215291-meat-puppets-forbidden-places-35th-anniversary-edition.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215291-meat-puppets-forbidden-places-35th-anniversary-edition"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Goose",
+      "title": "BIG MODERN!",
+      "format": "LP",
+      "label": "No Coincidence",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215302-goose-big-modern",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/52/215302-goose-big-modern.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215302-goose-big-modern"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Klein",
+      "title": "Sleep With a Cane",
+      "format": "LP",
+      "label": "Diggers Factory",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215286-klein-sleep-with-a-cane",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/36/215286-klein-sleep-with-a-cane.jpg",
+      "genre": "Soundtracks",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215286-klein-sleep-with-a-cane"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Lentamente",
+      "title": "Bienvenida",
+      "format": "LP",
+      "label": "Burnt Toast",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215289-lentamente-bienvenida",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/39/215289-lentamente-bienvenida.jpg",
+      "genre": "Shoegaze",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215289-lentamente-bienvenida"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Cedric \"Im\" Brooks & The Light of Saba",
+      "title": "The Light of Saba",
+      "format": "LP",
+      "label": "Total Sounds",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215300-cedric-im-brooks-the-light-the-light-of-saba",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/50/215300-cedric-im-brooks-the-light-the-light-of-saba.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215300-cedric-im-brooks-the-light-the-light-of-saba"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Hunx and His Punx",
+      "title": "The Punkettes",
+      "format": "7\"",
+      "label": "Get Better",
+      "releaseDate": "2026-04-18",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215409-hunx-and-his-punx-the-punkettes",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/159/215409-hunx-and-his-punx-the-punkettes.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215409-hunx-and-his-punx-the-punkettes"
         }
       ],
       "itunesPreviewUrl": "",
@@ -9008,42 +10991,213 @@
       "hasDeezerPreview": true
     },
     {
-      "artist": "Bikini Kill",
-      "title": "I Like F**king / I Hate Danger",
-      "format": "7\"",
-      "label": "Bikini Kill",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215273-bikini-kill-i-like-fking-i-hate",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/23/215273-bikini-kill-i-like-fking-i-hate.jpg",
-      "genre": "Punk",
+      "artist": "WIRE",
+      "title": "READ & BURN 03 (PLUS + 3)",
+      "format": "LP",
+      "label": "PINK FLAG",
+      "releaseDate": "2026-04-18",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/174851/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00174851.jpg",
+      "genre": "",
       "stores": [
         {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215273-bikini-kill-i-like-fking-i-hate"
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/174851/katalog_art.123.html"
         }
       ],
       "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
+      "hasDeezerPreview": false
     },
     {
-      "artist": "Bikini Kill",
-      "title": "The Anti-Pleasure Dissertation",
-      "format": "7\"",
-      "label": "Bikini Kill",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215272-bikini-kill-the-antipleasure-dissertation",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/22/215272-bikini-kill-the-antipleasure-dissertation.jpg",
-      "genre": "Punk",
+      "artist": "King Crimson",
+      "title": "Penn State 29 June, 1974 [RSD26]",
+      "format": "LP",
+      "label": "Panegyric",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/king-crimson/penn-state-29-june%2C-1974-%5Brsd26%5D/KCLVX1",
+      "imageUrl": "https://www.banquetrecords.com/item.png?KCLVX1",
+      "genre": "RSD 2026",
       "stores": [
         {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215272-bikini-kill-the-antipleasure-dissertation"
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/king-crimson/penn-state-29-june%2C-1974-%5Brsd26%5D/KCLVX1"
         }
       ],
       "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Laufey",
+      "title": "A Matter of Time: Live at Madison Square Garden [RSD26]",
+      "format": "LP",
+      "label": "AWAL / Vingolf Recordings",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/laufey/a-matter-of-time%3A-live-at-madison-square-garden-%5Brsd26%5D/LAUFRSD26",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LAUFRSD26",
+      "genre": "PopRSD 2026",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/laufey/a-matter-of-time%3A-live-at-madison-square-garden-%5Brsd26%5D/LAUFRSD26"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Chet Baker",
+      "title": "Live in Japan 1987 -FUKUI VOL.2- [RSD26]",
+      "format": "LP",
+      "label": "SOLID / TOYOKASEI",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/chet-baker/live-in-japan-1987--fukui-vol.2--%5Brsd26%5D/OTS-401",
+      "imageUrl": "https://www.banquetrecords.com/item.png?OTS-401",
+      "genre": "RSD 2026",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/chet-baker/live-in-japan-1987--fukui-vol.2--%5Brsd26%5D/OTS-401"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Earth and Fire",
+      "title": "Atlantis [RSD26]",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/earth-and-fire/atlantis-%5Brsd26%5D/MOVLP4019",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP4019",
+      "genre": "RSD 2026",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/earth-and-fire/atlantis-%5Brsd26%5D/MOVLP4019"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Golden Earring",
+      "title": "Zwollywood (Live 1980) [RSD26]",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/golden-earring/zwollywood-%28live-1980%29-%5Brsd26%5D/MOVLP4001",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP4001",
+      "genre": "RSD 2026",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/golden-earring/zwollywood-%28live-1980%29-%5Brsd26%5D/MOVLP4001"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Marie Pierre",
+      "title": "Love Affair (expanded edition) [RSD26]",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/marie-pierre/love-affair-%28expanded-edition%29-%5Brsd26%5D/MOVLP3963",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP3963",
+      "genre": "RSD 2026",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/marie-pierre/love-affair-%28expanded-edition%29-%5Brsd26%5D/MOVLP3963"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Ziggy Marley",
+      "title": "Brightside [RSD26]",
+      "format": "LP",
+      "label": "V2 Records",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/ziggy-marley/brightside-%5Brsd26%5D/VVNL5109LPX",
+      "imageUrl": "https://www.banquetrecords.com/item.png?VVNL5109LPX",
+      "genre": "RSD 2026",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ziggy-marley/brightside-%5Brsd26%5D/VVNL5109LPX"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Gilles Peterson",
+      "title": "Timeless Jazz Classics Volume 3 (Compiled by Gilles Peterson) [RSD26]",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/gilles-peterson/timeless-jazz-classics-volume-3-%28compiled-by-gilles-peterson%29-%5Brsd26%5D/MOVLP4068",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP4068",
+      "genre": "RSD 2026",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/gilles-peterson/timeless-jazz-classics-volume-3-%28compiled-by-gilles-peterson%29-%5Brsd26%5D/MOVLP4068"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Chet Baker",
+      "title": "At George Jazzcafe , Arnhem, 1983, The Netherlands [RSD26]",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/chet-baker/at-george-jazzcafe-%2C-arnhem%2C-1983%2C-the-netherlands-%5Brsd26%5D/MOVLP4033",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP4033",
+      "genre": "RSD 2026",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/chet-baker/at-george-jazzcafe-%2C-arnhem%2C-1983%2C-the-netherlands-%5Brsd26%5D/MOVLP4033"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Ivan Lins",
+      "title": "Modo Livre [RSD26]",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-04-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/ivan-lins/modo-livre-%5Brsd26%5D/MOVLP3844",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLP3844",
+      "genre": "RSD 2026",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ivan-lins/modo-livre-%5Brsd26%5D/MOVLP3844"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
     },
     {
       "artist": "zakè, Ossa, ASC",
@@ -9059,330 +11213,6 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/215267-zak-ossa-asc-microliths-ep"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Common Saints",
-      "title": "Idol Eyes / Summer Son",
-      "format": "7\"",
-      "label": "Starsonics",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215264-common-saints-idol-eyes-summer-son",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/14/215264-common-saints-idol-eyes-summer-son.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215264-common-saints-idol-eyes-summer-son"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Air Miami / Colourbox",
-      "title": "Complication Opposition",
-      "format": "7\"",
-      "label": "4AD",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215234-air-miami-colourbox-complication-opposition",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/234/215234-air-miami-colourbox-complication-opposition.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215234-air-miami-colourbox-complication-opposition"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/colourbox-air-miami/complication-opposition/4AD0901S"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "They Might Be Giants",
-      "title": "stelluB / Sapphire Bullets of Pure Love",
-      "format": "7\"",
-      "label": "Idlewild",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215246-they-might-be-giants-stellub-sapphire-bullets-of-pure",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/246/215246-they-might-be-giants-stellub-sapphire-bullets-of-pure.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215246-they-might-be-giants-stellub-sapphire-bullets-of-pure"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "They Might Be Giants",
-      "title": "Lazy / Buckle Down, Winsocki",
-      "format": "7\"",
-      "label": "Idlewild",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215240-they-might-be-giants-lazy-buckle-down-winsocki",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/240/215240-they-might-be-giants-lazy-buckle-down-winsocki.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215240-they-might-be-giants-lazy-buckle-down-winsocki"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Sleaford Mods feat. Aldous Harding",
-      "title": "Elitest G.O.A.T. (The Prodigy Acid Thunder Mix)",
-      "format": "7\"",
-      "label": "Rough Trade",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215236-sleaford-mods-feat-aldous-harding-elitest-goat-the-prodigy-acid",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/236/215236-sleaford-mods-feat-aldous-harding-elitest-goat-the-prodigy-acid.jpg",
-      "genre": "House",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215236-sleaford-mods-feat-aldous-harding-elitest-goat-the-prodigy-acid"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "The Valdons",
-      "title": "All Day Long / Love Me, Leave Me",
-      "format": "7\"",
-      "label": "Secret Stash",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215228-the-valdons-all-day-long-love-me",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/228/215228-the-valdons-all-day-long-love-me.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215228-the-valdons-all-day-long-love-me"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Raekwon",
-      "title": "Rich & Black ft Nas / Crane Style ft Busta Rhymes",
-      "format": "7\"",
-      "label": "Ice H2o Records",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215224-raekwon-rich-black-ft-nas-crane",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/224/215224-raekwon-rich-black-ft-nas-crane.jpg",
-      "genre": "Hip-Hop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215224-raekwon-rich-black-ft-nas-crane"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Pratt & Moody and Cold Diamond & Mink",
-      "title": "Hard Way To Live / You Bring Me Joy",
-      "format": "7\"",
-      "label": "Timmion",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/223/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Orcutt Shelley Miller Yow",
-      "title": "Hot Head / A Man Needs A Maid",
-      "format": "7\"",
-      "label": "Silver Current Records",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215195-orcutt-shelley-miller-yow-hot-head-a-man-needs",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/195/215195-orcutt-shelley-miller-yow-hot-head-a-man-needs.jpg",
-      "genre": "Shoegaze",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215195-orcutt-shelley-miller-yow-hot-head-a-man-needs"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Bramwell",
-      "title": "Problems",
-      "format": "7\"",
-      "label": "Precious Recordings",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215117-bramwell-problems",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/117/215117-bramwell-problems.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215117-bramwell-problems"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "No Peeling",
-      "title": "EP 2",
-      "format": "7\"",
-      "label": "Wrong Speed Records",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215110-no-peeling-ep-2",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/110/215110-no-peeling-ep-2.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215110-no-peeling-ep-2"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/no-peeling/ep-2/WSR085"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Kendra Morris",
-      "title": "Flat Tire",
-      "format": "7\"",
-      "label": "Karma Chief Records",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215107-kendra-morris-flat-tire",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/107/215107-kendra-morris-flat-tire.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215107-kendra-morris-flat-tire"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/kendra-morris/flat-tire/KCR134-C1"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Big Break",
-      "title": "Exile On Exchange St",
-      "format": "7\"",
-      "label": "Wrong Speed Records",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/209440-big-break-exile-on-exchange-st",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/190/209440-big-break-exile-on-exchange-st.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/209440-big-break-exile-on-exchange-st"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/big-break/exile-on-exchange-st/WSR078"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Baby Charles",
-      "title": "I Bet You Look Good On The Dancefloor / Time Wasting",
-      "format": "7\"",
-      "label": "Record Kicks",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215101-baby-charles-i-bet-you-look-good",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/101/215101-baby-charles-i-bet-you-look-good.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215101-baby-charles-i-bet-you-look-good"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/baby-charles/i-bet-you-look-good-on-the-dancefloor-time-wasting/RK45014-26"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Thee Headcoats / Thee Headcoatees",
-      "title": "Jim Bowie / As The Broken Tree Begins To Fall",
-      "format": "7\"",
-      "label": "Spinout Nuggets",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215031-thee-headcoats-thee-headcoatees-jim-bowie-as-the-broken",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/31/215031-thee-headcoats-thee-headcoatees-jim-bowie-as-the-broken.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215031-thee-headcoats-thee-headcoatees-jim-bowie-as-the-broken"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Wild Billy Childish & The North Kent Folkways Revival",
-      "title": "House of The Rising Sun / Black Girl",
-      "format": "7\"",
-      "label": "Spinout Nuggets",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215009-wild-billy-childish-the-north-house-of-the-rising-sun",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/9/215009-wild-billy-childish-the-north-house-of-the-rising-sun.jpg",
-      "genre": "Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215009-wild-billy-childish-the-north-house-of-the-rising-sun"
         }
       ],
       "itunesPreviewUrl": "",
@@ -9406,472 +11236,6 @@
       ],
       "itunesPreviewUrl": "",
       "hasDeezerPreview": false
-    },
-    {
-      "artist": "Devo",
-      "title": "Nitrous Nightmare Halloween Live '75",
-      "format": "LP",
-      "label": "Futurismo",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215163-devo-nitrous-nightmare-halloween-live-75",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/163/215163-devo-nitrous-nightmare-halloween-live-75.jpg",
-      "genre": "New Wave",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215163-devo-nitrous-nightmare-halloween-live-75"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Osees",
-      "title": "Cara Maluco",
-      "format": "7\"",
-      "label": "Deathgod Records",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215191-osees-cara-maluco",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/191/215191-osees-cara-maluco.jpg",
-      "genre": "Psyche",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215191-osees-cara-maluco"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "TOPS",
-      "title": "Empty Seats",
-      "format": "7\"",
-      "label": "Ghostly International",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/193677-tops-empty-seats",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/177/193677-tops-empty-seats.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/193677-tops-empty-seats"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "The Black Wizards",
-      "title": "Killing The Buzz",
-      "format": "7\"",
-      "label": "Hassle",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215384-the-black-wizards-killing-the-buzz",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/134/215384-the-black-wizards-killing-the-buzz.jpg",
-      "genre": "Psyche",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215384-the-black-wizards-killing-the-buzz"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Andy Crofts",
-      "title": "Blue",
-      "format": "7\"",
-      "label": "Colorama Records",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215295-andy-crofts-blue",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/45/215295-andy-crofts-blue.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215295-andy-crofts-blue"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/andy-crofts/blue/RAMAVS063"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Baccara",
-      "title": "Yes Sir, I Can Boogie",
-      "format": "7\"",
-      "label": "Sony",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215287-baccara-yes-sir-i-can-boogie",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/37/215287-baccara-yes-sir-i-can-boogie.jpg",
-      "genre": "House",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215287-baccara-yes-sir-i-can-boogie"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/baccara/yes-sir%2C-i-can-boogie/19958450397"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/60/45/58/60455857-dcbb-75ee-7f53-5731b0c7913d/mzaf_4764297907560349406.plus.aac.p.m4a"
-    },
-    {
-      "artist": "The Hooterville Trolley / The Fog",
-      "title": "No Silver Bird / Grey Zone",
-      "format": "7\"",
-      "label": "Uprising",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/214981-no-silver-bird-the-fog-the-hooterville-trolley-grey-zone",
-      "imageUrl": "https://www.normanrecords.com/artwork/medium/231/214981-no-silver-bird-the-fog-the-hooterville-trolley-grey-zone.jpg",
-      "genre": "Psyche",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/214981-no-silver-bird-the-fog-the-hooterville-trolley-grey-zone"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Iceage",
-      "title": "For Love of Grace & the Hereafter",
-      "format": "LP",
-      "label": "Mexican Summer",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215192-iceage-for-love-of-grace-the",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/192/215192-iceage-for-love-of-grace-the.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215192-iceage-for-love-of-grace-the"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Kurt Vile",
-      "title": "Philadelphia's Been Good To Me",
-      "format": "LP",
-      "label": "Verve",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215194-kurt-vile-philadelphias-been-good-to-me",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/194/215194-kurt-vile-philadelphias-been-good-to-me.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215194-kurt-vile-philadelphias-been-good-to-me"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "The Strokes",
-      "title": "Reality Awaits",
-      "format": "LP",
-      "label": "Columbia",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215231-the-strokes-reality-awaits",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/231/215231-the-strokes-reality-awaits.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215231-the-strokes-reality-awaits"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/the-strokes/reality-awaits/19958448322"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/e5/26/4de52614-72e9-8e61-572a-7fd9a794f688/mzaf_10880856398271785470.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Warning",
-      "title": "Rituals of Shame",
-      "format": "LP",
-      "label": "Relapse",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/214783-warning-rituals-of-shame",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/33/214783-warning-rituals-of-shame.jpg",
-      "genre": "Metal",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/214783-warning-rituals-of-shame"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "BLARF",
-      "title": "Film Scores For Films That Don't Exist",
-      "format": "LP",
-      "label": "Stones Throw",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215161-blarf-film-scores-for-films-that",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/161/215161-blarf-film-scores-for-films-that.jpg",
-      "genre": "Neo-classical",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215161-blarf-film-scores-for-films-that"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "MONO",
-      "title": "Snowdrop",
-      "format": "LP",
-      "label": "Temporary Residence",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215248-mono-snowdrop",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/248/215248-mono-snowdrop.jpg",
-      "genre": "Shoegaze",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215248-mono-snowdrop"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Hella",
-      "title": "Hold Your Horse Is",
-      "format": "LP",
-      "label": "Frenetic",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/82837-hella-hold-your-horse-is",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/87/82837-hella-hold-your-horse-is.jpg",
-      "genre": "Shoegaze",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/82837-hella-hold-your-horse-is"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "David Eugene Edwards",
-      "title": "Mercurial Silence",
-      "format": "LP",
-      "label": "Sargent House",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215296-david-eugene-edwards-mercurial-silence",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/46/215296-david-eugene-edwards-mercurial-silence.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215296-david-eugene-edwards-mercurial-silence"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Pond",
-      "title": "Terrestrials",
-      "format": "LP",
-      "label": "Mangovision",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215187-pond-terrestrials",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/187/215187-pond-terrestrials.jpg",
-      "genre": "Psyche",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215187-pond-terrestrials"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "One Leg One Eye",
-      "title": "CRONE",
-      "format": "LP",
-      "label": "AD 93",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215193-one-leg-one-eye-crone",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/193/215193-one-leg-one-eye-crone.jpg",
-      "genre": "Experimental",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215193-one-leg-one-eye-crone"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Jejune",
-      "title": "Wait A Lifetime",
-      "format": "LP",
-      "label": "Numero Group",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215255-jejune-wait-a-lifetime",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/5/215255-jejune-wait-a-lifetime.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215255-jejune-wait-a-lifetime"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Nectar Woode",
-      "title": "Naturally",
-      "format": "LP",
-      "label": "RCA",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215285-nectar-woode-naturally",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/35/215285-nectar-woode-naturally.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215285-nectar-woode-naturally"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Meat Puppets",
-      "title": "Forbidden Places (35th Anniversary Edition)",
-      "format": "LP",
-      "label": "Real Gone Music",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215291-meat-puppets-forbidden-places-35th-anniversary-edition",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/41/215291-meat-puppets-forbidden-places-35th-anniversary-edition.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215291-meat-puppets-forbidden-places-35th-anniversary-edition"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Goose",
-      "title": "BIG MODERN!",
-      "format": "LP",
-      "label": "No Coincidence",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215302-goose-big-modern",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/52/215302-goose-big-modern.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215302-goose-big-modern"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Klein",
-      "title": "Sleep With a Cane",
-      "format": "LP",
-      "label": "Diggers Factory",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215286-klein-sleep-with-a-cane",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/36/215286-klein-sleep-with-a-cane.jpg",
-      "genre": "Soundtracks",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215286-klein-sleep-with-a-cane"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Lentamente",
-      "title": "Bienvenida",
-      "format": "LP",
-      "label": "Burnt Toast",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215289-lentamente-bienvenida",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/39/215289-lentamente-bienvenida.jpg",
-      "genre": "Shoegaze",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215289-lentamente-bienvenida"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Cedric \"Im\" Brooks & The Light of Saba",
-      "title": "The Light of Saba",
-      "format": "LP",
-      "label": "Total Sounds",
-      "releaseDate": "2026-04-17",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215300-cedric-im-brooks-the-light-the-light-of-saba",
-      "imageUrl": "https://www.normanrecords.com/artwork/medium/50/215300-cedric-im-brooks-the-light-the-light-of-saba.jpg",
-      "genre": "Reggae",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215300-cedric-im-brooks-the-light-the-light-of-saba"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
     },
     {
       "artist": "ABRAMS",
@@ -12770,6 +14134,120 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/celestial-hex/nightshades/LOTO062"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Adrian Younge",
+      "title": "Younge",
+      "format": "LP",
+      "label": "Linear Labs",
+      "releaseDate": "2026-04-17",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/adrian-younge/younge/LL0191LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LL0191LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/adrian-younge/younge/LL0191LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Bill Plummer And The Cosmic Brotherhood",
+      "title": "Bill Plummer And The Cosmic Brotherhood",
+      "format": "LP",
+      "label": "Jackpot Records",
+      "releaseDate": "2026-04-17",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/bill-plummer-and-the-cosmic-brotherhood/bill-plummer-and-the-cosmic-brotherhood/JPR128LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?JPR128LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/bill-plummer-and-the-cosmic-brotherhood/bill-plummer-and-the-cosmic-brotherhood/JPR128LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Teen Suicide",
+      "title": "Nude descending staircase headless",
+      "format": "LP",
+      "label": "Run For Cover",
+      "releaseDate": "2026-04-17",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/teen-suicide/nude-descending-staircase-headless/RFC315LP-C4",
+      "imageUrl": "https://www.banquetrecords.com/item.png?RFC315LP-C4",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/teen-suicide/nude-descending-staircase-headless/RFC315LP-C4"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "RVDS",
+      "title": "Sweet Acid Lullabies",
+      "format": "LP",
+      "label": "IT'S",
+      "releaseDate": "2026-04-17",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/rvds/sweet-acid-lullabies/ITS017",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ITS017",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/rvds/sweet-acid-lullabies/ITS017"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Kink Gong",
+      "title": "The Lisu",
+      "format": "LP",
+      "label": "Discrepant",
+      "releaseDate": "2026-04-17",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/kink-gong/the-lisu/CREP114",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CREP114",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/kink-gong/the-lisu/CREP114"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Eaves Wilder",
+      "title": "Little Miss Sunshine",
+      "format": "LP",
+      "label": "Secretly Canadian",
+      "releaseDate": "2026-04-17",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/eaves-wilder/little-miss-sunshine/SC504LP-C1",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SC504LP-C1",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/eaves-wilder/little-miss-sunshine/SC504LP-C1"
         }
       ],
       "itunesPreviewUrl": "",
@@ -26413,5 +27891,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-04-17T02:54:08.604Z"
+  "updatedAt": "2026-04-18T02:41:45.089Z"
 }
