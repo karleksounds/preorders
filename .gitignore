@@ -18,9 +18,9 @@ npm-debug.log*
 .idea/
 .claude/
 
-# Build files (keep compiled CSS)
-# If you want to exclude compiled CSS, uncomment below:
-# **/css/*.min.css
+# Unminified compiled CSS (use styles.min.css instead)
+preorders/css/styles.css
+discogs/css/styles.css
 
 # Scraped data files
 discogs_marketplace_*.json
