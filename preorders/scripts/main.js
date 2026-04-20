@@ -13,8 +13,8 @@ async function loadRecords() {
   const containerEl = document.getElementById('records-container');
 
   try {
-    // データファイルから直接取得（GitHub Pages対応）
-    const response = await fetch('data/records.json');
+    const dataFile = window.ARCHIVE_MODE ? 'data/archive.json' : 'data/records.json';
+    const response = await fetch(dataFile);
 
     if (!response.ok) {
       throw new Error('Failed to load records data');
@@ -162,8 +162,14 @@ function renderPagination() {
 
   const months = Object.keys(monthlyRecords).sort().reverse();
 
-  if (months.length <= 1) {
+  if (months.length <= 1 && window.ARCHIVE_MODE) {
     paginationEl.style.display = 'none';
+    return;
+  }
+  if (months.length <= 1 && !window.ARCHIVE_MODE) {
+    const archiveLink = `<a class="pagination-btn" href="archive.html">Archive</a>`;
+    paginationEl.innerHTML = archiveLink;
+    paginationEl.style.display = 'flex';
     return;
   }
 
@@ -174,7 +180,11 @@ function renderPagination() {
     return `<button class="pagination-btn ${activeClass}" onclick="changePage('${month}')">${displayName}</button>`;
   }).join('');
 
-  paginationEl.innerHTML = buttons;
+  const archiveLink = window.ARCHIVE_MODE
+    ? `<a class="pagination-btn" href="index.html">← Back</a>`
+    : `<a class="pagination-btn" href="archive.html">Archive</a>`;
+
+  paginationEl.innerHTML = buttons + archiveLink;
   paginationEl.style.display = 'flex';
 }
 

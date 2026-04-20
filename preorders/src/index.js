@@ -151,7 +151,11 @@ async function main() {
   console.log(`\nTotal records found: ${freshResults.length} (Norman: ${normanResults.length}, Cargo: ${cargoResults.length}, Banquet: ${banquetResults.length}, Juno: ${junoResults.length}, Boomkat: ${boomkatResults.length})`);
 
   // 既存ファイルから過去月・現在月レコードとiTunes URLを一括ロード
-  const currentYearMonth = new Date().toISOString().slice(0, 7); // "YYYY-MM"
+  const now = new Date();
+  const currentYearMonth = now.toISOString().slice(0, 7); // "YYYY-MM"
+  // 2ヶ月前のYYYY-MM（これより前をアーカイブへ）
+  const twoMonthsAgo = new Date(now.getFullYear(), now.getMonth() - 2, 1)
+    .toISOString().slice(0, 7);
   let pastRecords = [];
   let existingCurrentRecords = [];
   const existingPreviewMap = {};
@@ -159,15 +163,16 @@ async function main() {
     try {
       const existing = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
       const allExisting = existing.records || [];
-      // 先月以前
+      // 先月・先々月（アーカイブ対象外）
       pastRecords = allExisting.filter(r =>
-        r.releaseDate && r.releaseDate.slice(0, 7) < currentYearMonth
+        r.releaseDate && r.releaseDate.slice(0, 7) < currentYearMonth &&
+        r.releaseDate.slice(0, 7) > twoMonthsAgo
       );
       // 今月（スクレイプで消えても保持するため）
       existingCurrentRecords = allExisting.filter(r =>
         r.releaseDate && r.releaseDate.slice(0, 7) >= currentYearMonth
       );
-      // iTunes URLキャッシュ
+      // iTunes URLキャッシュ（全件）
       allExisting.forEach(r => {
         if (r.itunesPreviewUrl) {
           const key = `${r.artist.toLowerCase()}-${r.title.toLowerCase()}`;
@@ -178,6 +183,42 @@ async function main() {
       console.log(`Loaded ${existingCurrentRecords.length} existing current-month records`);
       console.log(`Loaded ${Object.keys(existingPreviewMap).length} existing iTunes preview URLs`);
     } catch (_) {}
+  }
+
+  // アーカイブ処理：2ヶ月前以前を archive.json に蓄積
+  const archivePath = path.join(dataDir, 'archive.json');
+  {
+    let archiveRecords = [];
+    if (fs.existsSync(archivePath)) {
+      try {
+        archiveRecords = JSON.parse(fs.readFileSync(archivePath, 'utf8')).records || [];
+      } catch (_) {}
+    }
+    if (fs.existsSync(dataPath)) {
+      try {
+        const existing = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+        const toArchive = (existing.records || []).filter(r =>
+          r.releaseDate && r.releaseDate.slice(0, 7) <= twoMonthsAgo
+        );
+        if (toArchive.length > 0) {
+          // 既存アーカイブとマージ（重複除去）
+          const archiveKeys = new Set(archiveRecords.map(r =>
+            `${r.artist.toLowerCase()}-${r.title.toLowerCase()}-${r.format}`
+          ));
+          const newToArchive = toArchive.filter(r =>
+            !archiveKeys.has(`${r.artist.toLowerCase()}-${r.title.toLowerCase()}-${r.format}`)
+          );
+          archiveRecords = [...archiveRecords, ...newToArchive];
+          archiveRecords.sort((a, b) => (b.releaseDate || '').localeCompare(a.releaseDate || ''));
+          if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+          fs.writeFileSync(archivePath, JSON.stringify({
+            records: archiveRecords,
+            updatedAt: new Date().toISOString()
+          }, null, 2));
+          console.log(`Archived ${newToArchive.length} records (total: ${archiveRecords.length})`);
+        }
+      } catch (_) {}
+    }
   }
 
   // 過去月・現在月レコードを展開（stores → store形式）
