@@ -226,7 +226,7 @@ function createRecordCard(record) {
 
   // プレビューボタン（iTunesプレビューがある場合のみ）
   const previewButton = itunesPreviewUrl
-    ? `<button class="btn btn-preview" onclick="playPreview('${itunesPreviewUrl}', this)">▶ Preview</button>`
+    ? `<button class="btn-preview" onclick="playPreview('${itunesPreviewUrl}', this)" title="Preview"><svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><polygon points="6,3 20,12 6,21"/></svg></button>`
     : '';
 
   // ストアリンク
@@ -235,7 +235,12 @@ function createRecordCard(record) {
   return `
     <article class="record">
       <div class="content">
-        <img src="${imgSrc}" alt="${artist} - ${title}" class="image" onerror="if(!this.dataset.errorHandled){this.dataset.errorHandled='true';this.src='images/noimage.jpg';}">
+        <div class="left-col">
+          <img src="${imgSrc}" alt="${artist} - ${title}" class="image" onerror="if(!this.dataset.errorHandled){this.dataset.errorHandled='true';this.src='images/noimage.jpg';}">
+          <div class="actions">
+            ${previewButton}
+          </div>
+        </div>
         <div class="info">
           <div class="main">
             <div class="artist">${escapeHtml(artist)}</div>
@@ -246,9 +251,6 @@ function createRecordCard(record) {
               ${releaseDate ? `<div class="date">${escapeHtml(releaseDate)}</div>` : ''}
             </div>
             ${storeLinks}
-          </div>
-          <div class="actions">
-            ${previewButton}
           </div>
         </div>
       </div>
@@ -271,7 +273,7 @@ function playPreview(previewUrl, buttonElement) {
       currentAudio.pause();
       currentAudio = null;
     }
-    buttonElement.innerHTML = '▶ Preview';
+    buttonElement.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><polygon points="6,3 20,12 6,21"/></svg>';
     buttonElement.classList.remove('playing');
     return;
   }
@@ -282,32 +284,32 @@ function playPreview(previewUrl, buttonElement) {
     currentAudio = null;
     // すべての再生ボタンを元に戻す
     document.querySelectorAll('.btn-preview').forEach(btn => {
-      btn.innerHTML = '▶ Preview';
+      btn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><polygon points="6,3 20,12 6,21"/></svg>';
       btn.classList.remove('playing');
     });
   }
 
   // 新しいオーディオを再生
   currentAudio = new Audio(previewUrl);
-  buttonElement.innerHTML = '⏸ Playing...';
+  buttonElement.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><rect x="5" y="5" width="4" height="14"/><rect x="15" y="5" width="4" height="14"/></svg>';
   buttonElement.classList.add('playing');
 
   currentAudio.play().catch(error => {
     console.error('Error playing preview:', error);
-    buttonElement.innerHTML = '▶ Preview';
+    buttonElement.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><polygon points="6,3 20,12 6,21"/></svg>';
     buttonElement.classList.remove('playing');
   });
 
   // 再生終了時の処理
   currentAudio.addEventListener('ended', () => {
-    buttonElement.innerHTML = '▶ Preview';
+    buttonElement.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><polygon points="6,3 20,12 6,21"/></svg>';
     buttonElement.classList.remove('playing');
     currentAudio = null;
   });
 
   // エラー時の処理
   currentAudio.addEventListener('error', () => {
-    buttonElement.innerHTML = '▶ Preview';
+    buttonElement.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><polygon points="6,3 20,12 6,21"/></svg>';
     buttonElement.classList.remove('playing');
     currentAudio = null;
   });
