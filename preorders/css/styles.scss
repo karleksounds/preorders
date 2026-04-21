@@ -243,14 +243,12 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    //gap: 8px;
     flex-shrink: 0;
   }
 
   .image {
     width: 120px;
     height: 120px;
-    flex-shrink: 0;
     object-fit: cover;
 
     @media (max-width: 768px) {
@@ -265,7 +263,6 @@ header {
     flex-direction: row;
     align-items: flex-start;
     gap: 20px;
-    padding: 0;
 
     @media (max-width: 768px) {
       flex-direction: column;
@@ -341,7 +338,6 @@ header {
       flex-direction: row;
       flex-wrap: wrap;
       align-items: center;
-      gap: 0;
       margin-top: 10px;
       font-size: 0.85rem;
       color: $text-color;
@@ -379,13 +375,7 @@ header {
   .actions {
     display: flex;
     flex-direction: column;
-    width: 120px;
     flex-shrink: 0;
-    gap: 10px;
-
-    @media (max-width: 768px) {
-      width: 80px;
-    }
 
     .btn-preview {
       position: absolute;
@@ -400,9 +390,7 @@ header {
       border: none;
       background: $primary-color;
       color: white;
-      font-size: 1rem;
       cursor: pointer;
-      flex-shrink: 0;
       transition: background 0.2s, transform 0.1s;
 
       &:hover {
