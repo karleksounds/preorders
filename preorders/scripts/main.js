@@ -226,9 +226,6 @@ function createRecordCard(record) {
     displayFormat
   } = record;
 
-  // ユニークIDを生成
-  const recordId = `${artist}-${title}`.replace(/[^a-zA-Z0-9]/g, '-');
-
   // 画像URL
   const imgSrc = (imageUrl && imageUrl.trim())
     ? imageUrl

@@ -210,7 +210,6 @@ async function main() {
           );
           archiveRecords = [...archiveRecords, ...newToArchive];
           archiveRecords.sort((a, b) => (b.releaseDate || '').localeCompare(a.releaseDate || ''));
-          if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
           fs.writeFileSync(archivePath, JSON.stringify({
             records: archiveRecords,
             updatedAt: new Date().toISOString()
@@ -256,7 +255,6 @@ async function main() {
   // iTunes プレビュー情報を追加
   console.log('\nAdding iTunes preview information...');
   const recordsWithItunes = await addItunesInfo(sortedRecords);
-  console.log('iTunes preview information added\n');
 
   // データディレクトリが存在しない場合は作成
   if (!fs.existsSync(dataDir)) {
