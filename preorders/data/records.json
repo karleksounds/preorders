@@ -1985,6 +1985,25 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Pink Floyd",
+      "title": "Live in Venice 1989",
+      "format": "LP",
+      "label": "FM Concerts",
+      "releaseDate": "2026-05-29",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/pink-floyd/live-in-venice-1989/FMGZ221LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FMGZ221LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/pink-floyd/live-in-venice-1989/FMGZ221LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1e/a8/14/1ea81421-a674-e3cb-8bf8-6839c1a5af14/mzaf_5534539262634288809.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Various Artists",
       "title": "Aftermath And Transitions (Traces Of The Ukrainian Underground In Cologne 1994-1996)",
       "format": "LP",
@@ -8671,11 +8690,31 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "MUMFORD & SONS",
+      "title": "Prizefighter",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Glassnote US",
+      "releaseDate": "2026-04-27",
+      "url": "https://www.juno.co.uk/products/mumford-sons-prizefighter-vinyl/1124511-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1124511-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/mumford-sons-prizefighter-vinyl/1124511-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/01/eb/7601ebe9-55cd-44ae-1b93-78169936426a/mzaf_9689175901866994466.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Bikini Kill",
       "title": "I Like F**king / I Hate Danger",
       "format": "7\"",
       "label": "Bikini Kill",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215273-bikini-kill-i-like-fking-i-hate",
       "imageUrl": "https://www.normanrecords.com/artwork/large/23/215273-bikini-kill-i-like-fking-i-hate.jpg",
@@ -8697,7 +8736,7 @@
       "title": "The Anti-Pleasure Dissertation",
       "format": "7\"",
       "label": "Bikini Kill",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215272-bikini-kill-the-antipleasure-dissertation",
       "imageUrl": "https://www.normanrecords.com/artwork/large/22/215272-bikini-kill-the-antipleasure-dissertation.jpg",
@@ -8724,7 +8763,7 @@
       "title": "Idol Eyes / Summer Son",
       "format": "7\"",
       "label": "Starsonics",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215264-common-saints-idol-eyes-summer-son",
       "imageUrl": "https://www.normanrecords.com/artwork/large/14/215264-common-saints-idol-eyes-summer-son.jpg",
@@ -8742,7 +8781,7 @@
       "title": "Complication Opposition",
       "format": "7\"",
       "label": "4AD",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215234-air-miami-colourbox-complication-opposition",
       "imageUrl": "https://www.normanrecords.com/artwork/large/234/215234-air-miami-colourbox-complication-opposition.jpg",
@@ -8765,7 +8804,7 @@
       "title": "stelluB / Sapphire Bullets of Pure Love",
       "format": "7\"",
       "label": "Idlewild",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215246-they-might-be-giants-stellub-sapphire-bullets-of-pure",
       "imageUrl": "https://www.normanrecords.com/artwork/large/246/215246-they-might-be-giants-stellub-sapphire-bullets-of-pure.jpg",
@@ -8784,7 +8823,7 @@
       "title": "Lazy / Buckle Down, Winsocki",
       "format": "7\"",
       "label": "Idlewild",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215240-they-might-be-giants-lazy-buckle-down-winsocki",
       "imageUrl": "https://www.normanrecords.com/artwork/large/240/215240-they-might-be-giants-lazy-buckle-down-winsocki.jpg",
@@ -8802,7 +8841,7 @@
       "title": "Elitest G.O.A.T. (The Prodigy Acid Thunder Mix)",
       "format": "7\"",
       "label": "Rough Trade",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215236-sleaford-mods-feat-aldous-harding-elitest-goat-the-prodigy-acid",
       "imageUrl": "https://www.normanrecords.com/artwork/large/236/215236-sleaford-mods-feat-aldous-harding-elitest-goat-the-prodigy-acid.jpg",
@@ -8821,7 +8860,7 @@
       "title": "All Day Long / Love Me, Leave Me",
       "format": "7\"",
       "label": "Secret Stash",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215228-the-valdons-all-day-long-love-me",
       "imageUrl": "https://www.normanrecords.com/artwork/large/228/215228-the-valdons-all-day-long-love-me.jpg",
@@ -8840,7 +8879,7 @@
       "title": "Rich & Black ft Nas / Crane Style ft Busta Rhymes",
       "format": "7\"",
       "label": "Ice H2o Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215224-raekwon-rich-black-ft-nas-crane",
       "imageUrl": "https://www.normanrecords.com/artwork/large/224/215224-raekwon-rich-black-ft-nas-crane.jpg",
@@ -8858,7 +8897,7 @@
       "title": "Hard Way To Live / You Bring Me Joy",
       "format": "7\"",
       "label": "Timmion",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you",
       "imageUrl": "https://www.normanrecords.com/artwork/large/223/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you.jpg",
@@ -8876,7 +8915,7 @@
       "title": "Hot Head / A Man Needs A Maid",
       "format": "7\"",
       "label": "Silver Current Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215195-orcutt-shelley-miller-yow-hot-head-a-man-needs",
       "imageUrl": "https://www.normanrecords.com/artwork/large/195/215195-orcutt-shelley-miller-yow-hot-head-a-man-needs.jpg",
@@ -8894,7 +8933,7 @@
       "title": "Problems",
       "format": "7\"",
       "label": "Precious Recordings",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215117-bramwell-problems",
       "imageUrl": "https://www.normanrecords.com/artwork/large/117/215117-bramwell-problems.jpg",
@@ -8912,7 +8951,7 @@
       "title": "EP 2",
       "format": "7\"",
       "label": "Wrong Speed Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215110-no-peeling-ep-2",
       "imageUrl": "https://www.normanrecords.com/artwork/large/110/215110-no-peeling-ep-2.jpg",
@@ -8934,7 +8973,7 @@
       "title": "Flat Tire",
       "format": "7\"",
       "label": "Karma Chief Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215107-kendra-morris-flat-tire",
       "imageUrl": "https://www.normanrecords.com/artwork/large/107/215107-kendra-morris-flat-tire.jpg",
@@ -8956,7 +8995,7 @@
       "title": "Exile On Exchange St",
       "format": "7\"",
       "label": "Wrong Speed Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/209440-big-break-exile-on-exchange-st",
       "imageUrl": "https://www.normanrecords.com/artwork/large/190/209440-big-break-exile-on-exchange-st.jpg",
@@ -8979,7 +9018,7 @@
       "title": "I Bet You Look Good On The Dancefloor / Time Wasting",
       "format": "7\"",
       "label": "Record Kicks",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215101-baby-charles-i-bet-you-look-good",
       "imageUrl": "https://www.normanrecords.com/artwork/large/101/215101-baby-charles-i-bet-you-look-good.jpg",
@@ -9001,7 +9040,7 @@
       "title": "Killing The Buzz",
       "format": "7\"",
       "label": "Hassle",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215384-the-black-wizards-killing-the-buzz",
       "imageUrl": "https://www.normanrecords.com/artwork/large/134/215384-the-black-wizards-killing-the-buzz.jpg",
@@ -9019,7 +9058,7 @@
       "title": "Blue",
       "format": "7\"",
       "label": "Colorama Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215295-andy-crofts-blue",
       "imageUrl": "https://www.normanrecords.com/artwork/large/45/215295-andy-crofts-blue.jpg",
@@ -9041,7 +9080,7 @@
       "title": "Yes Sir, I Can Boogie",
       "format": "7\"",
       "label": "Sony",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215287-baccara-yes-sir-i-can-boogie",
       "imageUrl": "https://www.normanrecords.com/artwork/large/37/215287-baccara-yes-sir-i-can-boogie.jpg",
@@ -9063,7 +9102,7 @@
       "title": "The Punkettes",
       "format": "7\"",
       "label": "Get Better",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215409-hunx-and-his-punx-the-punkettes",
       "imageUrl": "https://www.normanrecords.com/artwork/large/159/215409-hunx-and-his-punx-the-punkettes.jpg",
@@ -9081,7 +9120,7 @@
       "title": "Under the Silver Moon / Through the Changes",
       "format": "7\"",
       "label": "Big Crown",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215483-thee-marloes-under-the-silver-moon-through",
       "imageUrl": "https://www.normanrecords.com/artwork/large/233/215483-thee-marloes-under-the-silver-moon-through.jpg",
@@ -9103,7 +9142,7 @@
       "title": "Fools",
       "format": "7\"",
       "label": "Wharf Cat Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215476-drop-nineteens-fools",
       "imageUrl": "https://www.normanrecords.com/artwork/large/226/215476-drop-nineteens-fools.jpg",
@@ -9125,7 +9164,7 @@
       "title": "The Hypnotist",
       "format": "7\"",
       "label": "Fruits de Mer",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215460-sisterlove-the-hypnotist",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/210/215460-sisterlove-the-hypnotist.jpg",
@@ -9143,7 +9182,7 @@
       "title": "Can't Take It",
       "format": "7\"",
       "label": "Rogue Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215451-deadly-spirits-cant-take-it",
       "imageUrl": "https://www.normanrecords.com/artwork/large/201/215451-deadly-spirits-cant-take-it.jpg",
@@ -9161,7 +9200,7 @@
       "title": "Penny's Arcade",
       "format": "7\"",
       "label": "Rogue Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215450-viv-and-the-sect-pennys-arcade",
       "imageUrl": "https://www.normanrecords.com/artwork/large/200/215450-viv-and-the-sect-pennys-arcade.jpg",
@@ -9179,7 +9218,7 @@
       "title": "If I Could Fly / Barbarella (Live)",
       "format": "7\"",
       "label": "Scott Weiland",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215431-scott-weiland-if-i-could-fly-barbarella",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/181/215431-scott-weiland-if-i-could-fly-barbarella.jpg",
@@ -9197,7 +9236,7 @@
       "title": "When I'm With You",
       "format": "7\"",
       "label": "Damaged Goods",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215345-cyanide-pills-when-im-with-you",
       "imageUrl": "https://www.normanrecords.com/artwork/large/95/215345-cyanide-pills-when-im-with-you.jpg",
@@ -9215,7 +9254,7 @@
       "title": "Maps",
       "format": "LP",
       "label": "Backwoodz Studioz",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/197658-billy-woods-kenny-segal-maps",
       "imageUrl": "https://www.normanrecords.com/artwork/large/158/197658-billy-woods-kenny-segal-maps.jpg",
@@ -9233,7 +9272,7 @@
       "title": "Promise To Keep / Change of Heart",
       "format": "7\"",
       "label": "Mr Bongo",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215518-ella-thompson-promise-to-keep-change-of",
       "imageUrl": "https://www.normanrecords.com/artwork/large/18/215518-ella-thompson-promise-to-keep-change-of.jpg",
@@ -9248,15 +9287,14 @@
           "url": "https://www.banquetrecords.com/ella-thompson/promise-to-keep-change-of-heart/MRB7237"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/a6/23/b4a623f2-2bd4-df76-c059-12c4ad188c91/mzaf_17240079541587063379.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/a6/23/b4a623f2-2bd4-df76-c059-12c4ad188c91/mzaf_17240079541587063379.plus.aac.p.m4a"
     },
     {
       "artist": "Who Cares?",
       "title": "Who Cares?",
       "format": "7\"",
       "label": "Purely Physical Teeny Tapes",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215513-who-cares-who-cares",
       "imageUrl": "https://www.normanrecords.com/artwork/large/13/215513-who-cares-who-cares.jpg",
@@ -9267,15 +9305,14 @@
           "url": "https://www.normanrecords.com/records/215513-who-cares-who-cares"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/b5/f7/deb5f788-0dbc-9067-5e16-538af99bf1fc/mzaf_12381076276160542433.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/b5/f7/deb5f788-0dbc-9067-5e16-538af99bf1fc/mzaf_12381076276160542433.plus.aac.p.m4a"
     },
     {
       "artist": "Emily A. Sprague",
       "title": "Double Moon",
       "format": "7\"",
       "label": "RVNG Intl",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215509-emily-a-sprague-double-moon",
       "imageUrl": "https://www.normanrecords.com/artwork/large/9/215509-emily-a-sprague-double-moon.jpg",
@@ -9286,15 +9323,14 @@
           "url": "https://www.normanrecords.com/records/215509-emily-a-sprague-double-moon"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/1a/eb/421aeb01-714a-41f9-57f1-162f93a3e088/mzaf_18346415664820740832.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/1a/eb/421aeb01-714a-41f9-57f1-162f93a3e088/mzaf_18346415664820740832.plus.aac.p.m4a"
     },
     {
       "artist": "Ini Kamoze",
       "title": "World A Music",
       "format": "7\"",
       "label": "Taxi",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215540-ini-kamoze-world-a-music",
       "imageUrl": "https://www.normanrecords.com/artwork/large/40/215540-ini-kamoze-world-a-music.jpg",
@@ -9305,15 +9341,14 @@
           "url": "https://www.normanrecords.com/records/215540-ini-kamoze-world-a-music"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/b1/25/e2b125dd-61b7-d420-5f33-a92aefecc2ea/mzaf_16389790531577002678.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/b1/25/e2b125dd-61b7-d420-5f33-a92aefecc2ea/mzaf_16389790531577002678.plus.aac.p.m4a"
     },
     {
       "artist": "MORN",
       "title": "The Standard Model / I Watched You as Your Mind Slipped Far (Away from Me)",
       "format": "7\"",
       "label": "Speedy Wunderground",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215537-morn-the-standard-model-i-watched",
       "imageUrl": "https://www.normanrecords.com/artwork/large/37/215537-morn-the-standard-model-i-watched.jpg",
@@ -9324,15 +9359,14 @@
           "url": "https://www.normanrecords.com/records/215537-morn-the-standard-model-i-watched"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/c0/7f/b1c07fe2-e5a9-3ed8-54f6-fc119499c2be/mzaf_6659328934040175977.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/c0/7f/b1c07fe2-e5a9-3ed8-54f6-fc119499c2be/mzaf_6659328934040175977.plus.aac.p.m4a"
     },
     {
       "artist": "SWANS",
       "title": "Live Rope",
       "format": "7\"",
       "label": "Mute",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215505-swans-live-rope",
       "imageUrl": "https://www.normanrecords.com/artwork/large/5/215505-swans-live-rope.jpg",
@@ -9343,15 +9377,14 @@
           "url": "https://www.normanrecords.com/records/215505-swans-live-rope"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/15/4e/a8154ef6-947f-6717-add6-40ba63962048/mzaf_17054288294578438256.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/15/4e/a8154ef6-947f-6717-add6-40ba63962048/mzaf_17054288294578438256.plus.aac.p.m4a"
     },
     {
       "artist": "Special Request",
       "title": "Uncanny Valley (w/ gyrofield & Metrist remixes)",
       "format": "7\"",
       "label": "Timedance",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215559-special-request-uncanny-valley-w-gyrofield-metrist",
       "imageUrl": "https://www.normanrecords.com/artwork/large/59/215559-special-request-uncanny-valley-w-gyrofield-metrist.jpg",
@@ -9362,15 +9395,14 @@
           "url": "https://www.normanrecords.com/records/215559-special-request-uncanny-valley-w-gyrofield-metrist"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/80/57/52805790-6a4c-0f82-5b2d-cf58272e0212/mzaf_5219708578309118782.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/80/57/52805790-6a4c-0f82-5b2d-cf58272e0212/mzaf_5219708578309118782.plus.aac.p.m4a"
     },
     {
       "artist": "Boards of Canada",
       "title": "Inferno",
       "format": "LP",
       "label": "Warp",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215515-boards-of-canada-inferno",
       "imageUrl": "https://www.normanrecords.com/artwork/large/15/215515-boards-of-canada-inferno.jpg",
@@ -9392,7 +9424,7 @@
       "title": "Different When It's Silent",
       "format": "LP",
       "label": "False Idols",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215463-tricky-different-when-its-silent",
       "imageUrl": "https://www.normanrecords.com/artwork/large/213/215463-tricky-different-when-its-silent.jpg",
@@ -9403,15 +9435,14 @@
           "url": "https://www.normanrecords.com/records/215463-tricky-different-when-its-silent"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/79/96/d279965a-2437-1e05-daaa-fd058e2140fb/mzaf_4480573984144391955.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/79/96/d279965a-2437-1e05-daaa-fd058e2140fb/mzaf_4480573984144391955.plus.aac.p.m4a"
     },
     {
       "artist": "Modest Mouse",
       "title": "An Eraser and a Maze",
       "format": "LP",
       "label": "Glacial Pace",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215489-modest-mouse-an-eraser-and-a-maze",
       "imageUrl": "https://www.normanrecords.com/artwork/large/239/215489-modest-mouse-an-eraser-and-a-maze.jpg",
@@ -9422,15 +9453,14 @@
           "url": "https://www.normanrecords.com/records/215489-modest-mouse-an-eraser-and-a-maze"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/8e/f7/b18ef7c5-b842-753a-ad3b-b430909e1283/mzaf_3784344136448290262.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/8e/f7/b18ef7c5-b842-753a-ad3b-b430909e1283/mzaf_3784344136448290262.plus.aac.p.m4a"
     },
     {
       "artist": "SWANS",
       "title": "Live Rope",
       "format": "LP",
       "label": "Mute",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215505-swans-live-rope",
       "imageUrl": "https://www.normanrecords.com/artwork/large/5/215505-swans-live-rope.jpg",
@@ -9441,15 +9471,14 @@
           "url": "https://www.normanrecords.com/records/215505-swans-live-rope"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/15/4e/a8154ef6-947f-6717-add6-40ba63962048/mzaf_17054288294578438256.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/15/4e/a8154ef6-947f-6717-add6-40ba63962048/mzaf_17054288294578438256.plus.aac.p.m4a"
     },
     {
       "artist": "Beth Orton",
       "title": "The Ground Above",
       "format": "LP",
       "label": "Partisan Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215436-beth-orton-the-ground-above",
       "imageUrl": "https://www.normanrecords.com/artwork/large/186/215436-beth-orton-the-ground-above.jpg",
@@ -9471,7 +9500,7 @@
       "title": "Cannonball",
       "format": "LP",
       "label": "Fiction",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215465-man-woman-chainsaw-cannonball",
       "imageUrl": "https://www.normanrecords.com/artwork/large/215/215465-man-woman-chainsaw-cannonball.jpg",
@@ -9482,15 +9511,14 @@
           "url": "https://www.normanrecords.com/records/215465-man-woman-chainsaw-cannonball"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/e2/ce/98e2ce0c-53be-b444-d871-ba2afffaf95a/mzaf_796568255939916345.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/e2/ce/98e2ce0c-53be-b444-d871-ba2afffaf95a/mzaf_796568255939916345.plus.aac.p.m4a"
     },
     {
       "artist": "Blood Incantation",
       "title": "All Gates Open (Original Motion Picture Soundtrack)",
       "format": "LP",
       "label": "Century Media",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215565-blood-incantation-all-gates-open-original-motion",
       "imageUrl": "https://www.normanrecords.com/artwork/large/65/215565-blood-incantation-all-gates-open-original-motion.jpg",
@@ -9501,15 +9529,14 @@
           "url": "https://www.normanrecords.com/records/215565-blood-incantation-all-gates-open-original-motion"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/2d/77/252d77b0-5b06-f410-119a-a3a9516a3972/mzaf_11116488361295643099.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/2d/77/252d77b0-5b06-f410-119a-a3a9516a3972/mzaf_11116488361295643099.plus.aac.p.m4a"
     },
     {
       "artist": "Camper Van Beethoven",
       "title": "II & III (40th Anniversary Edition)",
       "format": "LP",
       "label": "Cooking Vinyl",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215531-camper-van-beethoven-ii-iii-40th-anniversary-edition",
       "imageUrl": "https://www.normanrecords.com/artwork/large/31/215531-camper-van-beethoven-ii-iii-40th-anniversary-edition.jpg",
@@ -9520,15 +9547,14 @@
           "url": "https://www.normanrecords.com/records/215531-camper-van-beethoven-ii-iii-40th-anniversary-edition"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3d/ce/96/3dce966a-f7e1-a953-5196-a51f6dc36592/mzaf_8669945116330476177.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3d/ce/96/3dce966a-f7e1-a953-5196-a51f6dc36592/mzaf_8669945116330476177.plus.aac.p.m4a"
     },
     {
       "artist": "Lavurn",
       "title": "Baby it Cold Outside",
       "format": "LP",
       "label": "Motion Ward",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215532-lavurn-baby-it-cold-outside",
       "imageUrl": "https://www.normanrecords.com/artwork/large/32/215532-lavurn-baby-it-cold-outside.jpg",
@@ -9550,7 +9576,7 @@
       "title": "Give U Space",
       "format": "LP",
       "label": "Short Span",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215497-k-wata-give-u-space",
       "imageUrl": "https://www.normanrecords.com/artwork/large/247/215497-k-wata-give-u-space.jpg",
@@ -9569,7 +9595,7 @@
       "title": "Hoping as a Coping Mechanism",
       "format": "LP",
       "label": "5dB Records",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215496-mould-hoping-as-a-coping-mechanism",
       "imageUrl": "https://www.normanrecords.com/artwork/large/246/215496-mould-hoping-as-a-coping-mechanism.jpg",
@@ -9588,7 +9614,7 @@
       "title": "Tessares",
       "format": "LP",
       "label": "Planet Mu",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215491-dgohn-tessares",
       "imageUrl": "https://www.normanrecords.com/artwork/large/241/215491-dgohn-tessares.jpg",
@@ -9599,15 +9625,14 @@
           "url": "https://www.normanrecords.com/records/215491-dgohn-tessares"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/49/bf/f549bfc9-fbfc-4212-d364-8efd403bd1ba/mzaf_12224096473840570094.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/49/bf/f549bfc9-fbfc-4212-d364-8efd403bd1ba/mzaf_12224096473840570094.plus.aac.p.m4a"
     },
     {
       "artist": "Graham Coxon",
       "title": "Castle Park",
       "format": "LP",
       "label": "Transgressive",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215389-graham-coxon-castle-park",
       "imageUrl": "https://www.normanrecords.com/artwork/large/139/215389-graham-coxon-castle-park.jpg",
@@ -9629,7 +9654,7 @@
       "title": "Blown",
       "format": "LP",
       "label": "4AD",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215429-swallow-blown",
       "imageUrl": "https://www.normanrecords.com/artwork/large/179/215429-swallow-blown.jpg",
@@ -9640,15 +9665,14 @@
           "url": "https://www.normanrecords.com/records/215429-swallow-blown"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/c6/a0/92c6a00a-e21b-4bf2-7fc9-748823ffa994/mzaf_2523452602745836854.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/c6/a0/92c6a00a-e21b-4bf2-7fc9-748823ffa994/mzaf_2523452602745836854.plus.aac.p.m4a"
     },
     {
       "artist": "Run The Jewels",
       "title": "Run The Jewels 2",
       "format": "LP",
       "label": "Mass Appeal",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/150111-run-the-jewels-run-the-jewels-2",
       "imageUrl": "https://www.normanrecords.com/artwork/large/111/150111-run-the-jewels-run-the-jewels-2.jpg",
@@ -9659,15 +9683,14 @@
           "url": "https://www.normanrecords.com/records/150111-run-the-jewels-run-the-jewels-2"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/b9/d2/22b9d20e-7a4d-dcf2-1bee-098dc3c8f0c8/mzaf_17704367826533409681.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/b9/d2/22b9d20e-7a4d-dcf2-1bee-098dc3c8f0c8/mzaf_17704367826533409681.plus.aac.p.m4a"
     },
     {
       "artist": "Kensuke Ushio",
       "title": "Chainsaw Man – The Movie: Reze Arc (Original Soundtrack - Summer's End)",
       "format": "LP",
       "label": "Milan",
-      "releaseDate": "2026-04-25",
+      "releaseDate": "2026-04-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215556-kensuke-ushio-chainsaw-man-the-movie-reze",
       "imageUrl": "https://www.normanrecords.com/artwork/large/56/215556-kensuke-ushio-chainsaw-man-the-movie-reze.jpg",
@@ -9678,8 +9701,7 @@
           "url": "https://www.normanrecords.com/records/215556-kensuke-ushio-chainsaw-man-the-movie-reze"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/9c/ff/719cffc2-53d9-870d-0c4f-8785ebc2391b/mzaf_7406867599234666987.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/9c/ff/719cffc2-53d9-870d-0c4f-8785ebc2391b/mzaf_7406867599234666987.plus.aac.p.m4a"
     },
     {
       "artist": "Massive Attack & Tom Waits",
@@ -32762,5 +32784,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-04-25T02:44:51.496Z"
+  "updatedAt": "2026-04-26T03:04:47.970Z"
 }
