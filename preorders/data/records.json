@@ -1288,6 +1288,10 @@
         {
           "store": "Boomkat",
           "url": "https://boomkat.com/products/lucky-464e0770-6536-4f62-8cef-b0a25c70b984"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/lucky-vinyl/1147332-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/af/47/00/af47009b-54a1-b3f4-519b-50deece98981/mzaf_200596150073487015.plus.aac.p.m4a",
@@ -3081,6 +3085,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/26/45/dd264562-fdfe-edf1-a432-1e784fb6d53c/mzaf_9044254879185139489.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The MARY ONETTES",
+      "title": "Sworn",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Welfare Sounds",
+      "releaseDate": "2026-06-02",
+      "url": "https://www.juno.co.uk/products/the-mary-onettes-sworn-vinyl/1138359-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1138359-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-mary-onettes-sworn-vinyl/1138359-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/f1/93/2bf193f1-da10-2821-38d1-c6a9acb0e0ba/mzaf_6416388715364569911.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -7121,6 +7145,10 @@
         {
           "store": "Cargo Records",
           "url": "https://www.cargo-records.de/en/item/175149/katalog_art.123.html"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/touch-girl-apple-blossom-graceful-vinyl/1138455-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/46/08/6046084d-f60f-5899-5879-22a7a760b6ae/mzaf_9514734752602363159.plus.aac.p.m4a",
@@ -10003,31 +10031,11 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "WILD PINK",
-      "title": "A Billion Little Lights",
-      "format": "LP",
-      "displayFormat": "LP",
-      "label": "Royal Mountain Canada",
-      "releaseDate": "2026-05-11",
-      "url": "https://www.juno.co.uk/products/wild-pink-a-billion-little-lights-vinyl/1153964-01/",
-      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1153964-01A-MED.jpg",
-      "store": "Juno Records",
-      "genre": "Indie",
-      "stores": [
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/wild-pink-a-billion-little-lights-vinyl/1153964-01/"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
       "artist": "MOULD",
       "title": "Hoping as a Coping Mechanism",
       "format": "LP",
       "label": "5dB Records",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215496-mould-hoping-as-a-coping-mechanism",
       "imageUrl": "https://www.normanrecords.com/artwork/large/246/215496-mould-hoping-as-a-coping-mechanism.jpg",
@@ -10046,7 +10054,7 @@
       "title": "Heathen Axe",
       "format": "LP",
       "label": "Deathgod Records",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215690-heathen-axe-heathen-axe",
       "imageUrl": "https://www.normanrecords.com/artwork/large/190/215690-heathen-axe-heathen-axe.jpg",
@@ -10064,7 +10072,7 @@
       "title": "Emotional Junglist",
       "format": "LP",
       "label": "Island",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215660-nia-archives-emotional-junglist",
       "imageUrl": "https://www.normanrecords.com/artwork/large/160/215660-nia-archives-emotional-junglist.jpg",
@@ -10086,7 +10094,7 @@
       "title": "Monkey Mind",
       "format": "LP",
       "label": "Stones Throw",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215577-pearl-the-oysters-monkey-mind",
       "imageUrl": "https://www.normanrecords.com/artwork/large/77/215577-pearl-the-oysters-monkey-mind.jpg",
@@ -10104,7 +10112,7 @@
       "title": "When Does This Place Become Our Scene",
       "format": "LP",
       "label": "Sargent House",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215583-hammok-when-does-this-place-become",
       "imageUrl": "https://www.normanrecords.com/artwork/large/83/215583-hammok-when-does-this-place-become.jpg",
@@ -10122,7 +10130,7 @@
       "title": "Cry Baby",
       "format": "LP",
       "label": "Loma Vista",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215604-vince-staples-cry-baby",
       "imageUrl": "https://www.normanrecords.com/artwork/large/104/215604-vince-staples-cry-baby.jpg",
@@ -10141,7 +10149,7 @@
       "title": "Dødehavet",
       "format": "LP",
       "label": "Batov Records",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215675-kronstad-2-ddehavet",
       "imageUrl": "https://www.normanrecords.com/artwork/large/175/215675-kronstad-2-ddehavet.jpg",
@@ -10159,7 +10167,7 @@
       "title": "Your Day Will Come",
       "format": "LP",
       "label": "Jagjaguwar",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215637-chanel-beads-your-day-will-come",
       "imageUrl": "https://www.normanrecords.com/artwork/large/137/215637-chanel-beads-your-day-will-come.jpg",
@@ -10177,7 +10185,7 @@
       "title": "Pocket Symphony",
       "format": "LP",
       "label": "Virgin",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/88319-air-pocket-symphony",
       "imageUrl": "https://www.normanrecords.com/artwork/large/69/88319-air-pocket-symphony.jpg",
@@ -10199,7 +10207,7 @@
       "title": "Future Development",
       "format": "LP",
       "label": "Rhymesayers",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215597-del-the-funky-homosapien-future-development",
       "imageUrl": "https://www.normanrecords.com/artwork/large/97/215597-del-the-funky-homosapien-future-development.jpg",
@@ -10217,7 +10225,7 @@
       "title": "Halcyon Blues",
       "format": "LP",
       "label": "Run For Cover",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215617-citizen-halcyon-blues",
       "imageUrl": "https://www.normanrecords.com/artwork/large/117/215617-citizen-halcyon-blues.jpg",
@@ -10239,7 +10247,7 @@
       "title": "Dos",
       "format": "LP",
       "label": "Holy Mountain",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/106191-wooden-shjips-dos",
       "imageUrl": "https://www.normanrecords.com/artwork/large/191/106191-wooden-shjips-dos.jpg",
@@ -10257,7 +10265,7 @@
       "title": "The E.P's of R.P",
       "format": "LP",
       "label": "Sealed Records",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215697-rudimentary-peni-the-eps-of-rp",
       "imageUrl": "https://www.normanrecords.com/artwork/large/197/215697-rudimentary-peni-the-eps-of-rp.jpg",
@@ -10276,7 +10284,7 @@
       "title": "The Gods Laugh",
       "format": "LP",
       "label": "Tak:Til",
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215594-alison-cotton-the-gods-laugh",
       "imageUrl": "https://www.normanrecords.com/artwork/large/94/215594-alison-cotton-the-gods-laugh.jpg",
@@ -10294,7 +10302,7 @@
       "title": "Hard Way To Live / You Bring Me Joy",
       "format": "7\"",
       "label": "Timmion",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you",
       "imageUrl": "https://www.normanrecords.com/artwork/large/223/215223-pratt-moody-and-cold-diamond-hard-way-to-live-you.jpg",
@@ -10312,7 +10320,7 @@
       "title": "Killing The Buzz",
       "format": "7\"",
       "label": "Hassle",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215384-the-black-wizards-killing-the-buzz",
       "imageUrl": "https://www.normanrecords.com/artwork/large/134/215384-the-black-wizards-killing-the-buzz.jpg",
@@ -10334,7 +10342,7 @@
       "title": "The Punkettes",
       "format": "7\"",
       "label": "Get Better",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215409-hunx-and-his-punx-the-punkettes",
       "imageUrl": "https://www.normanrecords.com/artwork/large/159/215409-hunx-and-his-punx-the-punkettes.jpg",
@@ -10352,7 +10360,7 @@
       "title": "The Hypnotist",
       "format": "7\"",
       "label": "Fruits de Mer",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215460-sisterlove-the-hypnotist",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/210/215460-sisterlove-the-hypnotist.jpg",
@@ -10370,7 +10378,7 @@
       "title": "If I Could Fly / Barbarella (Live)",
       "format": "7\"",
       "label": "Scott Weiland",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215431-scott-weiland-if-i-could-fly-barbarella",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/181/215431-scott-weiland-if-i-could-fly-barbarella.jpg",
@@ -10388,7 +10396,7 @@
       "title": "When I'm With You",
       "format": "7\"",
       "label": "Damaged Goods",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215345-cyanide-pills-when-im-with-you",
       "imageUrl": "https://www.normanrecords.com/artwork/large/95/215345-cyanide-pills-when-im-with-you.jpg",
@@ -10410,7 +10418,7 @@
       "title": "Promise To Keep / Change of Heart",
       "format": "7\"",
       "label": "Mr Bongo",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215518-ella-thompson-promise-to-keep-change-of",
       "imageUrl": "https://www.normanrecords.com/artwork/large/18/215518-ella-thompson-promise-to-keep-change-of.jpg",
@@ -10432,7 +10440,7 @@
       "title": "Double Moon",
       "format": "7\"",
       "label": "RVNG Intl",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215509-emily-a-sprague-double-moon",
       "imageUrl": "https://www.normanrecords.com/artwork/large/9/215509-emily-a-sprague-double-moon.jpg",
@@ -10454,7 +10462,7 @@
       "title": "World A Music",
       "format": "7\"",
       "label": "Taxi",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215540-ini-kamoze-world-a-music",
       "imageUrl": "https://www.normanrecords.com/artwork/large/40/215540-ini-kamoze-world-a-music.jpg",
@@ -10472,7 +10480,7 @@
       "title": "The Standard Model / I Watched You as Your Mind Slipped Far (Away from Me)",
       "format": "7\"",
       "label": "Speedy Wunderground",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215537-morn-the-standard-model-i-watched",
       "imageUrl": "https://www.normanrecords.com/artwork/large/37/215537-morn-the-standard-model-i-watched.jpg",
@@ -10490,7 +10498,7 @@
       "title": "Don't Let It Control You",
       "format": "7\"",
       "label": "Killer Candy Records",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215569-uncle-acid-the-deadbeats-dont-let-it-control-you",
       "imageUrl": "https://www.normanrecords.com/artwork/large/69/215569-uncle-acid-the-deadbeats-dont-let-it-control-you.jpg",
@@ -10508,7 +10516,7 @@
       "title": "Chicken Leg / If I Could",
       "format": "7\"",
       "label": "Colemine",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215634-delvon-lamarr-organ-trio-chicken-leg-if-i-could",
       "imageUrl": "https://www.normanrecords.com/artwork/large/134/215634-delvon-lamarr-organ-trio-chicken-leg-if-i-could.jpg",
@@ -10526,7 +10534,7 @@
       "title": "Everything Is Stolen Anyway",
       "format": "7\"",
       "label": "DeepMatter",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215672-sholto-everything-is-stolen-anyway",
       "imageUrl": "https://www.normanrecords.com/artwork/large/172/215672-sholto-everything-is-stolen-anyway.jpg",
@@ -10544,7 +10552,7 @@
       "title": "Are we friends yet?",
       "format": "7\"",
       "label": "Young",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215633-1000-rabbits-are-we-friends-yet",
       "imageUrl": "https://www.normanrecords.com/artwork/large/133/215633-1000-rabbits-are-we-friends-yet.jpg",
@@ -10562,7 +10570,7 @@
       "title": "Destination Nowhere / 9-9-9",
       "format": "7\"",
       "label": "Ancient Grease Records",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215746-shaggy-heatwave-destination-nowhere-999",
       "imageUrl": "https://www.normanrecords.com/artwork/large/246/215746-shaggy-heatwave-destination-nowhere-999.jpg",
@@ -10581,7 +10589,7 @@
       "title": "Trickster / 3am Crowd",
       "format": "7\"",
       "label": "Feral Child",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215766-vorderhaus-trickster-3am-crowd",
       "imageUrl": "https://www.normanrecords.com/artwork/large/16/215766-vorderhaus-trickster-3am-crowd.jpg",
@@ -10600,7 +10608,7 @@
       "title": "Should I Stay Or Should I Go",
       "format": "7\"",
       "label": "Columbia",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215823-the-clash-should-i-stay-or-should",
       "imageUrl": "https://www.normanrecords.com/artwork/large/73/215823-the-clash-should-i-stay-or-should.jpg",
@@ -10609,17 +10617,20 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/215823-the-clash-should-i-stay-or-should"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-clash/should-i-stay-or-should-i-go/19958438187"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2a/81/23/2a8123dd-9b78-cd6e-c802-a8ccc2d7fbad/mzaf_17446670162302022873.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2a/81/23/2a8123dd-9b78-cd6e-c802-a8ccc2d7fbad/mzaf_17446670162302022873.plus.aac.p.m4a"
     },
     {
       "artist": "Baddiel, Skinner & Lightning Seeds",
       "title": "Three Lions (Football's Coming Home): 30th Anniversary Edition",
       "format": "7\"",
       "label": "Columbia",
-      "releaseDate": "2026-05-09",
+      "releaseDate": "2026-05-11",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home",
       "imageUrl": "https://www.normanrecords.com/artwork/large/68/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home.jpg",
@@ -10630,8 +10641,27 @@
           "url": "https://www.normanrecords.com/records/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a"
+    },
+    {
+      "artist": "WILD PINK",
+      "title": "A Billion Little Lights",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Royal Mountain Canada",
+      "releaseDate": "2026-05-11",
+      "url": "https://www.juno.co.uk/products/wild-pink-a-billion-little-lights-vinyl/1153964-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1153964-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/wild-pink-a-billion-little-lights-vinyl/1153964-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
     },
     {
       "artist": "Alberto Iglesias",
@@ -36682,5 +36712,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-05-10T03:12:14.023Z"
+  "updatedAt": "2026-05-11T03:24:15.494Z"
 }
