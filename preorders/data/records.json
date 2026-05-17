@@ -1153,6 +1153,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/muse/the-wow%21-signal/5026854665789"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/muse-the-wow-signal-vinyl/1156270-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/3f/39/893f398c-1491-3399-5722-5a48de5ef7b6/mzaf_17005053488462784528.plus.aac.p.m4a",
@@ -1711,6 +1715,26 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "ONEREPUBLIC",
+      "title": "Waking Up (reissue)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Mosley Music US",
+      "releaseDate": "2026-06-26",
+      "url": "https://www.juno.co.uk/products/onerepublic-waking-up-vinyl/1156266-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1156266-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/onerepublic-waking-up-vinyl/1156266-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/27/85/db278579-9e08-1b76-bea0-079c731bb29b/mzaf_7982654315389810691.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -2671,6 +2695,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/death-cab-for-cutie/i-built-you-a-tower/281702"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/death-cab-for-i-built-you-a-tower-vinyl/1156277-01/"
         }
       ],
       "itunesPreviewUrl": "",
@@ -9480,7 +9508,7 @@
       "title": "The Hypnotist",
       "format": "7\"",
       "label": "Fruits de Mer",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215460-sisterlove-the-hypnotist",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/210/215460-sisterlove-the-hypnotist.jpg",
@@ -9498,7 +9526,7 @@
       "title": "If I Could Fly / Barbarella (Live)",
       "format": "7\"",
       "label": "Scott Weiland",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215431-scott-weiland-if-i-could-fly-barbarella",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/181/215431-scott-weiland-if-i-could-fly-barbarella.jpg",
@@ -9516,7 +9544,7 @@
       "title": "Promise To Keep / Change of Heart",
       "format": "7\"",
       "label": "Mr Bongo",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215518-ella-thompson-promise-to-keep-change-of",
       "imageUrl": "https://www.normanrecords.com/artwork/large/18/215518-ella-thompson-promise-to-keep-change-of.jpg",
@@ -9538,7 +9566,7 @@
       "title": "Double Moon",
       "format": "7\"",
       "label": "RVNG Intl",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215509-emily-a-sprague-double-moon",
       "imageUrl": "https://www.normanrecords.com/artwork/large/9/215509-emily-a-sprague-double-moon.jpg",
@@ -9560,7 +9588,7 @@
       "title": "World A Music",
       "format": "7\"",
       "label": "Taxi",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215540-ini-kamoze-world-a-music",
       "imageUrl": "https://www.normanrecords.com/artwork/large/40/215540-ini-kamoze-world-a-music.jpg",
@@ -9578,7 +9606,7 @@
       "title": "Don't Let It Control You",
       "format": "7\"",
       "label": "Killer Candy Records",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215569-uncle-acid-the-deadbeats-dont-let-it-control-you",
       "imageUrl": "https://www.normanrecords.com/artwork/large/69/215569-uncle-acid-the-deadbeats-dont-let-it-control-you.jpg",
@@ -9596,7 +9624,7 @@
       "title": "Chicken Leg / If I Could",
       "format": "7\"",
       "label": "Colemine",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215634-delvon-lamarr-organ-trio-chicken-leg-if-i-could",
       "imageUrl": "https://www.normanrecords.com/artwork/large/134/215634-delvon-lamarr-organ-trio-chicken-leg-if-i-could.jpg",
@@ -9618,7 +9646,7 @@
       "title": "Everything Is Stolen Anyway",
       "format": "7\"",
       "label": "DeepMatter",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215672-sholto-everything-is-stolen-anyway",
       "imageUrl": "https://www.normanrecords.com/artwork/large/172/215672-sholto-everything-is-stolen-anyway.jpg",
@@ -9636,7 +9664,7 @@
       "title": "Destination Nowhere / 9-9-9",
       "format": "7\"",
       "label": "Ancient Grease Records",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215746-shaggy-heatwave-destination-nowhere-999",
       "imageUrl": "https://www.normanrecords.com/artwork/large/246/215746-shaggy-heatwave-destination-nowhere-999.jpg",
@@ -9655,7 +9683,7 @@
       "title": "Trickster / 3am Crowd",
       "format": "7\"",
       "label": "Feral Child",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215766-vorderhaus-trickster-3am-crowd",
       "imageUrl": "https://www.normanrecords.com/artwork/large/16/215766-vorderhaus-trickster-3am-crowd.jpg",
@@ -9674,7 +9702,7 @@
       "title": "Should I Stay Or Should I Go",
       "format": "7\"",
       "label": "Columbia",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215823-the-clash-should-i-stay-or-should",
       "imageUrl": "https://www.normanrecords.com/artwork/large/73/215823-the-clash-should-i-stay-or-should.jpg",
@@ -9696,7 +9724,7 @@
       "title": "Three Lions (Football's Coming Home): 30th Anniversary Edition",
       "format": "7\"",
       "label": "Columbia",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home",
       "imageUrl": "https://www.normanrecords.com/artwork/large/68/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home.jpg",
@@ -9714,7 +9742,7 @@
       "title": "1-2-3",
       "format": "7\"",
       "label": "Colemine",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215851-oliver-james-123",
       "imageUrl": "https://www.normanrecords.com/artwork/large/101/215851-oliver-james-123.jpg",
@@ -9732,7 +9760,7 @@
       "title": "Decoding Birdsong",
       "format": "LP",
       "label": "Mushroom Music",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215696-antony-szmierek-decoding-birdsong",
       "imageUrl": "https://www.normanrecords.com/artwork/large/196/215696-antony-szmierek-decoding-birdsong.jpg",
@@ -9754,7 +9782,7 @@
       "title": "Shallow Hits",
       "format": "LP",
       "label": "Ninja Tune",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215725-ebbb-shallow-hits",
       "imageUrl": "https://www.normanrecords.com/artwork/large/225/215725-ebbb-shallow-hits.jpg",
@@ -9776,7 +9804,7 @@
       "title": "You're Gonna Need A Little Music",
       "format": "LP",
       "label": "Island",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215780-yard-act-youre-gonna-need-a-little",
       "imageUrl": "https://www.normanrecords.com/artwork/large/30/215780-yard-act-youre-gonna-need-a-little.jpg",
@@ -9798,7 +9826,7 @@
       "title": "Pills ‘n’ Thrills and Bellyaches",
       "format": "LP",
       "label": "London",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215700-happy-mondays-pills-n-thrills-and-bellyaches",
       "imageUrl": "https://www.normanrecords.com/artwork/large/200/215700-happy-mondays-pills-n-thrills-and-bellyaches.jpg",
@@ -9820,7 +9848,7 @@
       "title": "Punching The Clown",
       "format": "LP",
       "label": "City Slang",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215733-lambchop-punching-the-clown",
       "imageUrl": "https://www.normanrecords.com/artwork/large/233/215733-lambchop-punching-the-clown.jpg",
@@ -9846,7 +9874,7 @@
       "title": "new avatar",
       "format": "LP",
       "label": "Warp",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215750-kelela-new-avatar",
       "imageUrl": "https://www.normanrecords.com/artwork/large/0/215750-kelela-new-avatar.jpg",
@@ -9864,7 +9892,7 @@
       "title": "Master, We Perish",
       "format": "LP",
       "label": "Thrill Jockey",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215609-the-body-master-we-perish",
       "imageUrl": "https://www.normanrecords.com/artwork/large/109/215609-the-body-master-we-perish.jpg",
@@ -9882,7 +9910,7 @@
       "title": "No/Ava/100€",
       "format": "LP",
       "label": "Many Hats",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215732-model-actriz-noava100",
       "imageUrl": "https://www.normanrecords.com/artwork/large/232/215732-model-actriz-noava100.jpg",
@@ -9900,7 +9928,7 @@
       "title": "Karaoke Bar",
       "format": "LP",
       "label": "Angus & Julia Stone Records",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215808-angus-julia-stone-karaoke-bar",
       "imageUrl": "https://www.normanrecords.com/artwork/large/58/215808-angus-julia-stone-karaoke-bar.jpg",
@@ -9922,7 +9950,7 @@
       "title": "Neverending",
       "format": "LP",
       "label": "Relapse",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215771-monolord-neverending",
       "imageUrl": "https://www.normanrecords.com/artwork/large/21/215771-monolord-neverending.jpg",
@@ -9940,7 +9968,7 @@
       "title": "Glassy Tears",
       "format": "LP",
       "label": "Feral Child",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215765-mitra-mitra-glassy-tears",
       "imageUrl": "https://www.normanrecords.com/artwork/large/15/215765-mitra-mitra-glassy-tears.jpg",
@@ -9959,7 +9987,7 @@
       "title": "Terra Incognita",
       "format": "LP",
       "label": "Tonal Union",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215753-akusmi-terra-incognita",
       "imageUrl": "https://www.normanrecords.com/artwork/large/3/215753-akusmi-terra-incognita.jpg",
@@ -9977,7 +10005,7 @@
       "title": "Hell On Earth",
       "format": "LP",
       "label": "Get On Down",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/150667-mobb-deep-hell-on-earth",
       "imageUrl": "https://www.normanrecords.com/artwork/large/167/150667-mobb-deep-hell-on-earth.jpg",
@@ -9995,7 +10023,7 @@
       "title": "The Infamous",
       "format": "LP",
       "label": "Loud",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/115746-mobb-deep-infamous",
       "imageUrl": "https://www.normanrecords.com/artwork/large/246/115746-mobb-deep-infamous.jpg",
@@ -10013,7 +10041,7 @@
       "title": "The Greatest (20th Anniversary Edition)",
       "format": "LP",
       "label": "Matador",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215749-cat-power-the-greatest-20th-anniversary-edition",
       "imageUrl": "https://www.normanrecords.com/artwork/large/249/215749-cat-power-the-greatest-20th-anniversary-edition.jpg",
@@ -10031,7 +10059,7 @@
       "title": "Human Assholes",
       "format": "LP",
       "label": "Bella Union",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215736-personal-trainer-human-assholes",
       "imageUrl": "https://www.normanrecords.com/artwork/large/236/215736-personal-trainer-human-assholes.jpg",
@@ -10049,7 +10077,7 @@
       "title": "From The Edge",
       "format": "LP",
       "label": "Clay Pipe Music",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215755-richard-bundy-anna-phoebe-from-the-edge",
       "imageUrl": "https://www.normanrecords.com/artwork/large/5/215755-richard-bundy-anna-phoebe-from-the-edge.jpg",
@@ -10067,7 +10095,7 @@
       "title": "Passover",
       "format": "LP",
       "label": "Light In The Attic",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/85710-black-angels-passover",
       "imageUrl": "https://www.normanrecords.com/artwork/large/210/85710-black-angels-passover.jpg",
@@ -10085,7 +10113,7 @@
       "title": "I’m Still Here / Version",
       "format": "7\"",
       "label": "Daptone",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215885-sugar-minott-im-still-here-version",
       "imageUrl": "https://www.normanrecords.com/artwork/large/135/215885-sugar-minott-im-still-here-version.jpg",
@@ -10103,7 +10131,7 @@
       "title": "Chauffeur",
       "format": "7\"",
       "label": "Daptone",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215884-the-womack-sisters-chauffeur",
       "imageUrl": "https://www.normanrecords.com/artwork/large/134/215884-the-womack-sisters-chauffeur.jpg",
@@ -10121,7 +10149,7 @@
       "title": "Triple Ones",
       "format": "7\"",
       "label": "Carpark",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215870-artificial-go-triple-ones",
       "imageUrl": "https://www.normanrecords.com/artwork/large/120/215870-artificial-go-triple-ones.jpg",
@@ -10143,7 +10171,7 @@
       "title": "Uphill / Apple",
       "format": "7\"",
       "label": "Red Licorice Records",
-      "releaseDate": "2026-05-16",
+      "releaseDate": "2026-05-17",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215899-herbie-may-uphill-apple",
       "imageUrl": "https://www.normanrecords.com/artwork/large/149/215899-herbie-may-uphill-apple.jpg",
@@ -14420,6 +14448,44 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/ea/36/d5ea36b4-e5f4-32fc-3390-0c27d59894a7/mzaf_17292289264440534708.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Telehealth",
+      "title": "Green World Image",
+      "format": "LP",
+      "label": "Sub Pop",
+      "releaseDate": "2026-05-15",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/telehealth/green-world-image/SP1720X",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SP1720X",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/telehealth/green-world-image/SP1720X"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/1b/c1/1e1bc1d3-18bf-09d9-fa38-c55ecb002693/mzaf_7328810614644425176.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Graham Reynolds",
+      "title": "The Portcullis",
+      "format": "LP",
+      "label": "Fire Records",
+      "releaseDate": "2026-05-15",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/graham-reynolds/the-portcullis/FIRELP833",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FIRELP833",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/graham-reynolds/the-portcullis/FIRELP833"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/72/40/6e7240a1-cc78-d329-b8f1-a0e635c323f5/mzaf_12697441416021340763.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -19806,6 +19872,10 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/215429-swallow-blown"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/swallow/blown/4AD0866LPX"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/c6/a0/92c6a00a-e21b-4bf2-7fc9-748823ffa994/mzaf_2523452602745836854.plus.aac.p.m4a"
@@ -40911,26 +40981,7 @@
       ],
       "itunesPreviewUrl": "",
       "hasDeezerPreview": true
-    },
-    {
-      "artist": "Hemlocke Springs",
-      "title": "the apple tree under the sea",
-      "format": "LP",
-      "label": "Good Luck Have Fun Records, LLC",
-      "releaseDate": "2026-02-13",
-      "store": "Banquet Records",
-      "url": "https://www.banquetrecords.com/hemlocke-springs/the-apple-tree-under-the-sea/HEMLP01",
-      "imageUrl": "https://www.banquetrecords.com/item.png?HEMLP01",
-      "genre": "",
-      "stores": [
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/hemlocke-springs/the-apple-tree-under-the-sea/HEMLP01"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/05/be/2a05be51-bca1-b3ff-6f4e-202e06ca7a8d/mzaf_15693392559546993868.plus.aac.p.m4a",
-      "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-05-16T03:15:11.965Z"
+  "updatedAt": "2026-05-17T03:21:21.772Z"
 }
