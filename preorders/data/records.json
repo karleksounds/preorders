@@ -143,6 +143,25 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Nothing But Thieves",
+      "title": "Stray Dogs",
+      "format": "LP",
+      "label": "",
+      "releaseDate": "2026-09-25",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/nothing-but-thieves/stray-dogs/19958453492",
+      "imageUrl": "https://www.banquetrecords.com/item.png?19958453492",
+      "genre": "Indie Albums Indies",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/nothing-but-thieves/stray-dogs/19958453492"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/97/51/f09751cd-2d63-f3e8-4921-4bd9bea03ad2/mzaf_4156203515728925564.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "EYRE LLEW",
       "title": "Bloom",
       "format": "LP",
@@ -305,25 +324,6 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "Arab Strap",
-      "title": "Half-Told Tales",
-      "format": "LP",
-      "label": "Rock Action",
-      "releaseDate": "2026-09-04",
-      "store": "Banquet Records",
-      "url": "https://www.banquetrecords.com/arab-strap/half-told-tales/ROCKAC173CD",
-      "imageUrl": "https://www.banquetrecords.com/item.png?ROCKAC173CD",
-      "genre": "Indie Albums Indies",
-      "stores": [
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/arab-strap/half-told-tales/ROCKAC173CD"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/3c/00/c83c00b0-fa7c-0505-684e-b375114ec81b/mzaf_18359898093190000096.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
       "artist": "PRESIDENT",
       "title": "Blood Of Your Empire",
       "format": "LP",
@@ -439,25 +439,6 @@
       "hasDeezerPreview": true
     },
     {
-      "artist": "Westside Cowboy",
-      "title": "It Goes On",
-      "format": "LP",
-      "label": "Island",
-      "releaseDate": "2026-08-21",
-      "store": "Banquet Records",
-      "url": "https://www.banquetrecords.com/westside-cowboy/it-goes-on/5797893",
-      "imageUrl": "https://www.banquetrecords.com/item.png?5797893",
-      "genre": "",
-      "stores": [
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/westside-cowboy/it-goes-on/5797893"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/71/b0/8471b0bc-deff-5595-6ca0-ebb41917051a/mzaf_5553723293250333341.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
       "artist": "Jungle",
       "title": "Sunshine",
       "format": "LP",
@@ -520,25 +501,6 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "Getdown Services",
-      "title": "Massive Champion",
-      "format": "LP",
-      "label": "Breakfast Records",
-      "releaseDate": "2026-08-14",
-      "store": "Banquet Records",
-      "url": "https://www.banquetrecords.com/getdown-services/massive-champion/BR083CD",
-      "imageUrl": "https://www.banquetrecords.com/item.png?BR083CD",
-      "genre": "Dinked",
-      "stores": [
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/getdown-services/massive-champion/BR083CD"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/9a/00/1a9a0007-12c0-4e07-d445-826097c4604c/mzaf_8951232795731151586.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
       "artist": "The Script",
       "title": "The User's Guide to Being Human",
       "format": "LP",
@@ -555,6 +517,25 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/62/ab/fb62ab62-b51c-0b5a-cf52-b09885f2ddb7/mzaf_7581260796519666444.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Boston Manor",
+      "title": "Be Nothing (10th Anniversary)",
+      "format": "LP",
+      "label": "Pure Noise",
+      "releaseDate": "2026-08-14",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/boston-manor/be-nothing-%2810th-anniversary%29/PNE4711",
+      "imageUrl": "https://www.banquetrecords.com/item.png?PNE4711",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/boston-manor/be-nothing-%2810th-anniversary%29/PNE4711"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/3a/4f/f23a4f0f-58b2-d260-8a1a-c84b9dc603e2/mzaf_12406416409655001225.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -10234,30 +10215,11 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "Maisie Peters",
-      "title": "Florescence [Personally Signed]",
-      "format": "LP",
-      "label": "Atlantic",
-      "releaseDate": "2026-05-27",
-      "store": "Banquet Records",
-      "url": "https://www.banquetrecords.com/maisie-peters/florescence-%5Bpersonally-signed%5D/P5026854143897S",
-      "imageUrl": "https://www.banquetrecords.com/item.png?P5026854143897S",
-      "genre": "Indie Albums Indies PopSigned",
-      "stores": [
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/maisie-peters/florescence-%5Bpersonally-signed%5D/P5026854143897S"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
       "artist": "Oliver James",
       "title": "1-2-3",
       "format": "7\"",
       "label": "Colemine",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215851-oliver-james-123",
       "imageUrl": "https://www.normanrecords.com/artwork/large/101/215851-oliver-james-123.jpg",
@@ -10275,7 +10237,7 @@
       "title": "I’m Still Here / Version",
       "format": "7\"",
       "label": "Daptone",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215885-sugar-minott-im-still-here-version",
       "imageUrl": "https://www.normanrecords.com/artwork/large/135/215885-sugar-minott-im-still-here-version.jpg",
@@ -10293,7 +10255,7 @@
       "title": "Chauffeur",
       "format": "7\"",
       "label": "Daptone",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215884-the-womack-sisters-chauffeur",
       "imageUrl": "https://www.normanrecords.com/artwork/large/134/215884-the-womack-sisters-chauffeur.jpg",
@@ -10311,7 +10273,7 @@
       "title": "Triple Ones",
       "format": "7\"",
       "label": "Carpark",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215870-artificial-go-triple-ones",
       "imageUrl": "https://www.normanrecords.com/artwork/large/120/215870-artificial-go-triple-ones.jpg",
@@ -10333,7 +10295,7 @@
       "title": "Uphill / Apple",
       "format": "7\"",
       "label": "Red Licorice Records",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215899-herbie-may-uphill-apple",
       "imageUrl": "https://www.normanrecords.com/artwork/large/149/215899-herbie-may-uphill-apple.jpg",
@@ -10356,7 +10318,7 @@
       "title": "It's a Shame / The Fool",
       "format": "7\"",
       "label": "Colemine",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/215971-aaron-frazer-its-a-shame-the-fool",
       "imageUrl": "https://www.normanrecords.com/artwork/large/221/215971-aaron-frazer-its-a-shame-the-fool.jpg",
@@ -10378,7 +10340,7 @@
       "title": "Sunday Best",
       "format": "7\"",
       "label": "Meritorio",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216000-the-kitchenettes-sunday-best",
       "imageUrl": "https://www.normanrecords.com/artwork/large/0/216000-the-kitchenettes-sunday-best.jpg",
@@ -10400,7 +10362,7 @@
       "title": "Spooky Signs",
       "format": "7\"",
       "label": "Rogue Records",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216098-the-giant-robots-spooky-signs",
       "imageUrl": "https://www.normanrecords.com/artwork/large/98/216098-the-giant-robots-spooky-signs.jpg",
@@ -10418,7 +10380,7 @@
       "title": "Taulkinham, Tennessee / A Surprise To You, No Surprise To Me",
       "format": "7\"",
       "label": "Spinout Nuggets",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216065-the-guy-hamper-trio-feat-taulkinham-tennessee-a-surprise-to",
       "imageUrl": "https://www.normanrecords.com/artwork/large/65/216065-the-guy-hamper-trio-feat-taulkinham-tennessee-a-surprise-to.jpg",
@@ -10437,7 +10399,7 @@
       "title": "Guns Of Navarone",
       "format": "7\"",
       "label": "Soul Jazz",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/197729-the-skatalites-guns-of-navarone",
       "imageUrl": "https://www.normanrecords.com/artwork/large/229/197729-the-skatalites-guns-of-navarone.jpg",
@@ -10455,7 +10417,7 @@
       "title": "Feel Like Jumping / Feel Like Jumping Pt. 2",
       "format": "7\"",
       "label": "Soul Jazz",
-      "releaseDate": "2026-05-26",
+      "releaseDate": "2026-05-27",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/160098-marcia-griffiths-dub-specialist-feel-like-jumping-feel-like",
       "imageUrl": "https://www.normanrecords.com/artwork/large/98/160098-marcia-griffiths-dub-specialist-feel-like-jumping-feel-like.jpg",
@@ -10467,6 +10429,553 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/d0/c9/19d0c91b-b17b-d457-dff7-1b69e309fb29/mzaf_6440186155502707000.plus.aac.p.m4a"
+    },
+    {
+      "artist": "SHOLTO",
+      "title": "Everything Is Stolen Anyway",
+      "format": "7\"",
+      "label": "DeepMatter",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215672-sholto-everything-is-stolen-anyway",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/172/215672-sholto-everything-is-stolen-anyway.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215672-sholto-everything-is-stolen-anyway"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/bd/b4/89bdb48f-bb93-0407-360e-b3706771d649/mzaf_5135516826200121507.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Shaggy / Heatwave",
+      "title": "Destination Nowhere / 9-9-9",
+      "format": "7\"",
+      "label": "Ancient Grease Records",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215746-shaggy-heatwave-destination-nowhere-999",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/246/215746-shaggy-heatwave-destination-nowhere-999.jpg",
+      "genre": "Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215746-shaggy-heatwave-destination-nowhere-999"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Vorderhaus",
+      "title": "Trickster / 3am Crowd",
+      "format": "7\"",
+      "label": "Feral Child",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215766-vorderhaus-trickster-3am-crowd",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/16/215766-vorderhaus-trickster-3am-crowd.jpg",
+      "genre": "Electronic",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215766-vorderhaus-trickster-3am-crowd"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Clash",
+      "title": "Should I Stay Or Should I Go",
+      "format": "7\"",
+      "label": "Columbia",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215823-the-clash-should-i-stay-or-should",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/73/215823-the-clash-should-i-stay-or-should.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215823-the-clash-should-i-stay-or-should"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-clash/should-i-stay-or-should-i-go/19958438187"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2a/81/23/2a8123dd-9b78-cd6e-c802-a8ccc2d7fbad/mzaf_17446670162302022873.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Baddiel, Skinner & Lightning Seeds",
+      "title": "Three Lions (Football's Coming Home): 30th Anniversary Edition",
+      "format": "7\"",
+      "label": "Columbia",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/68/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Datura4",
+      "title": "I'm A Man",
+      "format": "7\"",
+      "label": "Rogue Records",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216099-datura4-im-a-man",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/99/216099-datura4-im-a-man.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216099-datura4-im-a-man"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Freddie McGregor / Dub Specialist",
+      "title": "Bobby Bobylon / Hi Fashion Dub",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/165313-freddie-mcgregor-dub-specialist-bobby-bobylon-hi-fashion-dub",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/63/165313-freddie-mcgregor-dub-specialist-bobby-bobylon-hi-fashion-dub.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/165313-freddie-mcgregor-dub-specialist-bobby-bobylon-hi-fashion-dub"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/c2/f2/5cc2f28c-42af-e0f8-86d0-ed053c6319c2/mzaf_6880466799681978294.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Dawn Penn / Jackie Mittoo",
+      "title": "No, No, No / Ghetto Organ",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/160096-dawn-penn-jackie-mittoo-no-no-no-ghetto-organ",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/96/160096-dawn-penn-jackie-mittoo-no-no-no-ghetto-organ.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/160096-dawn-penn-jackie-mittoo-no-no-no-ghetto-organ"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Carlton & The Shoes",
+      "title": "Love Me Forever / Never Let Go",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/165312-carlton-the-shoes-love-me-forever-never-let",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/62/165312-carlton-the-shoes-love-me-forever-never-let.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/165312-carlton-the-shoes-love-me-forever-never-let"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b3/d2/42/b3d24208-c4a4-335b-c769-48e0b4560d9c/mzaf_3254400416596013187.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Lord Tanamo / Jackie Mittoo",
+      "title": "Keep On Moving / Totally Together",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/165314-lord-tanamo-jackie-mittoo-keep-on-moving-totally-together",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/64/165314-lord-tanamo-jackie-mittoo-keep-on-moving-totally-together.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/165314-lord-tanamo-jackie-mittoo-keep-on-moving-totally-together"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Hortense Ellis",
+      "title": "People Make The World Go Round",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/197727-hortense-ellis-people-make-the-world-go",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/227/197727-hortense-ellis-people-make-the-world-go.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/197727-hortense-ellis-people-make-the-world-go"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/76/d7/ab/76d7ab78-e2ff-97c3-6d4e-df10bc641d83/mzaf_7240227279127208466.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Isaiah Collier",
+      "title": "Joy",
+      "format": "7\"",
+      "label": "Brownswood Recordings",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216013-isaiah-collier-joy",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/13/216013-isaiah-collier-joy.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216013-isaiah-collier-joy"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/31/83/f1318313-6dce-c3f5-1ce1-80869ddbfb2e/mzaf_5535780815164943322.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Getdown Services",
+      "title": "Massive Champion",
+      "format": "LP",
+      "label": "Breakfast Records",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215970-getdown-services-massive-champion",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/220/215970-getdown-services-massive-champion.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215970-getdown-services-massive-champion"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/getdown-services/massive-champion/BR083CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/9a/00/1a9a0007-12c0-4e07-d445-826097c4604c/mzaf_8951232795731151586.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Arab Strap",
+      "title": "Half-Told Tales",
+      "format": "LP",
+      "label": "Rock Action",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216017-arab-strap-halftold-tales",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/17/216017-arab-strap-halftold-tales.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216017-arab-strap-halftold-tales"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/arab-strap/half-told-tales/ROCKAC173CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/3c/00/c83c00b0-fa7c-0505-684e-b375114ec81b/mzaf_18359898093190000096.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "It Goes On",
+      "format": "LP",
+      "label": "Island",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216061-westside-cowboy-it-goes-on",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/61/216061-westside-cowboy-it-goes-on.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216061-westside-cowboy-it-goes-on"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/westside-cowboy/it-goes-on/5797893"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/71/b0/8471b0bc-deff-5595-6ca0-ebb41917051a/mzaf_5553723293250333341.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Formal Sppeedwear",
+      "title": "Punch Card",
+      "format": "LP",
+      "label": "Melodic",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216047-formal-sppeedwear-punch-card",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/47/216047-formal-sppeedwear-punch-card.jpg",
+      "genre": "New Wave",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216047-formal-sppeedwear-punch-card"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/formal-sppeedwear/punch-card/MELO150CD"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/formal-sppeedwear-punch-card-vinyl/1158019-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/74/cb/bf74cb4f-7e5d-4626-4479-6097e623d77f/mzaf_404792073608838542.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "John Carpenter, Cody Carpenter, and Daniel Davies",
+      "title": "Cathedral",
+      "format": "LP",
+      "label": "Sacred Bones",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215986-john-carpenter-cody-carpenter-daniel-cathedral",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/236/215986-john-carpenter-cody-carpenter-daniel-cathedral.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215986-john-carpenter-cody-carpenter-daniel-cathedral"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e5/96/b6/e596b6e9-4272-cbc1-94f5-0967385dfa51/mzaf_1772061650325274721.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Nancy Sinatra",
+      "title": "Movin’ with Nancy",
+      "format": "LP",
+      "label": "Light In The Attic",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215987-nancy-sinatra-movin-with-nancy",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/237/215987-nancy-sinatra-movin-with-nancy.jpg",
+      "genre": "Folk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215987-nancy-sinatra-movin-with-nancy"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/dc/c2/d0dcc2a7-5e9f-a75b-d760-9edaa9e097c6/mzaf_16114880799707441277.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Gurriers",
+      "title": "Nobody's Coming To Save You",
+      "format": "LP",
+      "label": "Play It Again Sam",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215942-gurriers-nobodys-coming-to-save-you",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/192/215942-gurriers-nobodys-coming-to-save-you.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215942-gurriers-nobodys-coming-to-save-you"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/16/b3/9016b325-c785-a161-c14b-8afab0d9a103/mzaf_5517399841876913627.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Sweeping Promises",
+      "title": "You Say I Romanticize",
+      "format": "LP",
+      "label": "Sub Pop",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215968-sweeping-promises-you-say-i-romanticize",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/218/215968-sweeping-promises-you-say-i-romanticize.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215968-sweeping-promises-you-say-i-romanticize"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/74/3b/b4743b56-e4bf-6e23-dc99-9cab816257e5/mzaf_9848996318874140800.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Ween",
+      "title": "12 Golden Country Greats (Deluxe)",
+      "format": "LP",
+      "label": "Rhino",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216032-ween-12-golden-country-greats-deluxe",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/32/216032-ween-12-golden-country-greats-deluxe.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216032-ween-12-golden-country-greats-deluxe"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/21/93/d921938e-bd3a-8ab2-e00c-1c1d62ef57c8/mzaf_9190362166711412105.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Korb",
+      "title": "IV",
+      "format": "LP",
+      "label": "Dreamlord Recordings",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216004-korb-iv",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/4/216004-korb-iv.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216004-korb-iv"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/02/bd/67/02bd673e-0676-6042-5064-8f8589181117/mzaf_13099264125864720459.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Haruomi Hosono",
+      "title": "Yours Sincerely",
+      "format": "LP",
+      "label": "Ghostly International",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/215966-haruomi-hosono-yours-sincerely",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/216/215966-haruomi-hosono-yours-sincerely.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/215966-haruomi-hosono-yours-sincerely"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "No Cure",
+      "title": "It Is Going To Get Dark",
+      "format": "LP",
+      "label": "SharpTone",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216095-no-cure-it-is-going-to-get",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/95/216095-no-cure-it-is-going-to-get.jpg",
+      "genre": "Metal",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216095-no-cure-it-is-going-to-get"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Din Of Celestial Birds",
+      "title": "Takeoffs & Landings",
+      "format": "LP",
+      "label": "Big Scary Monsters",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216020-din-of-celestial-birds-takeoffs-landings",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/20/216020-din-of-celestial-birds-takeoffs-landings.jpg",
+      "genre": "Shoegaze",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216020-din-of-celestial-birds-takeoffs-landings"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/f2/0d/daf20df3-fe32-703f-5dff-59cac8e07731/mzaf_14097962406141676548.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Car Seat Headrest",
+      "title": "Teen of Denial: Joe's Story",
+      "format": "LP",
+      "label": "Matador",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216002-car-seat-headrest-teen-of-denial-joes-story",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/2/216002-car-seat-headrest-teen-of-denial-joes-story.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216002-car-seat-headrest-teen-of-denial-joes-story"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/18/44/ae18447d-e7a2-28d8-6b7e-5263a228bf04/mzaf_9057743487424452197.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Genghis Tron",
+      "title": "Signal Fire",
+      "format": "LP",
+      "label": "Relapse",
+      "releaseDate": "2026-05-27",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216055-genghis-tron-signal-fire",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/55/216055-genghis-tron-signal-fire.jpg",
+      "genre": "Metal",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216055-genghis-tron-signal-fire"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/23/20/c82320b4-b047-3a59-be7f-c0b528e18f2d/mzaf_3070991382722322645.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Maisie Peters",
+      "title": "Florescence [Personally Signed]",
+      "format": "LP",
+      "label": "Atlantic",
+      "releaseDate": "2026-05-27",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/maisie-peters/florescence-%5Bpersonally-signed%5D/P5026854143897S",
+      "imageUrl": "https://www.banquetrecords.com/item.png?P5026854143897S",
+      "genre": "Indie Albums Indies PopSigned",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/maisie-peters/florescence-%5Bpersonally-signed%5D/P5026854143897S"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
     },
     {
       "artist": "Various Artists",
@@ -10546,102 +11055,6 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/6e/7f/cd6e7fba-642e-1f4f-9b20-29d94162d6a3/mzaf_6073100976045736419.plus.aac.p.m4a"
-    },
-    {
-      "artist": "SHOLTO",
-      "title": "Everything Is Stolen Anyway",
-      "format": "7\"",
-      "label": "DeepMatter",
-      "releaseDate": "2026-05-25",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215672-sholto-everything-is-stolen-anyway",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/172/215672-sholto-everything-is-stolen-anyway.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215672-sholto-everything-is-stolen-anyway"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/bd/b4/89bdb48f-bb93-0407-360e-b3706771d649/mzaf_5135516826200121507.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Shaggy / Heatwave",
-      "title": "Destination Nowhere / 9-9-9",
-      "format": "7\"",
-      "label": "Ancient Grease Records",
-      "releaseDate": "2026-05-25",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215746-shaggy-heatwave-destination-nowhere-999",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/246/215746-shaggy-heatwave-destination-nowhere-999.jpg",
-      "genre": "Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215746-shaggy-heatwave-destination-nowhere-999"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Vorderhaus",
-      "title": "Trickster / 3am Crowd",
-      "format": "7\"",
-      "label": "Feral Child",
-      "releaseDate": "2026-05-25",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215766-vorderhaus-trickster-3am-crowd",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/16/215766-vorderhaus-trickster-3am-crowd.jpg",
-      "genre": "Electronic",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215766-vorderhaus-trickster-3am-crowd"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "The Clash",
-      "title": "Should I Stay Or Should I Go",
-      "format": "7\"",
-      "label": "Columbia",
-      "releaseDate": "2026-05-25",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215823-the-clash-should-i-stay-or-should",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/73/215823-the-clash-should-i-stay-or-should.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215823-the-clash-should-i-stay-or-should"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/the-clash/should-i-stay-or-should-i-go/19958438187"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2a/81/23/2a8123dd-9b78-cd6e-c802-a8ccc2d7fbad/mzaf_17446670162302022873.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Baddiel, Skinner & Lightning Seeds",
-      "title": "Three Lions (Football's Coming Home): 30th Anniversary Edition",
-      "format": "7\"",
-      "label": "Columbia",
-      "releaseDate": "2026-05-25",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/68/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/215818-baddiel-skinner-lightning-seeds-three-lions-footballs-coming-home"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a"
     },
     {
       "artist": "Mystery Jets",
@@ -10767,6 +11180,10 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/215912-scritti-politti-cupid-psyche-85-deluxe-edition"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/scritti-politti/cupid-%26-psyche-85-%28deluxe-edition%29/RT0595LP"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c8/34/96/c8349626-0751-6834-001c-46eafda9a3f9/mzaf_10790746425992737149.plus.aac.p.m4a"
@@ -11008,80 +11425,6 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1c/cd/26/1ccd2627-7dab-291e-188f-f49c7bbea3f4/mzaf_11697656383000201826.plus.aac.p.m4a"
     },
     {
-      "artist": "Datura4",
-      "title": "I'm A Man",
-      "format": "7\"",
-      "label": "Rogue Records",
-      "releaseDate": "2026-05-25",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216099-datura4-im-a-man",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/99/216099-datura4-im-a-man.jpg",
-      "genre": "Psyche",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216099-datura4-im-a-man"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Freddie McGregor / Dub Specialist",
-      "title": "Bobby Bobylon / Hi Fashion Dub",
-      "format": "7\"",
-      "label": "Soul Jazz",
-      "releaseDate": "2026-05-25",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/165313-freddie-mcgregor-dub-specialist-bobby-bobylon-hi-fashion-dub",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/63/165313-freddie-mcgregor-dub-specialist-bobby-bobylon-hi-fashion-dub.jpg",
-      "genre": "Reggae",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/165313-freddie-mcgregor-dub-specialist-bobby-bobylon-hi-fashion-dub"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/c2/f2/5cc2f28c-42af-e0f8-86d0-ed053c6319c2/mzaf_6880466799681978294.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Dawn Penn / Jackie Mittoo",
-      "title": "No, No, No / Ghetto Organ",
-      "format": "7\"",
-      "label": "Soul Jazz",
-      "releaseDate": "2026-05-25",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/160096-dawn-penn-jackie-mittoo-no-no-no-ghetto-organ",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/96/160096-dawn-penn-jackie-mittoo-no-no-no-ghetto-organ.jpg",
-      "genre": "Reggae",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/160096-dawn-penn-jackie-mittoo-no-no-no-ghetto-organ"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Carlton & The Shoes",
-      "title": "Love Me Forever / Never Let Go",
-      "format": "7\"",
-      "label": "Soul Jazz",
-      "releaseDate": "2026-05-25",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/165312-carlton-the-shoes-love-me-forever-never-let",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/62/165312-carlton-the-shoes-love-me-forever-never-let.jpg",
-      "genre": "Reggae",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/165312-carlton-the-shoes-love-me-forever-never-let"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b3/d2/42/b3d24208-c4a4-335b-c769-48e0b4560d9c/mzaf_3254400416596013187.plus.aac.p.m4a"
-    },
-    {
       "artist": "The BEASTS OF BOURBON",
       "title": "Little Animals",
       "format": "LP",
@@ -11199,44 +11542,6 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/8e/1c/9a8e1ccb-860f-56b6-f4f2-62aad1139776/mzaf_270836942144728522.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Lord Tanamo / Jackie Mittoo",
-      "title": "Keep On Moving / Totally Together",
-      "format": "7\"",
-      "label": "Soul Jazz",
-      "releaseDate": "2026-05-24",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/165314-lord-tanamo-jackie-mittoo-keep-on-moving-totally-together",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/64/165314-lord-tanamo-jackie-mittoo-keep-on-moving-totally-together.jpg",
-      "genre": "Reggae",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/165314-lord-tanamo-jackie-mittoo-keep-on-moving-totally-together"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Hortense Ellis",
-      "title": "People Make The World Go Round",
-      "format": "7\"",
-      "label": "Soul Jazz",
-      "releaseDate": "2026-05-24",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/197727-hortense-ellis-people-make-the-world-go",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/227/197727-hortense-ellis-people-make-the-world-go.jpg",
-      "genre": "Reggae",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/197727-hortense-ellis-people-make-the-world-go"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/76/d7/ab/76d7ab78-e2ff-97c3-6d4e-df10bc641d83/mzaf_7240227279127208466.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -46823,5 +47128,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-05-26T03:24:18.100Z"
+  "updatedAt": "2026-05-27T03:36:33.316Z"
 }
