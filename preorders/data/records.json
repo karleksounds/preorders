@@ -467,29 +467,6 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "Disgusting Sisters",
-      "title": "Skin & Blisters",
-      "format": "LP",
-      "label": "[PIAS] Recordings",
-      "releaseDate": "2026-10-30",
-      "store": "Banquet Records",
-      "url": "https://www.banquetrecords.com/disgusting-sisters/skin-%26-blisters/SOURCE001LP",
-      "imageUrl": "https://www.banquetrecords.com/item.png?SOURCE001LP",
-      "genre": "",
-      "stores": [
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/disgusting-sisters/skin-%26-blisters/SOURCE001LP"
-        },
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/disgusting-sisters-skin-blisters-vinyl/1166772-01/"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
       "artist": "Michael Jackson",
       "title": "Thriller",
       "format": "LP",
@@ -616,30 +593,6 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "GOD OF WAR",
-      "title": "Molly Picture",
-      "format": "LP",
-      "displayFormat": "LP",
-      "label": "Julia's War Recordings",
-      "releaseDate": "2026-10-30",
-      "url": "https://www.juno.co.uk/products/god-of-war-molly-picture-vinyl/1167026-01/",
-      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167026-01A-MED.jpg",
-      "store": "Juno Records",
-      "genre": "Indie",
-      "stores": [
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/god-of-war-molly-picture-vinyl/1167026-01/"
-        },
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/god-of-war-molly-picture-vinyl/1167028-01/"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/04/26/6f04269f-cd4e-33f8-3369-058cc52efb12/mzaf_11523805056958428903.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
       "artist": "DECO",
       "title": "Dreamhouse",
       "format": "LP",
@@ -681,6 +634,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/85/a3/2085a37a-5f0c-fb21-3269-3e457a2bc80f/mzaf_15469882498061886355.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Hector GANNET",
+      "title": "The Great Shakedown",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Guga",
+      "releaseDate": "2026-10-23",
+      "url": "https://www.juno.co.uk/products/hector-gannet-the-great-shakedown-vinyl/1167449-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167449-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/hector-gannet-the-great-shakedown-vinyl/1167449-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
       "hasDeezerPreview": false
     },
     {
@@ -996,6 +969,25 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "The Howlers",
+      "title": "Heavy",
+      "format": "LP",
+      "label": "",
+      "releaseDate": "2026-10-09",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-howlers/heavy/FLCD1590",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FLCD1590",
+      "genre": "Indie Albums",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-howlers/heavy/FLCD1590"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cf/0b/9d/cf0b9d7c-70dc-204a-cefa-e4b3f417eb34/mzaf_6879864161245396968.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Tash SULTANA",
       "title": "Notion EP",
       "format": "7\"",
@@ -1013,6 +1005,25 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/6c/6e/326c6e26-11b7-0e12-dd72-b032cb1b219c/mzaf_859358517768492931.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Howling Bells",
+      "title": "Howling Bells (20th Anniversary)",
+      "format": "LP",
+      "label": "Nude Records",
+      "releaseDate": "2026-10-03",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/howling-bells/howling-bells-%2820th-anniversary%29/NUDE30LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?NUDE30LP",
+      "genre": "Indies Punk",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/howling-bells/howling-bells-%2820th-anniversary%29/NUDE30LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/b5/57/44b557b5-c552-fd55-e8c0-1195cd825eb0/mzaf_962435779955777980.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -1360,26 +1371,6 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "HOWLING BELLS",
-      "title": "Howling Bells (20th Anniversary Edition)",
-      "format": "LP",
-      "displayFormat": "LP",
-      "label": "Nude",
-      "releaseDate": "2026-10-02",
-      "url": "https://www.juno.co.uk/products/howling-bells-20th-anniversary-edition-vinyl/1167272-01/",
-      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167272-01A-MED.jpg",
-      "store": "Juno Records",
-      "genre": "Indie",
-      "stores": [
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/howling-bells-20th-anniversary-edition-vinyl/1167272-01/"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/b5/57/44b557b5-c552-fd55-e8c0-1195cd825eb0/mzaf_962435779955777980.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
       "artist": "FORWARD RUSSIA!",
       "title": "Give Me A Wall (20th Anniversary Edition)",
       "format": "LP",
@@ -1597,25 +1588,6 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "The Sick Man Of Europe",
-      "title": "The Intermittent Signal",
-      "format": "LP",
-      "label": "The Leaf Label",
-      "releaseDate": "2026-09-25",
-      "store": "Banquet Records",
-      "url": "https://www.banquetrecords.com/the-sick-man-of-europe/the-intermittent-signal/BAY142CD",
-      "imageUrl": "https://www.banquetrecords.com/item.png?BAY142CD",
-      "genre": "Dinked",
-      "stores": [
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/the-sick-man-of-europe/the-intermittent-signal/BAY142CD"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/f4/db/d8f4db74-0947-9611-1fd7-258083bb74c6/mzaf_12258695312406418882.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
       "artist": "7EBRA",
       "title": "How To Land A Plane",
       "format": "LP",
@@ -1722,38 +1694,6 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/tahiti-80-rejoice-an-inventory-of-pop-maps-vinyl/1166769-01/"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "GILLA BAND",
-      "title": "Pugnello",
-      "format": "LP",
-      "displayFormat": "LP",
-      "label": "Rough Trade",
-      "releaseDate": "2026-09-25",
-      "url": "https://www.juno.co.uk/products/gilla-band-pugnello-vinyl/1166779-01/",
-      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1166779-01A-MED.jpg",
-      "store": "Juno Records",
-      "genre": "Indie",
-      "stores": [
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/gilla-band-pugnello-vinyl/1166779-01/"
-        },
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/gilla-band-pugnello-vinyl/1166780-01/"
-        },
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/gilla-band-pugnello-vinyl/1166781-01/"
-        },
-        {
-          "store": "Boomkat",
-          "url": "https://boomkat.com/products/pugnello"
         }
       ],
       "itunesPreviewUrl": "",
@@ -1888,20 +1828,20 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "Trá Pháidín",
-      "title": "Cloch 's Claí",
+      "artist": "Bill BAIRD",
+      "title": "Life Creates Itself",
       "format": "LP",
       "displayFormat": "LP",
-      "label": "World Of Echo",
+      "label": "Royal Oakie US",
       "releaseDate": "2026-09-25",
-      "store": "Boomkat",
-      "url": "https://boomkat.com/products/cloch-s-clai",
-      "imageUrl": "https://assets.boomkat.com/spree/products/1070822/product/Tr%C3%A1_Ph%C3%A1id%C3%ADn_-_Cloch_'s_Cla%C3%AD.jpg",
-      "genre": "Indie / Alternative",
+      "url": "https://www.juno.co.uk/products/bill-baird-life-creates-itself-vinyl/1167546-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167546-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
       "stores": [
         {
-          "store": "Boomkat",
-          "url": "https://boomkat.com/products/cloch-s-clai"
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/bill-baird-life-creates-itself-vinyl/1167546-01/"
         }
       ],
       "itunesPreviewUrl": "",
@@ -2054,29 +1994,6 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/58/5c/f1585c92-b315-7f44-137e-7b05b3851170/mzaf_16106962088203678947.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Railcard",
-      "title": "Two Steps At A Time",
-      "format": "LP",
-      "label": "Skep Wax Records",
-      "releaseDate": "2026-09-18",
-      "store": "Banquet Records",
-      "url": "https://www.banquetrecords.com/railcard/two-steps-at-a-time/SKEPWAX046CD",
-      "imageUrl": "https://www.banquetrecords.com/item.png?SKEPWAX046CD",
-      "genre": "Dinked",
-      "stores": [
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/railcard/two-steps-at-a-time/SKEPWAX046CD"
-        },
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/railcard-two-steps-at-a-time-vinyl/1167129-01/"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/38/6f/ea386fb2-dddd-c33f-38e1-185519746e13/mzaf_3668687275006531609.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -2659,6 +2576,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "HUG, Gyan Riley, Devendra Banhart and Noah Georgeson",
+      "title": "HUG",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Luaka Bop",
+      "releaseDate": "2026-09-11",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/hug-9b76c378-72ca-47ae-a844-8865b01948f8",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1063215/product/680899010405_T12_Image.jpg",
+      "genre": "Indie / Alternative",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/hug-9b76c378-72ca-47ae-a844-8865b01948f8"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/0c/30/420c3038-8b83-3752-7d7b-ed4143e62c90/mzaf_16300523979167106243.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Tove Lo",
       "title": "ESTRUS",
       "format": "LP",
@@ -3213,26 +3150,6 @@
       "hasDeezerPreview": true
     },
     {
-      "artist": "SHARP PINS",
-      "title": "Mod Mayday 23",
-      "format": "LP",
-      "displayFormat": "LP",
-      "label": "K US",
-      "releaseDate": "2026-09-04",
-      "url": "https://www.juno.co.uk/products/sharp-pins-mod-mayday-23-vinyl/1167014-01/",
-      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167014-01A-MED.jpg",
-      "store": "Juno Records",
-      "genre": "Indie",
-      "stores": [
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/sharp-pins-mod-mayday-23-vinyl/1167014-01/"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
       "artist": "SOFT LOFT",
       "title": "Throw A Dice",
       "format": "LP",
@@ -3371,6 +3288,86 @@
       ],
       "itunesPreviewUrl": "",
       "hasDeezerPreview": true
+    },
+    {
+      "artist": "RUDE FILMS",
+      "title": "Rude Films",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Rude Films",
+      "releaseDate": "2026-09-04",
+      "url": "https://www.juno.co.uk/products/rude-films-vinyl/1167405-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167405-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/rude-films-vinyl/1167405-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/26/24/ba/2624ba0c-fb0a-c43e-4633-b5eb1bdd5b66/mzaf_4280185772758323010.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "IMMERSION",
+      "title": "What Is Lost Will Return",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Swim",
+      "releaseDate": "2026-09-04",
+      "url": "https://www.juno.co.uk/products/immersion-what-is-lost-will-return-vinyl/1167491-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167491-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/immersion-what-is-lost-will-return-vinyl/1167491-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/8a/b6/548ab64f-926e-caf1-a2e1-ddcf28e139d0/mzaf_10655006162749762069.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "REMEMBER SPORTS",
+      "title": "The Refrigerator",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Get Better US",
+      "releaseDate": "2026-09-04",
+      "url": "https://www.juno.co.uk/products/remember-sports-the-refrigerator-vinyl/1167621-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167621-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/remember-sports-the-refrigerator-vinyl/1167621-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/8e/fe/ce8efe27-27f2-1af3-e67e-07456aeba2be/mzaf_7153582158552469518.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Richard LAVIOLETTE",
+      "title": "A Little Less Like A Rock A Little More Like Home",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "You've Changed US",
+      "releaseDate": "2026-09-04",
+      "url": "https://www.juno.co.uk/products/richard-laviolette-a-little-less-like-a-rock-vinyl/1167645-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167645-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/richard-laviolette-a-little-less-like-a-rock-vinyl/1167645-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/35/18/b5351881-370d-0b01-0c65-2dd8137dc760/mzaf_296476782087371157.plus.aac.p.m4a",
+      "hasDeezerPreview": false
     },
     {
       "artist": "RIDDIM SAUNTER",
@@ -4134,6 +4131,49 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Jacob Alon",
+      "title": "Live at The Roundhouse",
+      "format": "LP",
+      "label": "island",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/jacob-alon/live-at-the-roundhouse/6118087",
+      "imageUrl": "https://www.banquetrecords.com/item.png?6118087",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/jacob-alon/live-at-the-roundhouse/6118087"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "MAGI MERLIN",
+      "title": "Power House",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Bonsound Canada",
+      "releaseDate": "2026-08-28",
+      "url": "https://www.juno.co.uk/products/magi-merlin-power-house-vinyl/1167625-01/",
+      "imageUrl": "https://cmscdn.juno.co.uk/cms/43/10314/1_1.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/magi-merlin-power-house-vinyl/1167625-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/magi-merlin-power-house-vinyl/1167626-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/21/8c/74218c4f-5b11-36bd-650e-99a626e108fe/mzaf_2446357983759531170.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "BLOODTHIRSTY BUTCHERS",
       "title": "Sankaku Plus 2",
       "format": "LP",
@@ -4760,6 +4800,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "CSS",
+      "title": "Cansei De Ser Sexy (20th Anniversary Edition)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Sub Pop US",
+      "releaseDate": "2026-08-21",
+      "url": "https://www.juno.co.uk/products/css-cansei-de-ser-sexy-20th-anniversary-edition-vinyl/1167548-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167548-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/css-cansei-de-ser-sexy-20th-anniversary-edition-vinyl/1167548-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b9/87/ff/b987ff71-151f-47d8-7c3d-de941751c695/mzaf_6133164340374105921.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Jungle",
       "title": "Sunshine",
       "format": "LP",
@@ -5359,6 +5419,66 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/c8/61/6dc86194-0758-fcba-5d20-3ea5dac82955/mzaf_4855601922501151084.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Nick HELM",
+      "title": "Down 'n' Dirty: Volume 1",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Nick Helm",
+      "releaseDate": "2026-08-14",
+      "url": "https://www.juno.co.uk/products/nick-helm-down-n-dirty-volume-1-vinyl/1167441-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167441-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/nick-helm-down-n-dirty-volume-1-vinyl/1167441-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "FRESCHARD",
+      "title": "Pole Fitness",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Fika",
+      "releaseDate": "2026-08-14",
+      "url": "https://www.juno.co.uk/products/freschard-stanley-brinks-pole-fitness-vinyl/1167551-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167551-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/freschard-stanley-brinks-pole-fitness-vinyl/1167551-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/f6/45/72f64563-189f-1f45-3e63-c0802a3d6d1c/mzaf_13125470138952839762.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "FRESCHARD",
+      "title": "Hotel Berlin",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Fika",
+      "releaseDate": "2026-08-14",
+      "url": "https://www.juno.co.uk/products/freschard-stanley-brinks-hotel-berlin-vinyl/1167552-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167552-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/freschard-stanley-brinks-hotel-berlin-vinyl/1167552-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/09/b3/5509b305-3591-452e-5186-0bcf9410ae47/mzaf_16900837258194684910.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -7050,6 +7170,66 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/d0/b0/82d0b0cc-7c4b-8920-57e9-98dcca1d213d/mzaf_7022663888031904598.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Tommy JAY",
+      "title": "Tommy Jay's Short Sagas Of Sorrow 1974 Archival",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "HoZac US",
+      "releaseDate": "2026-07-31",
+      "url": "https://www.juno.co.uk/products/tommy-jays-short-sagas-of-sorrow-1974-archival-vinyl/1167395-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167395-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/tommy-jays-short-sagas-of-sorrow-1974-archival-vinyl/1167395-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "GEESE",
+      "title": "Projector",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Virgin US",
+      "releaseDate": "2026-07-31",
+      "url": "https://www.juno.co.uk/products/geese-projector-vinyl/1167599-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167599-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/geese-projector-vinyl/1167599-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/9b/58/2a9b583e-0d26-fcbe-dd38-2a13cfbe80dd/mzaf_10949342674863831125.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "GEESE",
+      "title": "3D Country",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Virgin US",
+      "releaseDate": "2026-07-31",
+      "url": "https://www.juno.co.uk/products/geese-3d-country-vinyl/1167605-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167605-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/geese-3d-country-vinyl/1167605-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/69/db/ce69db7a-ecba-4031-664f-7b8008e883ad/mzaf_3270752675767416135.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -9434,6 +9614,65 @@
       ],
       "itunesPreviewUrl": "",
       "hasDeezerPreview": true
+    },
+    {
+      "artist": "CSS",
+      "title": "CANSEI DE SER SEXY -ANNIVERSARY EDITION-",
+      "format": "LP",
+      "label": "SUB POP",
+      "releaseDate": "2026-07-24",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/177292/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00177292.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/177292/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b9/87/ff/b987ff71-151f-47d8-7c3d-de941751c695/mzaf_6133164340374105921.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "HALKYN",
+      "title": "Halkyn",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Concentric Circles US",
+      "releaseDate": "2026-07-24",
+      "url": "https://www.juno.co.uk/products/halkyn-vinyl/1167516-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167516-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/halkyn-vinyl/1167516-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/c1/19/75c1190a-403d-d862-201b-96b14e929b3d/mzaf_5308278341480675804.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "MARS",
+      "title": "Live At The Village Gate: August 26 1977 New York City",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "HoZac US",
+      "releaseDate": "2026-07-24",
+      "url": "https://www.juno.co.uk/products/mars-live-at-the-village-gate-august-26-vinyl/1167527-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167527-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/mars-live-at-the-village-gate-august-26-vinyl/1167527-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
     },
     {
       "artist": "ANY JOY?",
@@ -13406,6 +13645,660 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "The XCERTS",
+      "title": "I Think I Want To Go Home Now",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "FLG",
+      "releaseDate": "2026-07-17",
+      "url": "https://www.juno.co.uk/products/the-xcerts-i-think-i-want-to-go-vinyl/1162653-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1162653-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-xcerts-i-think-i-want-to-go-vinyl/1162653-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/94/e8/5a94e810-d594-6b2b-a763-7186941940e9/mzaf_17954360722288961064.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SACCHARINE TRUST",
+      "title": "Surviving You Always (reissue)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "SST US",
+      "releaseDate": "2026-07-17",
+      "url": "https://www.juno.co.uk/products/saccharine-trust-surviving-you-always-vinyl/1167446-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1167446-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/saccharine-trust-surviving-you-always-vinyl/1167446-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/2a/2d/8d2a2de7-2855-2910-e58b-495aa590c46a/mzaf_16855722209262876218.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Static Cleaner Lost Reward",
+      "title": "Breathing Under Honey",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Low Company / Purely Physical Teeny Tapes",
+      "releaseDate": "2026-07-17",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/breathing-under-honey",
+      "imageUrl": "https://assets.boomkat.com/spree/products/909383/product/a0479800568_10.jpg",
+      "genre": "Electronic",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/breathing-under-honey"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/44/54/6a/44546a25-aac4-1706-4da9-c3c6256ec61f/mzaf_16742752511097702063.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Seun Kuti & Egypt 80",
+      "title": "Na Dem / Problems",
+      "format": "7\"",
+      "label": "Django Music",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216622-seun-kuti-egypt-80-na-dem-problems",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/122/216622-seun-kuti-egypt-80-na-dem-problems.jpg",
+      "genre": "African",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216622-seun-kuti-egypt-80-na-dem-problems"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/76/04/c97604fe-66c0-4fc9-fcca-4a10c06d91dd/mzaf_12971657608339346407.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Screamin' Kick",
+      "title": "Kings Of The Past",
+      "format": "7\"",
+      "label": "Rogue Records",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216714-the-screamin-kick-kings-of-the-past",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/214/216714-the-screamin-kick-kings-of-the-past.jpg",
+      "genre": "Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216714-the-screamin-kick-kings-of-the-past"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8f/39/df/8f39df6b-9b97-1313-b26d-368d9cc0d20f/mzaf_16643660259914950728.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Boys",
+      "title": "Damn Those Eyes / Nevermind The Botox",
+      "format": "7\"",
+      "label": "Damaged Goods",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216734-the-boys-damn-those-eyes-nevermind-the",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/234/216734-the-boys-damn-those-eyes-nevermind-the.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216734-the-boys-damn-those-eyes-nevermind-the"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/b7/da/e8b7da9d-a53d-5e9a-043b-6ef8ae88342b/mzaf_2907315481614079483.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Josie",
+      "title": "Oh Boy!",
+      "format": "7\"",
+      "label": "Precious Recordings",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216682-josie-oh-boy",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/182/216682-josie-oh-boy.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216682-josie-oh-boy"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/78/fb/3e78fbaf-ae65-3399-160d-348c2ea0a678/mzaf_1036239628473338914.plus.aac.p.m4a"
+    },
+    {
+      "artist": "COWMAN",
+      "title": "Big Hands",
+      "format": "7\"",
+      "label": "COJU Recordings",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216835-cowman-big-hands",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/85/216835-cowman-big-hands.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216835-cowman-big-hands"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "LNS & DJ Sotofett meets Ekowmania",
+      "title": "Fanti Shake (Steppers Mix) / Step Eight",
+      "format": "7\"",
+      "label": "Resonance of Dub",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216820-lns-dj-sotofett-meets-ekowmania-fanti-shake-steppers-mix-step",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/70/216820-lns-dj-sotofett-meets-ekowmania-fanti-shake-steppers-mix-step.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216820-lns-dj-sotofett-meets-ekowmania-fanti-shake-steppers-mix-step"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Glass Animals",
+      "title": "Heat Waves",
+      "format": "7\"",
+      "label": "Polydor",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216852-glass-animals-heat-waves",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/102/216852-glass-animals-heat-waves.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216852-glass-animals-heat-waves"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/4c/b9/a34cb911-40fc-5f0c-e862-14bd171a77aa/mzaf_384792072030970151.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Sinclairs",
+      "title": "Dirty River (feat. Emily Breeze) / ...And Garnish With A Fresh Tarantula",
+      "format": "7\"",
+      "label": "Spinout Nuggets",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216958-the-sinclairs-dirty-river-feat-emily-breeze",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/208/216958-the-sinclairs-dirty-river-feat-emily-breeze.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216958-the-sinclairs-dirty-river-feat-emily-breeze"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Jaibi / Irma Thomas",
+      "title": "What Good Am I? / Anyone Who Knows What Love Is (Will Understand)",
+      "format": "7\"",
+      "label": "Picaro",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216955-jaibi-irma-thomas-what-good-am-i-anyone",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/205/216955-jaibi-irma-thomas-what-good-am-i-anyone.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216955-jaibi-irma-thomas-what-good-am-i-anyone"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Felix Kubin, Bound By Endogamy",
+      "title": "Stück I / Stück II",
+      "format": "7\"",
+      "label": "Mr Bongo",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216933-felix-kubin-bound-by-endogamy-stck-i-stck-ii",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/183/216933-felix-kubin-bound-by-endogamy-stck-i-stck-ii.jpg",
+      "genre": "Electronic",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216933-felix-kubin-bound-by-endogamy-stck-i-stck-ii"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/b5/11/65b51154-d1d0-6c87-3b69-221ed382270d/mzaf_16351029871409993638.plus.aac.p.m4a"
+    },
+    {
+      "artist": "BODEGA",
+      "title": "Weather Me",
+      "format": "7\"",
+      "label": "Chrysalis",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216893-bodega-weather-me",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/143/216893-bodega-weather-me.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216893-bodega-weather-me"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/bodega/weather-me/BRS574"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/bodega-weather-me-vinyl/1167019-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Stone Coal White",
+      "title": "Hell Below / Free",
+      "format": "7\"",
+      "label": "Remined",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217023-stone-coal-white-hell-below-free",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/23/217023-stone-coal-white-hell-below-free.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217023-stone-coal-white-hell-below-free"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c5/17/99/c5179904-67e6-8540-9571-2b2e9b298629/mzaf_910865606744626263.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Sick Man Of Europe",
+      "title": "The Intermittent Signal",
+      "format": "LP",
+      "label": "The Leaf Label",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216890-the-sick-man-of-europe-the-intermittent-signal",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/140/216890-the-sick-man-of-europe-the-intermittent-signal.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216890-the-sick-man-of-europe-the-intermittent-signal"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-sick-man-of-europe/the-intermittent-signal/BAY142CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/f4/db/d8f4db74-0947-9611-1fd7-258083bb74c6/mzaf_12258695312406418882.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Howling Bells",
+      "title": "Howling Bells (20th Anniversary Edition)",
+      "format": "LP",
+      "label": "Nude",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216901-howling-bells-howling-bells-20th-anniversary-edition",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/151/216901-howling-bells-howling-bells-20th-anniversary-edition.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216901-howling-bells-howling-bells-20th-anniversary-edition"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/howling-bells-20th-anniversary-edition-vinyl/1167272-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/b5/57/44b557b5-c552-fd55-e8c0-1195cd825eb0/mzaf_962435779955777980.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Railcard",
+      "title": "Two Steps At A Time",
+      "format": "LP",
+      "label": "Skep Wax Records",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216916-railcard-two-steps-at-a-time",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/166/216916-railcard-two-steps-at-a-time.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216916-railcard-two-steps-at-a-time"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/railcard/two-steps-at-a-time/SKEPWAX046CD"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/railcard-two-steps-at-a-time-vinyl/1167129-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/38/6f/ea386fb2-dddd-c33f-38e1-185519746e13/mzaf_3668687275006531609.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Gilla Band",
+      "title": "Pugnello",
+      "format": "LP",
+      "label": "Rough Trade",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216881-gilla-band-pugnello",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/131/216881-gilla-band-pugnello.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216881-gilla-band-pugnello"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/gilla-band-pugnello-vinyl/1166779-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/gilla-band-pugnello-vinyl/1166780-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/gilla-band-pugnello-vinyl/1166781-01/"
+        },
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/pugnello"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Andy Bell & Masal",
+      "title": "Common Primitives",
+      "format": "LP",
+      "label": "Sonic Cathedral",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216904-andy-bell-masal-common-primitives",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/154/216904-andy-bell-masal-common-primitives.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216904-andy-bell-masal-common-primitives"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/f7/d2/7af7d208-4ece-b26d-db11-2502f4426f58/mzaf_3334850355746126510.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Gilroy Mere",
+      "title": "Furlongs",
+      "format": "LP",
+      "label": "Clay Pipe Music",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216959-gilroy-mere-furlongs",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/209/216959-gilroy-mere-furlongs.jpg",
+      "genre": "Electronic",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216959-gilroy-mere-furlongs"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/13/15/ac131539-b68e-d859-bc55-dd439b7086bc/mzaf_6970357633546051824.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Alabama Shakes",
+      "title": "I Must Be Dreaming",
+      "format": "LP",
+      "label": "Island",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216968-alabama-shakes-i-must-be-dreaming",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/218/216968-alabama-shakes-i-must-be-dreaming.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216968-alabama-shakes-i-must-be-dreaming"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/alabama-shakes-i-must-be-dreaming-vinyl/1167439-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/9a/61/ab9a614e-4e22-d6ce-4836-fc10916200fc/mzaf_16751840668651170576.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Twisted Teens",
+      "title": "Florida Water Blues",
+      "format": "LP",
+      "label": "Sub Pop",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216943-twisted-teens-florida-water-blues",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/193/216943-twisted-teens-florida-water-blues.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216943-twisted-teens-florida-water-blues"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/twisted-teens-florida-water-blues-vinyl/1167489-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "TV Priest",
+      "title": "Cartoons",
+      "format": "LP",
+      "label": "AMK",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216988-tv-priest-cartoons",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/238/216988-tv-priest-cartoons.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216988-tv-priest-cartoons"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/9d/55/c99d5525-4972-1095-efae-08815cda23a8/mzaf_1403622376593380349.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Garden",
+      "title": "Bootleg",
+      "format": "LP",
+      "label": "Epitaph",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216987-the-garden-bootleg",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/237/216987-the-garden-bootleg.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216987-the-garden-bootleg"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/45/8d/e7458d13-c4be-c7dc-68f0-b6e41ecf2b4a/mzaf_4538133052611187416.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Trá Pháidín",
+      "title": "Cloch 's Claí",
+      "format": "LP",
+      "label": "World of Echo",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216868-tr-ph-id-n-cloch-s-cla",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/118/216868-tr-ph-id-n-cloch-s-cla.jpg",
+      "genre": "Folk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216868-tr-ph-id-n-cloch-s-cla"
+        },
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/cloch-s-clai"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Dean McPhee",
+      "title": "Northern Earth",
+      "format": "LP",
+      "label": "Bass Ritual",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216937-dean-mcphee-northern-earth",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/187/216937-dean-mcphee-northern-earth.jpg",
+      "genre": "Experimental",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216937-dean-mcphee-northern-earth"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Sharp Pins",
+      "title": "Mod Mayday 23",
+      "format": "LP",
+      "label": "K Records",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216911-sharp-pins-mod-mayday-23",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/161/216911-sharp-pins-mod-mayday-23.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216911-sharp-pins-mod-mayday-23"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/sharp-pins-mod-mayday-23-vinyl/1167014-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Nusrat Fateh Ali Khan & Michael Brook",
+      "title": "Night Song (30th Anniversary Edition)",
+      "format": "LP",
+      "label": "Real World",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216888-nusrat-fateh-ali-khan-michael-night-song-30th-anniversary-edition",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/138/216888-nusrat-fateh-ali-khan-michael-night-song-30th-anniversary-edition.jpg",
+      "genre": "African",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216888-nusrat-fateh-ali-khan-michael-night-song-30th-anniversary-edition"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a8/fc/13/a8fc13b6-f2bf-08a7-9be6-0e8eae4fee20/mzaf_7399092207670925237.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Disgusting Sisters",
+      "title": "Skin & Blisters",
+      "format": "LP",
+      "label": "Source",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216895-disgusting-sisters-skin-blisters",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/145/216895-disgusting-sisters-skin-blisters.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216895-disgusting-sisters-skin-blisters"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/disgusting-sisters/skin-%26-blisters/SOURCE001LP"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/disgusting-sisters-skin-blisters-vinyl/1166772-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "god of war",
+      "title": "molly picture",
+      "format": "LP",
+      "label": "Julia's War Recordings",
+      "releaseDate": "2026-07-14",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/216941-god-of-war-molly-picture",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/191/216941-god-of-war-molly-picture.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/216941-god-of-war-molly-picture"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/god-of-war-molly-picture-vinyl/1167026-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/god-of-war-molly-picture-vinyl/1167028-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/04/26/6f04269f-cd4e-33f8-3369-058cc52efb12/mzaf_11523805056958428903.plus.aac.p.m4a"
+    },
+    {
       "artist": "Test Card",
       "title": "73 & Good Luck",
       "format": "LP",
@@ -13783,134 +14676,6 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/b8/49/64b849ee-cfa8-03fd-ead0-1d7f82a0ee63/mzaf_7583527877613499245.plus.aac.p.m4a"
     },
     {
-      "artist": "Seun Kuti & Egypt 80",
-      "title": "Na Dem / Problems",
-      "format": "7\"",
-      "label": "Django Music",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216622-seun-kuti-egypt-80-na-dem-problems",
-      "imageUrl": "https://www.normanrecords.com/artwork/medium/122/216622-seun-kuti-egypt-80-na-dem-problems.jpg",
-      "genre": "African",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216622-seun-kuti-egypt-80-na-dem-problems"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/76/04/c97604fe-66c0-4fc9-fcca-4a10c06d91dd/mzaf_12971657608339346407.plus.aac.p.m4a"
-    },
-    {
-      "artist": "The Screamin' Kick",
-      "title": "Kings Of The Past",
-      "format": "7\"",
-      "label": "Rogue Records",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216714-the-screamin-kick-kings-of-the-past",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/214/216714-the-screamin-kick-kings-of-the-past.jpg",
-      "genre": "Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216714-the-screamin-kick-kings-of-the-past"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8f/39/df/8f39df6b-9b97-1313-b26d-368d9cc0d20f/mzaf_16643660259914950728.plus.aac.p.m4a"
-    },
-    {
-      "artist": "The Boys",
-      "title": "Damn Those Eyes / Nevermind The Botox",
-      "format": "7\"",
-      "label": "Damaged Goods",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216734-the-boys-damn-those-eyes-nevermind-the",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/234/216734-the-boys-damn-those-eyes-nevermind-the.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216734-the-boys-damn-those-eyes-nevermind-the"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/b7/da/e8b7da9d-a53d-5e9a-043b-6ef8ae88342b/mzaf_2907315481614079483.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Josie",
-      "title": "Oh Boy!",
-      "format": "7\"",
-      "label": "Precious Recordings",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216682-josie-oh-boy",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/182/216682-josie-oh-boy.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216682-josie-oh-boy"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/78/fb/3e78fbaf-ae65-3399-160d-348c2ea0a678/mzaf_1036239628473338914.plus.aac.p.m4a"
-    },
-    {
-      "artist": "COWMAN",
-      "title": "Big Hands",
-      "format": "7\"",
-      "label": "COJU Recordings",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216835-cowman-big-hands",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/85/216835-cowman-big-hands.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216835-cowman-big-hands"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "LNS & DJ Sotofett meets Ekowmania",
-      "title": "Fanti Shake (Steppers Mix) / Step Eight",
-      "format": "7\"",
-      "label": "Resonance of Dub",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216820-lns-dj-sotofett-meets-ekowmania-fanti-shake-steppers-mix-step",
-      "imageUrl": "https://www.normanrecords.com/artwork/medium/70/216820-lns-dj-sotofett-meets-ekowmania-fanti-shake-steppers-mix-step.jpg",
-      "genre": "Reggae",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216820-lns-dj-sotofett-meets-ekowmania-fanti-shake-steppers-mix-step"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Glass Animals",
-      "title": "Heat Waves",
-      "format": "7\"",
-      "label": "Polydor",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216852-glass-animals-heat-waves",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/102/216852-glass-animals-heat-waves.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216852-glass-animals-heat-waves"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/4c/b9/a34cb911-40fc-5f0c-e862-14bd171a77aa/mzaf_384792072030970151.plus.aac.p.m4a"
-    },
-    {
       "artist": "The Twelve Hour Foundation",
       "title": "Expanded & Repurposed",
       "format": "7\"",
@@ -13924,89 +14689,6 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/216867-the-twelve-hour-foundation-expanded-repurposed"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "The Sinclairs",
-      "title": "Dirty River (feat. Emily Breeze) / ...And Garnish With A Fresh Tarantula",
-      "format": "7\"",
-      "label": "Spinout Nuggets",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216958-the-sinclairs-dirty-river-feat-emily-breeze",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/208/216958-the-sinclairs-dirty-river-feat-emily-breeze.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216958-the-sinclairs-dirty-river-feat-emily-breeze"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Jaibi / Irma Thomas",
-      "title": "What Good Am I? / Anyone Who Knows What Love Is (Will Understand)",
-      "format": "7\"",
-      "label": "Picaro",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216955-jaibi-irma-thomas-what-good-am-i-anyone",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/205/216955-jaibi-irma-thomas-what-good-am-i-anyone.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216955-jaibi-irma-thomas-what-good-am-i-anyone"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Felix Kubin, Bound By Endogamy",
-      "title": "Stück I / Stück II",
-      "format": "7\"",
-      "label": "Mr Bongo",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216933-felix-kubin-bound-by-endogamy-stck-i-stck-ii",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/183/216933-felix-kubin-bound-by-endogamy-stck-i-stck-ii.jpg",
-      "genre": "Electronic",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216933-felix-kubin-bound-by-endogamy-stck-i-stck-ii"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/b5/11/65b51154-d1d0-6c87-3b69-221ed382270d/mzaf_16351029871409993638.plus.aac.p.m4a"
-    },
-    {
-      "artist": "BODEGA",
-      "title": "Weather Me",
-      "format": "7\"",
-      "label": "Chrysalis",
-      "releaseDate": "2026-07-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/216893-bodega-weather-me",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/143/216893-bodega-weather-me.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/216893-bodega-weather-me"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/bodega/weather-me/BRS574"
-        },
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/bodega-weather-me-vinyl/1167019-01/"
         }
       ],
       "itunesPreviewUrl": "",
@@ -15891,6 +16573,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/allison-russell/in-the-hour-of-chaos/FAN03153"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/allison-russell-in-the-hour-of-chaos-vinyl/1155733-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/73/98/b573988f-4ef4-97b0-82d4-8cf554af730f/mzaf_5810056962925707436.plus.aac.p.m4a",
@@ -25224,6 +25910,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/the-stone-roses/sally-cinnamon/5016681737116"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-stone-roses-sally-cinnamon-vinyl/1156380-01/"
         }
       ],
       "itunesPreviewUrl": "",
@@ -43343,9 +44033,8 @@
           "url": "https://www.juno.co.uk/products/ruen-brothers-awooo-vinyl/1101253-01/"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/41/eb/e541ebef-827b-e847-7ab9-27e553d117b4/mzaf_7138640906471351730.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/41/eb/e541ebef-827b-e847-7ab9-27e553d117b4/mzaf_7138640906471351730.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-07-13T03:04:07.132Z"
+  "updatedAt": "2026-07-14T02:40:35.051Z"
 }
