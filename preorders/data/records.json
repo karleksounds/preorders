@@ -3705,6 +3705,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/immersion-what-is-lost-will-return-vinyl/1167491-01/"
+        },
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/what-is-lost-will-return"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/8a/b6/548ab64f-926e-caf1-a2e1-ddcf28e139d0/mzaf_10655006162749762069.plus.aac.p.m4a",
@@ -3767,6 +3771,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9f/b3/bb/9fb3bb95-dce9-bd65-7d91-4e9c4322dbc0/mzaf_17702336458070202791.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Mort Garson",
+      "title": "Mother Earth's Plantasia (50th Anniversary Edition)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Sacred Bones Records",
+      "releaseDate": "2026-09-04",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/mother-earth-s-plantasia-50th-anniversary-edition",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1073003/product/Mort_Garson_-_Plantasia.jpeg",
+      "genre": "Indie / Alternative",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/mother-earth-s-plantasia-50th-anniversary-edition"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/4a/4b/024a4b44-d2a2-c9ff-703d-93144cc91d86/mzaf_8661288464575438322.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -4647,6 +4671,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6e/20/41/6e2041af-b3e7-354a-e5c9-5681053c7bd7/mzaf_938783770170263978.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Spacemen 3",
+      "title": "The Perfect Prescription",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Fire Records",
+      "releaseDate": "2026-08-28",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/the-perfect-prescription-12146d0c-a3c1-44a3-9d33-92f08964dc61",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1074741/product/Spacemen_3_-_The_Perfect_Prescription_LP_PANTONE_SLEEVE_2024.jpg",
+      "genre": "Indie / Alternative",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/the-perfect-prescription-12146d0c-a3c1-44a3-9d33-92f08964dc61"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/a9/20/59a920dd-91b4-5c65-fae2-feef3d8faf63/mzaf_9106063894619224632.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -11132,7 +11176,7 @@
       "title": "Big Hands",
       "format": "7\"",
       "label": "COJU Recordings",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216835-cowman-big-hands",
       "imageUrl": "https://www.normanrecords.com/artwork/large/85/216835-cowman-big-hands.jpg",
@@ -11151,7 +11195,7 @@
       "title": "Fanti Shake (Steppers Mix) / Step Eight",
       "format": "7\"",
       "label": "Resonance of Dub",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216820-lns-dj-sotofett-meets-ekowmania-fanti-shake-steppers-mix-step",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/70/216820-lns-dj-sotofett-meets-ekowmania-fanti-shake-steppers-mix-step.jpg",
@@ -11170,7 +11214,7 @@
       "title": "Dirty River (feat. Emily Breeze) / ...And Garnish With A Fresh Tarantula",
       "format": "7\"",
       "label": "Spinout Nuggets",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216958-the-sinclairs-dirty-river-feat-emily-breeze",
       "imageUrl": "https://www.normanrecords.com/artwork/large/208/216958-the-sinclairs-dirty-river-feat-emily-breeze.jpg",
@@ -11189,7 +11233,7 @@
       "title": "Stück I / Stück II",
       "format": "7\"",
       "label": "Mr Bongo",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216933-felix-kubin-bound-by-endogamy-stck-i-stck-ii",
       "imageUrl": "https://www.normanrecords.com/artwork/large/183/216933-felix-kubin-bound-by-endogamy-stck-i-stck-ii.jpg",
@@ -11207,7 +11251,7 @@
       "title": "Weather Me",
       "format": "7\"",
       "label": "Chrysalis",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216893-bodega-weather-me",
       "imageUrl": "https://www.normanrecords.com/artwork/large/143/216893-bodega-weather-me.jpg",
@@ -11234,7 +11278,7 @@
       "title": "Hell Below / Free",
       "format": "7\"",
       "label": "Remined",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217023-stone-coal-white-hell-below-free",
       "imageUrl": "https://www.normanrecords.com/artwork/large/23/217023-stone-coal-white-hell-below-free.jpg",
@@ -11256,7 +11300,7 @@
       "title": "Electric Eyes / Metal Fetishist",
       "format": "7\"",
       "label": "Feral Child",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217047-demonia-disco-electric-eyes-metal-fetishist",
       "imageUrl": "https://www.normanrecords.com/artwork/large/47/217047-demonia-disco-electric-eyes-metal-fetishist.jpg",
@@ -11275,7 +11319,7 @@
       "title": "The Rosenbergs EP",
       "format": "7\"",
       "label": "Precious Recordings",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216978-alta-zuma-the-rosenbergs-ep",
       "imageUrl": "https://www.normanrecords.com/artwork/large/228/216978-alta-zuma-the-rosenbergs-ep.jpg",
@@ -11294,7 +11338,7 @@
       "title": "Gold Is The Metal (With The Broadest Shoulders)",
       "format": "7\"",
       "label": "Mute",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217031-coil-gold-is-the-metal-with",
       "imageUrl": "https://www.normanrecords.com/artwork/large/31/217031-coil-gold-is-the-metal-with.jpg",
@@ -11312,7 +11356,7 @@
       "title": "Prince of Bologna",
       "format": "7\"",
       "label": "Speedy Wunderground",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217122-lave-la-rue-prince-of-bologna",
       "imageUrl": "https://www.normanrecords.com/artwork/large/122/217122-lave-la-rue-prince-of-bologna.jpg",
@@ -11330,7 +11374,7 @@
       "title": "Big Dog / Knocking at the Sky",
       "format": "7\"",
       "label": "Island",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217113-the-last-dinner-party-big-dog-knocking-at-the",
       "imageUrl": "https://www.normanrecords.com/artwork/large/113/217113-the-last-dinner-party-big-dog-knocking-at-the.jpg",
@@ -11348,7 +11392,7 @@
       "title": "Secret Love (Deluxe Edition)",
       "format": "LP",
       "label": "4AD",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217010-dry-cleaning-secret-love",
       "imageUrl": "https://www.normanrecords.com/artwork/large/10/217010-dry-cleaning-secret-love.jpg",
@@ -11370,7 +11414,7 @@
       "title": "Mother Earth’s Plantasia (50th Anniversary Edition)",
       "format": "LP",
       "label": "Sacred Bones",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/216966-mort-garson-mother-earths-plantasia-50th-anniversary",
       "imageUrl": "https://www.normanrecords.com/artwork/large/216/216966-mort-garson-mother-earths-plantasia-50th-anniversary.jpg",
@@ -11392,7 +11436,7 @@
       "title": "Ride Lonesome",
       "format": "LP",
       "label": "Capitol",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217057-beck-ride-lonesome",
       "imageUrl": "https://www.normanrecords.com/artwork/large/57/217057-beck-ride-lonesome.jpg",
@@ -11410,7 +11454,7 @@
       "title": "Days",
       "format": "LP",
       "label": "Cadmean Dawn",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217059-the-mountain-goats-days",
       "imageUrl": "https://www.normanrecords.com/artwork/large/59/217059-the-mountain-goats-days.jpg",
@@ -11428,7 +11472,7 @@
       "title": "The Colour Of Spring (40th Anniversary Half-Speed Master)",
       "format": "LP",
       "label": "Parlophone",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217064-talk-talk-the-colour-of-spring-40th",
       "imageUrl": "https://www.normanrecords.com/artwork/large/64/217064-talk-talk-the-colour-of-spring-40th.jpg",
@@ -11437,6 +11481,10 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/217064-talk-talk-the-colour-of-spring-40th"
+        },
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/the-colour-of-spring-40th-anniversary-half-speed-master"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/fa/40/93fa4074-e57c-61ca-b58f-a57d3c9d0ac6/mzaf_6518020022425030748.plus.aac.p.m4a"
@@ -11446,7 +11494,7 @@
       "title": "Stakes Is High (30th Anniversary)",
       "format": "LP",
       "label": "Chrysalis",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217112-de-la-soul-stakes-is-high-30th-anniversary",
       "imageUrl": "https://www.normanrecords.com/artwork/large/112/217112-de-la-soul-stakes-is-high-30th-anniversary.jpg",
@@ -11464,7 +11512,7 @@
       "title": "Glastonbury 1994",
       "format": "LP",
       "label": "London",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217039-orbital-glastonbury-1994",
       "imageUrl": "https://www.normanrecords.com/artwork/large/39/217039-orbital-glastonbury-1994.jpg",
@@ -11486,7 +11534,7 @@
       "title": "Gold Is The Metal (With The Broadest Shoulders)",
       "format": "LP",
       "label": "Mute",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217031-coil-gold-is-the-metal-with",
       "imageUrl": "https://www.normanrecords.com/artwork/large/31/217031-coil-gold-is-the-metal-with.jpg",
@@ -11504,7 +11552,7 @@
       "title": "Headsoup",
       "format": "LP",
       "label": "Rocket",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/187841-goat-headsoup",
       "imageUrl": "https://www.normanrecords.com/artwork/large/91/187841-goat-headsoup.jpg",
@@ -11522,7 +11570,7 @@
       "title": "Apples For Isaac",
       "format": "LP",
       "label": "BMG",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217065-echo-the-bunnymen-apples-for-isaac",
       "imageUrl": "https://www.normanrecords.com/artwork/large/65/217065-echo-the-bunnymen-apples-for-isaac.jpg",
@@ -11544,7 +11592,7 @@
       "title": "Katamari Fortississimo Damacy (Katamari Damacy Original Soundtrack)",
       "format": "LP",
       "label": "Bandai Namco Entertainment Inc.",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217100-various-katamari-fortississimo-damacy-katamari-damacy",
       "imageUrl": "https://www.normanrecords.com/artwork/large/100/217100-various-katamari-fortississimo-damacy-katamari-damacy.jpg",
@@ -11563,7 +11611,7 @@
       "title": "Fahrenheit Fair Enough (25th Anniversary Edition)",
       "format": "LP",
       "label": "Ghostly International",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/162462-telefon-tel-aviv-fahrenheit-fair-enough",
       "imageUrl": "https://www.normanrecords.com/artwork/large/212/162462-telefon-tel-aviv-fahrenheit-fair-enough.jpg",
@@ -11581,7 +11629,7 @@
       "title": "SOTC II",
       "format": "LP",
       "label": "XL Recordings",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217044-standing-on-the-corner-sotc-ii",
       "imageUrl": "https://www.normanrecords.com/artwork/large/44/217044-standing-on-the-corner-sotc-ii.jpg",
@@ -11590,6 +11638,10 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/217044-standing-on-the-corner-sotc-ii"
+        },
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/sotc-ii"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/95/0d/dd950d40-7307-4286-f35e-c30305f32d15/mzaf_8009752864905403258.plus.aac.p.m4a"
@@ -11599,7 +11651,7 @@
       "title": "Cheesy Love Songs",
       "format": "LP",
       "label": "Impressed",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217069-the-lazy-eyes-cheesy-love-songs",
       "imageUrl": "https://www.normanrecords.com/artwork/large/69/217069-the-lazy-eyes-cheesy-love-songs.jpg",
@@ -11617,7 +11669,7 @@
       "title": "Cooked",
       "format": "LP",
       "label": "Drag City",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217056-oren-ambarchi-cooked",
       "imageUrl": "https://www.normanrecords.com/artwork/large/56/217056-oren-ambarchi-cooked.jpg",
@@ -11635,7 +11687,7 @@
       "title": "Radical Frame",
       "format": "LP",
       "label": "Ninja Tune",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217051-actress-radical-frame",
       "imageUrl": "https://www.normanrecords.com/artwork/large/51/217051-actress-radical-frame.jpg",
@@ -11646,15 +11698,14 @@
           "url": "https://www.normanrecords.com/records/217051-actress-radical-frame"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/d6/1f/0fd61f04-811e-7930-d243-bb4834303977/mzaf_5187442996600236954.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/d6/1f/0fd61f04-811e-7930-d243-bb4834303977/mzaf_5187442996600236954.plus.aac.p.m4a"
     },
     {
       "artist": "After",
       "title": "Fell Asleep in the Sun",
       "format": "LP",
       "label": "Mom & Pop",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217049-after-fell-asleep-in-the-sun",
       "imageUrl": "https://www.normanrecords.com/artwork/large/49/217049-after-fell-asleep-in-the-sun.jpg",
@@ -11672,7 +11723,7 @@
       "title": "Happiness Anytime",
       "format": "LP",
       "label": "Columbia",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217041-leon-bridges-happiness-anytime",
       "imageUrl": "https://www.normanrecords.com/artwork/large/41/217041-leon-bridges-happiness-anytime.jpg",
@@ -11694,7 +11745,7 @@
       "title": "Stress: The Extinction Agenda",
       "format": "LP",
       "label": "OK Records",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217019-organized-konfusion-stress-the-extinction-agenda",
       "imageUrl": "https://www.normanrecords.com/artwork/large/19/217019-organized-konfusion-stress-the-extinction-agenda.jpg",
@@ -11712,7 +11763,7 @@
       "title": "Don't Bring Me Sunshine",
       "format": "7\"",
       "label": "Tip Top Recordings",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217194-pete-fij-dont-bring-me-sunshine",
       "imageUrl": "https://www.normanrecords.com/artwork/large/194/217194-pete-fij-dont-bring-me-sunshine.jpg",
@@ -11734,7 +11785,7 @@
       "title": "Katamari Once Again Damacy (Once Upon A KATAMARI Original Soundtrack)",
       "format": "LP",
       "label": "Bandai Namco Entertainment Inc.",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217101-various-once-upon-a-katamari-original",
       "imageUrl": "https://www.normanrecords.com/artwork/large/101/217101-various-once-upon-a-katamari-original.jpg",
@@ -11753,7 +11804,7 @@
       "title": "Perfect Execution",
       "format": "7\"",
       "label": "Friendly Records",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217212-claude-cooper-ft-joe-talbot-perfect-execution",
       "imageUrl": "https://www.normanrecords.com/artwork/large/212/217212-claude-cooper-ft-joe-talbot-perfect-execution.jpg",
@@ -11764,15 +11815,14 @@
           "url": "https://www.normanrecords.com/records/217212-claude-cooper-ft-joe-talbot-perfect-execution"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/c8/8e/6dc88e14-4103-2852-4589-ab4b5805ddef/mzaf_16894011432731701163.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/c8/8e/6dc88e14-4103-2852-4589-ab4b5805ddef/mzaf_16894011432731701163.plus.aac.p.m4a"
     },
     {
       "artist": "Lacross Club",
       "title": "Blesh",
       "format": "7\"",
       "label": "R*E*P*E*A*T Records",
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-07-26",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217218-lacross-club-blesh",
       "imageUrl": "https://www.normanrecords.com/artwork/large/218/217218-lacross-club-blesh.jpg",
@@ -25398,6 +25448,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/russian-circles/nine/SH306CD"
+        },
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/nine-1df0c113-e1eb-46a1-9c6b-f169f19eccbd"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/78/60/2878601c-2d15-eac0-9028-ceeb2d96e950/mzaf_13970654291261611160.plus.aac.p.m4a"
@@ -50652,5 +50706,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-07-25T02:53:10.251Z"
+  "updatedAt": "2026-07-26T03:02:10.027Z"
 }
