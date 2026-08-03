@@ -2751,6 +2751,46 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/e1/ba/e3e1bace-5318-9cbc-6374-b54111260b98/mzaf_5736248067997582181.plus.aac.p.m4a"
     },
     {
+      "artist": "HOLE",
+      "title": "Celebrity Skin (remastered)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "UMR",
+      "releaseDate": "2026-09-18",
+      "url": "https://www.juno.co.uk/products/hole-celebrity-skin-remastered-vinyl/1170329-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1170329-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/hole-celebrity-skin-remastered-vinyl/1170329-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/27/6d/81276d85-5f9c-3511-f472-983aed6724b0/mzaf_17639183361977288566.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "HOLE",
+      "title": "Live Through This (remastered)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "UMR",
+      "releaseDate": "2026-09-18",
+      "url": "https://www.juno.co.uk/products/hole-live-through-this-remastered-vinyl/1170332-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1170332-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/hole-live-through-this-remastered-vinyl/1170332-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/75/0f/72750f6e-98ca-0302-a802-538d930944b3/mzaf_10953812401373780644.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "DISPATCH",
       "title": "Bang Bang (reissue)",
       "format": "LP",
@@ -3068,6 +3108,10 @@
         {
           "store": "Boomkat",
           "url": "https://boomkat.com/products/trompe-le-monde-2026-remaster"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/pixies-trompe-le-monde-2026-remaster-vinyl/1160679-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/43/87/1d4387d0-fcd6-de3c-b767-a89c354cbf43/mzaf_956945344078572810.plus.aac.p.m4a"
@@ -3090,6 +3134,10 @@
         {
           "store": "Boomkat",
           "url": "https://boomkat.com/products/bossanova-2026-remaster"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/pixies-bossanova-2026-remaster-vinyl/1160677-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/92/a9/f292a9c3-d2cc-2c08-6358-b4b797cc4a01/mzaf_16023976175689962572.plus.aac.p.m4a"
@@ -7674,6 +7722,26 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/d3/c9/85d3c97a-4979-d167-11dd-501bf2b06b84/mzaf_8499953342402523944.plus.aac.p.m4a"
     },
     {
+      "artist": "The JACKS",
+      "title": "Box",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Mega Dodo",
+      "releaseDate": "2026-08-14",
+      "url": "https://www.juno.co.uk/products/the-jacks-box-vinyl/1159861-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1159861-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-jacks-box-vinyl/1159861-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8f/30/7a/8f307a7b-a96b-2917-3633-ca6021090062/mzaf_17419675354426078688.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "J HOLMES",
       "title": "Honeyhorse",
       "format": "LP",
@@ -12153,6 +12221,10 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/217215-baxter-dury-allbarone-versions"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/baxter-dury-allbarone-versions-vinyl/1170320-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/8f/93/f28f9372-d60a-0c24-3816-2e31e0192d74/mzaf_6153517826525540933.plus.aac.p.m4a"
@@ -32703,5 +32775,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-08-02T03:01:21.994Z"
+  "updatedAt": "2026-08-03T03:00:40.967Z"
 }
