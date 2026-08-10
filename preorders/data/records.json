@@ -1058,6 +1058,44 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Babyshambles",
+      "title": "Live at KOKO",
+      "format": "LP",
+      "label": "",
+      "releaseDate": "2026-10-16",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/babyshambles/live-at-koko/SOCD030",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SOCD030",
+      "genre": "Indie Albums",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/babyshambles/live-at-koko/SOCD030"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/17/ce/e617ceed-cd17-6841-8d94-f7a4dddbb78c/mzaf_4213005172256942142.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Howlers",
+      "title": "Saturday 10th October at Banquet Records, 6:00pm",
+      "format": "LP",
+      "label": "",
+      "releaseDate": "2026-10-15",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-howlers/banquet-records%2C-6%3A00pm/TH101026",
+      "imageUrl": "https://www.banquetrecords.com/item.png?TH101026",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-howlers/banquet-records%2C-6%3A00pm/TH101026"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Meryl STREEK",
       "title": "Stories They Don't Teach You At School",
       "format": "LP",
@@ -3021,6 +3059,25 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/hole-pretty-on-the-inside-35th-anniversary-edition-vinyl/1170340-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/5a/9a/6b5a9aa0-0095-87c8-5150-274c1fc37229/mzaf_3995847077724324693.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Hole",
+      "title": "Pretty On The Inside (35th Anniversary)",
+      "format": "LP",
+      "label": "UMR",
+      "releaseDate": "2026-09-18",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/hole/pretty-on-the-inside-%2835th-anniversary%29/6107228",
+      "imageUrl": "https://www.banquetrecords.com/item.png?6107228",
+      "genre": "Indie Albums Indie Re-issues Re-issues",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/hole/pretty-on-the-inside-%2835th-anniversary%29/6107228"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/5a/9a/6b5a9aa0-0095-87c8-5150-274c1fc37229/mzaf_3995847077724324693.plus.aac.p.m4a",
@@ -11245,6 +11302,386 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Aphex Twin",
+      "title": "Drukqs",
+      "format": "LP",
+      "label": "Warp",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/35258-aphex-twin-drukqs",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/8/35258-aphex-twin-drukqs.jpg",
+      "genre": "Electronic",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/35258-aphex-twin-drukqs"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/aphex-twin/drukqs/WARPCD92R"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c2/38/e5/c238e569-1668-498b-c4b4-83c0538c608d/mzaf_17310188625779774153.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Clara Mann",
+      "title": "Wishbone",
+      "format": "LP",
+      "label": "The state51 Conspiracy",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217260-clara-mann-wishbone",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/10/217260-clara-mann-wishbone.jpg",
+      "genre": "Folk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217260-clara-mann-wishbone"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/clara-mann/wishbone/CON1046CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Rubber Soul",
+      "format": "LP",
+      "label": "UMR",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217313-the-beatles-rubber-soul",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/63/217313-the-beatles-rubber-soul.jpg",
+      "genre": "Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217313-the-beatles-rubber-soul"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/6d/eb/876deb5e-201d-317c-b473-2766c261cc2b/mzaf_3259837082859233458.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Cloud Canyons",
+      "title": "Body Wisdom",
+      "format": "LP",
+      "label": "Berliner Tonaufnahmen",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217262-cloud-canyons-body-wisdom",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/12/217262-cloud-canyons-body-wisdom.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217262-cloud-canyons-body-wisdom"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Hallucinator",
+      "title": "Landlocked",
+      "format": "LP",
+      "label": "Numbers",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217266-hallucinator-landlocked",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/16/217266-hallucinator-landlocked.jpg",
+      "genre": "Techno",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217266-hallucinator-landlocked"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Sennen",
+      "title": "New Quiet",
+      "format": "LP",
+      "label": "Sonic Cathedral",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217277-sennen-new-quiet",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/27/217277-sennen-new-quiet.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217277-sennen-new-quiet"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/4c/c6/994cc6cf-7a7e-96a2-0dfc-876e3a889d50/mzaf_10465744024627441978.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Dinner Party",
+      "title": "Whatchu Bringing?",
+      "format": "LP",
+      "label": "Sounds of Crenshaw / EMPIRE",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217170-dinner-party-whatchu-bringing",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/170/217170-dinner-party-whatchu-bringing.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217170-dinner-party-whatchu-bringing"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/08/7c/6c087c8d-ccbf-8392-d6e8-2eaab1ab110f/mzaf_16687787052848291448.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Holy Tongue",
+      "title": "Basilikum",
+      "format": "LP",
+      "label": "AD 93",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217284-holy-tongue-basilikum",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/34/217284-holy-tongue-basilikum.jpg",
+      "genre": "Experimental",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217284-holy-tongue-basilikum"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/21/b4/a821b4ef-4e79-e749-0bf7-3985582b7765/mzaf_15827649594199685177.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Dis Fig",
+      "title": "What To Make Of These Mortal Hands",
+      "format": "LP",
+      "label": "Thrill Jockey",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217155-dis-fig-what-to-make-of-these",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/155/217155-dis-fig-what-to-make-of-these.jpg",
+      "genre": "Metal",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217155-dis-fig-what-to-make-of-these"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Alice In Chains",
+      "title": "MTV Unplugged",
+      "format": "LP",
+      "label": "",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217323-alice-in-chains-mtv-unplugged",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/73/217323-alice-in-chains-mtv-unplugged.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217323-alice-in-chains-mtv-unplugged"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/alice-in-chains/mtv-unplugged/19802848671"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/90/4a/7a/904a7ad7-68f2-e285-ba01-3a1a2a2d571b/mzaf_15267942513869232332.plus.aac.p.m4a"
+    },
+    {
+      "artist": "David A Jaycock",
+      "title": "Children of the Cold War: Phase 7",
+      "format": "LP",
+      "label": "Subexotic",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217269-david-a-jaycock-children-of-the-cold-war",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/19/217269-david-a-jaycock-children-of-the-cold-war.jpg",
+      "genre": "Electronic",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217269-david-a-jaycock-children-of-the-cold-war"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/6f/ac/556facc7-b12d-d674-89bd-09e3fb6c6277/mzaf_2037392796814165777.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Richard Thompson",
+      "title": "Hippies, Thugs and Heroes",
+      "format": "LP",
+      "label": "New West",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217278-richard-thompson-hippies-thugs-and-heroes",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/28/217278-richard-thompson-hippies-thugs-and-heroes.jpg",
+      "genre": "Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217278-richard-thompson-hippies-thugs-and-heroes"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/1a/fe/8a1afe94-2bfb-6617-cd03-b3fa8c61fdb7/mzaf_12180901419800720870.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Black Doldrums",
+      "title": "Repetition Complulsion",
+      "format": "LP",
+      "label": "Fuzz Club",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217209-black-doldrums-repetition-complulsion",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/209/217209-black-doldrums-repetition-complulsion.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217209-black-doldrums-repetition-complulsion"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/cc/53/aacc5346-c6dc-db8b-64d4-4978cb5d3373/mzaf_2675768269370360465.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Spike Fuck",
+      "title": "evidence",
+      "format": "LP",
+      "label": "Sacred Bones",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217290-spike-fuck-evidence",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/40/217290-spike-fuck-evidence.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217290-spike-fuck-evidence"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/a0/7c/89a07c15-9f4e-a94a-ba45-0a3d37e92b61/mzaf_10301214268530826167.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Discharge",
+      "title": "Hear Nothing See Nothing Say Nothing",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217305-discharge-hear-nothing-see-nothing-say",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/55/217305-discharge-hear-nothing-see-nothing-say.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217305-discharge-hear-nothing-see-nothing-say"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/discharge/hear-nothing-see-nothing-say-nothing/MOVLP4079C"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/11/6c/0f116c1d-efa7-dfa2-85e6-1761b172b142/mzaf_14246619878267976887.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Sour Widows",
+      "title": "Sigil",
+      "format": "LP",
+      "label": "Winspear",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217316-sour-widows-sigil",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/66/217316-sour-widows-sigil.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217316-sour-widows-sigil"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/07/8c/ed078c5b-4b56-7aa1-e10e-6522b4bc142b/mzaf_3354133510608943235.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Arca",
+      "title": "XXXXX",
+      "format": "LP",
+      "label": "XL Recordings",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217329-arca-xxxxx",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/79/217329-arca-xxxxx.jpg",
+      "genre": "Electronic",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217329-arca-xxxxx"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/3c/71/f03c7134-689a-fad8-c743-b4c3704de2e4/mzaf_1428483721009960254.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Klittens",
+      "title": "Have A Heart",
+      "format": "LP",
+      "label": "THK Records",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217332-the-klittens-have-a-heart",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/82/217332-the-klittens-have-a-heart.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217332-the-klittens-have-a-heart"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/e1/1f/e3e11f1e-b940-8982-9512-19ca00a20c22/mzaf_2563290333484335665.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Catburgers",
+      "title": "Galashiels",
+      "format": "LP",
+      "label": "Slumberland",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217301-the-catburgers-galashiels",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/51/217301-the-catburgers-galashiels.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217301-the-catburgers-galashiels"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/a8/32/b6a832ce-6b91-877f-9121-a9621e4a9e65/mzaf_9876518228227136076.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "Halo",
+      "format": "LP",
+      "label": "Many Hats",
+      "releaseDate": "2026-08-10",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217359-tiffany-day-halo",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/109/217359-tiffany-day-halo.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217359-tiffany-day-halo"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/20/aa/96/20aa9681-b4d9-792e-0a26-6e42a1a72952/mzaf_8925815349850020406.plus.aac.p.m4a"
+    },
+    {
       "artist": "Stone Coal White",
       "title": "Hell Below / Free",
       "format": "7\"",
@@ -11437,387 +11874,6 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/5b/c1/195bc137-5328-ff71-57fe-93bc0de164e3/mzaf_4047170032859127297.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Aphex Twin",
-      "title": "Drukqs",
-      "format": "LP",
-      "label": "Warp",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/35258-aphex-twin-drukqs",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/8/35258-aphex-twin-drukqs.jpg",
-      "genre": "Electronic",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/35258-aphex-twin-drukqs"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/aphex-twin/drukqs/WARPCD92R"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c2/38/e5/c238e569-1668-498b-c4b4-83c0538c608d/mzaf_17310188625779774153.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Clara Mann",
-      "title": "Wishbone",
-      "format": "LP",
-      "label": "The state51 Conspiracy",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217260-clara-mann-wishbone",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/10/217260-clara-mann-wishbone.jpg",
-      "genre": "Folk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217260-clara-mann-wishbone"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/clara-mann/wishbone/CON1046CD"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "The Beatles",
-      "title": "Rubber Soul",
-      "format": "LP",
-      "label": "UMR",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217313-the-beatles-rubber-soul",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/63/217313-the-beatles-rubber-soul.jpg",
-      "genre": "Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217313-the-beatles-rubber-soul"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/6d/eb/876deb5e-201d-317c-b473-2766c261cc2b/mzaf_3259837082859233458.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Cloud Canyons",
-      "title": "Body Wisdom",
-      "format": "LP",
-      "label": "Berliner Tonaufnahmen",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217262-cloud-canyons-body-wisdom",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/12/217262-cloud-canyons-body-wisdom.jpg",
-      "genre": "Psyche",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217262-cloud-canyons-body-wisdom"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Hallucinator",
-      "title": "Landlocked",
-      "format": "LP",
-      "label": "Numbers",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217266-hallucinator-landlocked",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/16/217266-hallucinator-landlocked.jpg",
-      "genre": "Techno",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217266-hallucinator-landlocked"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Sennen",
-      "title": "New Quiet",
-      "format": "LP",
-      "label": "Sonic Cathedral",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217277-sennen-new-quiet",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/27/217277-sennen-new-quiet.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217277-sennen-new-quiet"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/4c/c6/994cc6cf-7a7e-96a2-0dfc-876e3a889d50/mzaf_10465744024627441978.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Dinner Party",
-      "title": "Whatchu Bringing?",
-      "format": "LP",
-      "label": "Sounds of Crenshaw / EMPIRE",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217170-dinner-party-whatchu-bringing",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/170/217170-dinner-party-whatchu-bringing.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217170-dinner-party-whatchu-bringing"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/08/7c/6c087c8d-ccbf-8392-d6e8-2eaab1ab110f/mzaf_16687787052848291448.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Holy Tongue",
-      "title": "Basilikum",
-      "format": "LP",
-      "label": "AD 93",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217284-holy-tongue-basilikum",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/34/217284-holy-tongue-basilikum.jpg",
-      "genre": "Experimental",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217284-holy-tongue-basilikum"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/21/b4/a821b4ef-4e79-e749-0bf7-3985582b7765/mzaf_15827649594199685177.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Dis Fig",
-      "title": "What To Make Of These Mortal Hands",
-      "format": "LP",
-      "label": "Thrill Jockey",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217155-dis-fig-what-to-make-of-these",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/155/217155-dis-fig-what-to-make-of-these.jpg",
-      "genre": "Metal",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217155-dis-fig-what-to-make-of-these"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Alice In Chains",
-      "title": "MTV Unplugged",
-      "format": "LP",
-      "label": "",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217323-alice-in-chains-mtv-unplugged",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/73/217323-alice-in-chains-mtv-unplugged.jpg",
-      "genre": "",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217323-alice-in-chains-mtv-unplugged"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/alice-in-chains/mtv-unplugged/19802848671"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/90/4a/7a/904a7ad7-68f2-e285-ba01-3a1a2a2d571b/mzaf_15267942513869232332.plus.aac.p.m4a"
-    },
-    {
-      "artist": "David A Jaycock",
-      "title": "Children of the Cold War: Phase 7",
-      "format": "LP",
-      "label": "Subexotic",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217269-david-a-jaycock-children-of-the-cold-war",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/19/217269-david-a-jaycock-children-of-the-cold-war.jpg",
-      "genre": "Electronic",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217269-david-a-jaycock-children-of-the-cold-war"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/6f/ac/556facc7-b12d-d674-89bd-09e3fb6c6277/mzaf_2037392796814165777.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Richard Thompson",
-      "title": "Hippies, Thugs and Heroes",
-      "format": "LP",
-      "label": "New West",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217278-richard-thompson-hippies-thugs-and-heroes",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/28/217278-richard-thompson-hippies-thugs-and-heroes.jpg",
-      "genre": "Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217278-richard-thompson-hippies-thugs-and-heroes"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/1a/fe/8a1afe94-2bfb-6617-cd03-b3fa8c61fdb7/mzaf_12180901419800720870.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Black Doldrums",
-      "title": "Repetition Complulsion",
-      "format": "LP",
-      "label": "Fuzz Club",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217209-black-doldrums-repetition-complulsion",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/209/217209-black-doldrums-repetition-complulsion.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217209-black-doldrums-repetition-complulsion"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/cc/53/aacc5346-c6dc-db8b-64d4-4978cb5d3373/mzaf_2675768269370360465.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Spike Fuck",
-      "title": "evidence",
-      "format": "LP",
-      "label": "Sacred Bones",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217290-spike-fuck-evidence",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/40/217290-spike-fuck-evidence.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217290-spike-fuck-evidence"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/a0/7c/89a07c15-9f4e-a94a-ba45-0a3d37e92b61/mzaf_10301214268530826167.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Discharge",
-      "title": "Hear Nothing See Nothing Say Nothing",
-      "format": "LP",
-      "label": "Music On Vinyl",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217305-discharge-hear-nothing-see-nothing-say",
-      "imageUrl": "https://www.normanrecords.com/artwork/medium/55/217305-discharge-hear-nothing-see-nothing-say.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217305-discharge-hear-nothing-see-nothing-say"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/discharge/hear-nothing-see-nothing-say-nothing/MOVLP4079C"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/11/6c/0f116c1d-efa7-dfa2-85e6-1761b172b142/mzaf_14246619878267976887.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Sour Widows",
-      "title": "Sigil",
-      "format": "LP",
-      "label": "Winspear",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217316-sour-widows-sigil",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/66/217316-sour-widows-sigil.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217316-sour-widows-sigil"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/07/8c/ed078c5b-4b56-7aa1-e10e-6522b4bc142b/mzaf_3354133510608943235.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Arca",
-      "title": "XXXXX",
-      "format": "LP",
-      "label": "XL Recordings",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217329-arca-xxxxx",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/79/217329-arca-xxxxx.jpg",
-      "genre": "Electronic",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217329-arca-xxxxx"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/3c/71/f03c7134-689a-fad8-c743-b4c3704de2e4/mzaf_1428483721009960254.plus.aac.p.m4a"
-    },
-    {
-      "artist": "The Klittens",
-      "title": "Have A Heart",
-      "format": "LP",
-      "label": "THK Records",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217332-the-klittens-have-a-heart",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/82/217332-the-klittens-have-a-heart.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217332-the-klittens-have-a-heart"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/e1/1f/e3e11f1e-b940-8982-9512-19ca00a20c22/mzaf_2563290333484335665.plus.aac.p.m4a"
-    },
-    {
-      "artist": "The Catburgers",
-      "title": "Galashiels",
-      "format": "LP",
-      "label": "Slumberland",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217301-the-catburgers-galashiels",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/51/217301-the-catburgers-galashiels.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217301-the-catburgers-galashiels"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/a8/32/b6a832ce-6b91-877f-9121-a9621e4a9e65/mzaf_9876518228227136076.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Tiffany Day",
-      "title": "Halo",
-      "format": "LP",
-      "label": "Many Hats",
-      "releaseDate": "2026-08-09",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217359-tiffany-day-halo",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/109/217359-tiffany-day-halo.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217359-tiffany-day-halo"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/20/aa/96/20aa9681-b4d9-792e-0a26-6e42a1a72952/mzaf_8925815349850020406.plus.aac.p.m4a"
     },
     {
       "artist": "Voice Actor / Lukid / Winkate",
@@ -36479,5 +36535,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-08-09T01:57:19.486Z"
+  "updatedAt": "2026-08-10T01:56:35.199Z"
 }
