@@ -755,6 +755,25 @@
       "hasDeezerPreview": true
     },
     {
+      "artist": "OSEES / Thee Oh Sees",
+      "title": "Live In Los Angeles",
+      "format": "LP",
+      "label": "Deathgod Corp",
+      "releaseDate": "2026-10-30",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/thee-oh-sees-osees/live-in-los-angeles/DG012CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DG012CD",
+      "genre": "Indie Albums",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/thee-oh-sees-osees/live-in-los-angeles/DG012CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9a/a7/c8/9aa7c8e1-02ce-181d-1b1e-b77ab25179fa/mzaf_856550944144222082.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "DECO",
       "title": "Dreamhouse",
       "format": "LP",
@@ -2461,6 +2480,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/b8/21/97/b8219759-ccf1-ffbb-f83d-c80f17a621d2/mzaf_6394054934598461319.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Grace IVES",
+      "title": "2nd",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Dots Per Inch Music US",
+      "releaseDate": "2026-09-25",
+      "url": "https://www.juno.co.uk/products/grace-ives-2nd-vinyl/1171866-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1171866-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/grace-ives-2nd-vinyl/1171866-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/c7/82/aec7822e-7e31-71e2-adcf-42f1182c4463/mzaf_4201038097472757233.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -7115,6 +7154,25 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Fu Manchu",
+      "title": "In Search Of... (30th Anniversary)",
+      "format": "LP",
+      "label": "At The Dojo",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/fu-manchu/in-search-of...-%2830th-anniversary%29/ATD031CR",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ATD031CR",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/fu-manchu/in-search-of...-%2830th-anniversary%29/ATD031CR"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/63/81/e9638106-eac2-36b5-bc32-a556ed76aff9/mzaf_14018992239788934774.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "BLOODTHIRSTY BUTCHERS",
       "title": "Sankaku Plus 2",
       "format": "LP",
@@ -10815,6 +10873,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/roger-hodgson-supertramp/in-the-eye-of-the-storm/7545611"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/supertramp-roger-hodgson/in-the-eye-of-the-storm/7545611"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ac/7f/8a/ac7f8aa3-8d8c-5a7c-29f2-cedd2d29aa97/mzaf_2130984525998894206.plus.aac.p.m4a",
@@ -10834,6 +10896,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/roger-hodgson-supertramp/hai-hai/7545608"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/supertramp-roger-hodgson/hai-hai/7545608"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/3c/43/ed3c430d-0425-5598-2bb9-a9a7cdc2d91b/mzaf_12638581998008093392.plus.aac.p.m4a",
@@ -11091,7 +11157,7 @@
       "title": "Perfect Execution",
       "format": "7\"",
       "label": "Friendly Records",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217212-claude-cooper-ft-joe-talbot-perfect-execution",
       "imageUrl": "https://www.normanrecords.com/artwork/large/212/217212-claude-cooper-ft-joe-talbot-perfect-execution.jpg",
@@ -11109,7 +11175,7 @@
       "title": "Interstellar",
       "format": "7\"",
       "label": "Lewis Recordings",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217274-skinshape-x-horus-interstellar",
       "imageUrl": "https://www.normanrecords.com/artwork/large/24/217274-skinshape-x-horus-interstellar.jpg",
@@ -11131,7 +11197,7 @@
       "title": "Blesh",
       "format": "7\"",
       "label": "R*E*P*E*A*T Records",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217218-lacross-club-blesh",
       "imageUrl": "https://www.normanrecords.com/artwork/large/218/217218-lacross-club-blesh.jpg",
@@ -11150,7 +11216,7 @@
       "title": "Baby Steps",
       "format": "7\"",
       "label": "Capitol",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217398-olivia-dean-baby-steps",
       "imageUrl": "https://www.normanrecords.com/artwork/large/148/217398-olivia-dean-baby-steps.jpg",
@@ -11168,7 +11234,7 @@
       "title": "Good Luck",
       "format": "7\"",
       "label": "Stroom",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217455-voice-actor-lukid-winkate-good-luck",
       "imageUrl": "https://www.normanrecords.com/artwork/large/205/217455-voice-actor-lukid-winkate-good-luck.jpg",
@@ -11187,7 +11253,7 @@
       "title": "Nowhere EP",
       "format": "7\"",
       "label": "Deadair",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217440-venturing-nowhere-ep",
       "imageUrl": "https://www.normanrecords.com/artwork/large/190/217440-venturing-nowhere-ep.jpg",
@@ -11205,7 +11271,7 @@
       "title": "El Camino / White Sands",
       "format": "7\"",
       "label": "A-Train",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217473-tommy-guerrero-el-camino-white-sands",
       "imageUrl": "https://www.normanrecords.com/artwork/large/223/217473-tommy-guerrero-el-camino-white-sands.jpg",
@@ -11227,7 +11293,7 @@
       "title": "Window Shopping",
       "format": "7\"",
       "label": "Hand Of Glory",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217500-the-genesis-window-shopping",
       "imageUrl": "https://www.normanrecords.com/artwork/large/0/217500-the-genesis-window-shopping.jpg",
@@ -11249,7 +11315,7 @@
       "title": "New Palestine / False Flags",
       "format": "7\"",
       "label": "Damaged Goods",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217469-derik-the-disasters-new-palestine-false-flags",
       "imageUrl": "https://www.normanrecords.com/artwork/large/219/217469-derik-the-disasters-new-palestine-false-flags.jpg",
@@ -11268,7 +11334,7 @@
       "title": "Zarro (Zorro)",
       "format": "7\"",
       "label": "Greensleeves",
-      "releaseDate": "2026-08-15",
+      "releaseDate": "2026-08-16",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217489-wayne-smith-prince-jammy-zarro-zorro",
       "imageUrl": "https://www.normanrecords.com/artwork/large/239/217489-wayne-smith-prince-jammy-zarro-zorro.jpg",
@@ -11277,6 +11343,485 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/217489-wayne-smith-prince-jammy-zarro-zorro"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Last Dinner Party",
+      "title": "Big Dog / Knocking at the Sky",
+      "format": "7\"",
+      "label": "Island",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217113-the-last-dinner-party-big-dog-knocking-at-the",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/113/217113-the-last-dinner-party-big-dog-knocking-at-the.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217113-the-last-dinner-party-big-dog-knocking-at-the"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/a2/e9/b4a2e994-9008-7d23-9aef-6bb626426b42/mzaf_579254617480848985.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Frances Chang",
+      "title": "I can feel the waves",
+      "format": "7\"",
+      "label": "RVNG Intl",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217501-frances-chang-i-can-feel-the-waves",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/1/217501-frances-chang-i-can-feel-the-waves.jpg",
+      "genre": "Folk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217501-frances-chang-i-can-feel-the-waves"
+        },
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/i-can-feel-the-waves-9ba4846a-6e1c-49f9-a26c-ed052add1dd5"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/frances-chang/i-can-feel-the-waves/RVNGNL137-7LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/54/d8/bc54d8ea-0324-53c2-93d3-1684a73294e4/mzaf_2756198086885383367.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Avalanches",
+      "title": "No Bad Memories",
+      "format": "LP",
+      "label": "Polydor",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217485-avalanches-no-bad-memories",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/235/217485-avalanches-no-bad-memories.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217485-avalanches-no-bad-memories"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-avalanches/no-bad-memories/7417963"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/ce/39/0fce399c-818d-3510-62c2-f26b3d330a38/mzaf_4926208935825419101.plus.aac.p.m4a"
+    },
+    {
+      "artist": "DIIV",
+      "title": "ZIRP!",
+      "format": "LP",
+      "label": "Concord Records",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217486-diiv-zirp",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/236/217486-diiv-zirp.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217486-diiv-zirp"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/diiv/zirp%21/FAN03320"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/31/c8/6c31c835-eef9-e274-1d4a-d6e8ae5c568e/mzaf_121876391103197012.plus.aac.p.m4a"
+    },
+    {
+      "artist": "DJ Shadow",
+      "title": "Endtroducing….. (30th Anniversary Edition)",
+      "format": "LP",
+      "label": "PIAS",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217425-dj-shadow-endtroducing-30th-anniversary-edition",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/175/217425-dj-shadow-endtroducing-30th-anniversary-edition.jpg",
+      "genre": "Hip-Hop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217425-dj-shadow-endtroducing-30th-anniversary-edition"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/17/42/5e/17425eb0-508c-f9e6-a925-0dcfa40480aa/mzaf_8851471638799931584.plus.aac.p.m4a"
+    },
+    {
+      "artist": "OSEES",
+      "title": "Live In Los Angeles",
+      "format": "LP",
+      "label": "Deathgod Records",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217482-osees-live-in-los-angeles",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/232/217482-osees-live-in-los-angeles.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217482-osees-live-in-los-angeles"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/20/9c/26/209c26c9-9e96-f11a-40b7-62cdc818b2b0/mzaf_11940898497166832594.plus.aac.p.m4a"
+    },
+    {
+      "artist": "GNOD",
+      "title": "Chronicles of Gnowt (Vol 2)",
+      "format": "LP",
+      "label": "Rocket",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217444-gnod-chronicles-of-gnowt-vol-2",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/194/217444-gnod-chronicles-of-gnowt-vol-2.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217444-gnod-chronicles-of-gnowt-vol-2"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/e5/e8/d5e5e847-66a7-8e48-e419-7a746e802d84/mzaf_491288083833968820.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Susanne Sundfor",
+      "title": "Revelations of Divine Love",
+      "format": "LP",
+      "label": "Bella Union",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217467-susanne-sundfor-revelations-of-divine-love",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/217/217467-susanne-sundfor-revelations-of-divine-love.jpg",
+      "genre": "Folk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217467-susanne-sundfor-revelations-of-divine-love"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/bd/de/90bdde4b-23dc-6de2-b08e-9364809de9c1/mzaf_12205266126590096180.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Fall",
+      "title": "Post Script",
+      "format": "LP",
+      "label": "Cog Sinister,",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217363-the-fall-post-script",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/113/217363-the-fall-post-script.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217363-the-fall-post-script"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-fall-post-script-vinyl/1168245-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-fall-post-script-vinyl/1168246-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-fall/post-script/COGGZ154CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/08/2b/02/082b02b3-3359-634f-9ab5-fd68d38b3f3a/mzaf_7343636108960101110.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Amyl and the Sniffers",
+      "title": "Truth or Consequence (Live from El Coyote)",
+      "format": "LP",
+      "label": "Rough Trade",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217383-amyl-and-the-sniffers-truth-or-consequence-live-from",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/133/217383-amyl-and-the-sniffers-truth-or-consequence-live-from.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217383-amyl-and-the-sniffers-truth-or-consequence-live-from"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/amyl-and-the-sniffers/truth-or-consequence-%28live-from-el-coyote%29/RT0618CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c7/13/1a/c7131a2f-2718-740f-19ef-f2bfab141ee9/mzaf_10349980111041581596.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Prolapse",
+      "title": "Mary Anne Hobbs sessions 97-98",
+      "format": "LP",
+      "label": "Precious Recordings",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217333-prolapse-mary-anne-hobbs-sessions-9798",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/83/217333-prolapse-mary-anne-hobbs-sessions-9798.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217333-prolapse-mary-anne-hobbs-sessions-9798"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Dawn Richard",
+      "title": "Creole Culture",
+      "format": "LP",
+      "label": "Merge",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217454-dawn-richard-creole-culture",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/204/217454-dawn-richard-creole-culture.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217454-dawn-richard-creole-culture"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/7b/10/dc7b109c-30c3-912e-1d0d-6dc831b8ef8e/mzaf_16335545818524053858.plus.aac.p.m4a"
+    },
+    {
+      "artist": "AJJ",
+      "title": "Dirty Old Power",
+      "format": "LP",
+      "label": "Specialist Subject",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217452-ajj-dirty-old-power",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/202/217452-ajj-dirty-old-power.jpg",
+      "genre": "Indie Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217452-ajj-dirty-old-power"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/87/f5/cc87f548-6470-6a6a-b554-ed063a0c9b79/mzaf_17090004585000571481.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Muireann Bradley",
+      "title": "Rose Dogs & Blackwood Pew",
+      "format": "LP",
+      "label": "Fontana",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217450-muireann-bradley-rose-dogs-blackwood-pew",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/200/217450-muireann-bradley-rose-dogs-blackwood-pew.jpg",
+      "genre": "Folk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217450-muireann-bradley-rose-dogs-blackwood-pew"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/f6/b2/b3f6b2c4-9cf9-49b9-8e48-da3745d054d0/mzaf_10574258735612260279.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Bonnie 'Prince' Billy",
+      "title": "Ghosts of American Psychonauts",
+      "format": "LP",
+      "label": "Domino",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217400-bonnie-prince-billy-ghosts-of-american-psychonauts",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/150/217400-bonnie-prince-billy-ghosts-of-american-psychonauts.jpg",
+      "genre": "Folk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217400-bonnie-prince-billy-ghosts-of-american-psychonauts"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/f7/08/45f70888-6e69-3411-28dc-08b32c6b50bd/mzaf_3346723856054571205.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Cities Aviv",
+      "title": "Even Colder Spring",
+      "format": "LP",
+      "label": "Black Truffle",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217374-cities-aviv-even-colder-spring",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/124/217374-cities-aviv-even-colder-spring.jpg",
+      "genre": "Experimental",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217374-cities-aviv-even-colder-spring"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Bikini Kill",
+      "title": "Reject All American (30th Anniversary Edition)",
+      "format": "LP",
+      "label": "Bikini Kill",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217484-bikini-kill-reject-all-american-30th-anniversary",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/234/217484-bikini-kill-reject-all-american-30th-anniversary.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217484-bikini-kill-reject-all-american-30th-anniversary"
+        },
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/reject-all-american-30th-anniversary-edition"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/67/58/74/675874e5-1c22-0d5d-7d8d-9f0246c1f201/mzaf_866725792467179876.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Koreatown Oddity",
+      "title": "Purdy",
+      "format": "LP",
+      "label": "Stones Throw",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217418-the-koreatown-oddity-purdy",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/168/217418-the-koreatown-oddity-purdy.jpg",
+      "genre": "Hip-Hop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217418-the-koreatown-oddity-purdy"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/e8/dc/2ae8dc83-79c9-0a79-03e0-79d582a80aaf/mzaf_15608326646829427550.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Jah Wobble",
+      "title": "The Bus Routes of South London",
+      "format": "LP",
+      "label": "30 Hertz",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217487-jah-wobble-the-bus-routes-of-south",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/237/217487-jah-wobble-the-bus-routes-of-south.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217487-jah-wobble-the-bus-routes-of-south"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/jah-wobble/the-bus-routes-of-south-london/JWBUS345"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/76/c4/d876c4e4-d335-bb30-ebfc-70fe07ed7442/mzaf_770681368669725365.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Zoot Simms / Sound Dimension",
+      "title": "African Challenge",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217658-zoot-simms-sound-dimension-african-challenge",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/158/217658-zoot-simms-sound-dimension-african-challenge.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217658-zoot-simms-sound-dimension-african-challenge"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Lester Sterling / The Paragons",
+      "title": "Afrikaan Beat / My Satisfaction",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217657-lester-sterling-the-paragons-afrikaan-beat-my-satisfaction",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/157/217657-lester-sterling-the-paragons-afrikaan-beat-my-satisfaction.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217657-lester-sterling-the-paragons-afrikaan-beat-my-satisfaction"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Jim Brown",
+      "title": "See Him",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217656-jim-brown-see-him",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/156/217656-jim-brown-see-him.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217656-jim-brown-see-him"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/95/ed/cc95edc8-4f9b-0c56-bc74-31ba76a057f9/mzaf_11346187551197903108.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Alton Ellis / Freedom Singers",
+      "title": "African Descendants / Black Is Black",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217655-alton-ellis-freedom-singers-african-descendants-black-is-black",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/155/217655-alton-ellis-freedom-singers-african-descendants-black-is-black.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217655-alton-ellis-freedom-singers-african-descendants-black-is-black"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Actions / The Tonettes",
+      "title": "Music Like Dirt / I’ll Give It To You",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-08-16",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217654-the-actions-the-tonettes-music-like-dirt-ill-give",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/154/217654-the-actions-the-tonettes-music-like-dirt-ill-give.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217654-the-actions-the-tonettes-music-like-dirt-ill-give"
         }
       ],
       "itunesPreviewUrl": "",
@@ -14755,390 +15300,6 @@
       ],
       "itunesPreviewUrl": "",
       "hasDeezerPreview": false
-    },
-    {
-      "artist": "The Last Dinner Party",
-      "title": "Big Dog / Knocking at the Sky",
-      "format": "7\"",
-      "label": "Island",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217113-the-last-dinner-party-big-dog-knocking-at-the",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/113/217113-the-last-dinner-party-big-dog-knocking-at-the.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217113-the-last-dinner-party-big-dog-knocking-at-the"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/a2/e9/b4a2e994-9008-7d23-9aef-6bb626426b42/mzaf_579254617480848985.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Frances Chang",
-      "title": "I can feel the waves",
-      "format": "7\"",
-      "label": "RVNG Intl",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217501-frances-chang-i-can-feel-the-waves",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/1/217501-frances-chang-i-can-feel-the-waves.jpg",
-      "genre": "Folk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217501-frances-chang-i-can-feel-the-waves"
-        },
-        {
-          "store": "Boomkat",
-          "url": "https://boomkat.com/products/i-can-feel-the-waves-9ba4846a-6e1c-49f9-a26c-ed052add1dd5"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/frances-chang/i-can-feel-the-waves/RVNGNL137-7LP"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/54/d8/bc54d8ea-0324-53c2-93d3-1684a73294e4/mzaf_2756198086885383367.plus.aac.p.m4a"
-    },
-    {
-      "artist": "The Avalanches",
-      "title": "No Bad Memories",
-      "format": "LP",
-      "label": "Polydor",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217485-avalanches-no-bad-memories",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/235/217485-avalanches-no-bad-memories.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217485-avalanches-no-bad-memories"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/the-avalanches/no-bad-memories/7417963"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/ce/39/0fce399c-818d-3510-62c2-f26b3d330a38/mzaf_4926208935825419101.plus.aac.p.m4a"
-    },
-    {
-      "artist": "DIIV",
-      "title": "ZIRP!",
-      "format": "LP",
-      "label": "Concord Records",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217486-diiv-zirp",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/236/217486-diiv-zirp.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217486-diiv-zirp"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/diiv/zirp%21/FAN03320"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/31/c8/6c31c835-eef9-e274-1d4a-d6e8ae5c568e/mzaf_121876391103197012.plus.aac.p.m4a"
-    },
-    {
-      "artist": "DJ Shadow",
-      "title": "Endtroducing….. (30th Anniversary Edition)",
-      "format": "LP",
-      "label": "PIAS",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217425-dj-shadow-endtroducing-30th-anniversary-edition",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/175/217425-dj-shadow-endtroducing-30th-anniversary-edition.jpg",
-      "genre": "Hip-Hop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217425-dj-shadow-endtroducing-30th-anniversary-edition"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/17/42/5e/17425eb0-508c-f9e6-a925-0dcfa40480aa/mzaf_8851471638799931584.plus.aac.p.m4a"
-    },
-    {
-      "artist": "OSEES",
-      "title": "Live In Los Angeles",
-      "format": "LP",
-      "label": "Deathgod Records",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217482-osees-live-in-los-angeles",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/232/217482-osees-live-in-los-angeles.jpg",
-      "genre": "Psyche",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217482-osees-live-in-los-angeles"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/20/9c/26/209c26c9-9e96-f11a-40b7-62cdc818b2b0/mzaf_11940898497166832594.plus.aac.p.m4a"
-    },
-    {
-      "artist": "GNOD",
-      "title": "Chronicles of Gnowt (Vol 2)",
-      "format": "LP",
-      "label": "Rocket",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217444-gnod-chronicles-of-gnowt-vol-2",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/194/217444-gnod-chronicles-of-gnowt-vol-2.jpg",
-      "genre": "Psyche",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217444-gnod-chronicles-of-gnowt-vol-2"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/e5/e8/d5e5e847-66a7-8e48-e419-7a746e802d84/mzaf_491288083833968820.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Susanne Sundfor",
-      "title": "Revelations of Divine Love",
-      "format": "LP",
-      "label": "Bella Union",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217467-susanne-sundfor-revelations-of-divine-love",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/217/217467-susanne-sundfor-revelations-of-divine-love.jpg",
-      "genre": "Folk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217467-susanne-sundfor-revelations-of-divine-love"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/bd/de/90bdde4b-23dc-6de2-b08e-9364809de9c1/mzaf_12205266126590096180.plus.aac.p.m4a"
-    },
-    {
-      "artist": "The Fall",
-      "title": "Post Script",
-      "format": "LP",
-      "label": "Cog Sinister,",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217363-the-fall-post-script",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/113/217363-the-fall-post-script.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217363-the-fall-post-script"
-        },
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/the-fall-post-script-vinyl/1168245-01/"
-        },
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/the-fall-post-script-vinyl/1168246-01/"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/the-fall/post-script/COGGZ154CD"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/08/2b/02/082b02b3-3359-634f-9ab5-fd68d38b3f3a/mzaf_7343636108960101110.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Amyl and the Sniffers",
-      "title": "Truth or Consequence (Live from El Coyote)",
-      "format": "LP",
-      "label": "Rough Trade",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217383-amyl-and-the-sniffers-truth-or-consequence-live-from",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/133/217383-amyl-and-the-sniffers-truth-or-consequence-live-from.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217383-amyl-and-the-sniffers-truth-or-consequence-live-from"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/amyl-and-the-sniffers/truth-or-consequence-%28live-from-el-coyote%29/RT0618CD"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c7/13/1a/c7131a2f-2718-740f-19ef-f2bfab141ee9/mzaf_10349980111041581596.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Prolapse",
-      "title": "Mary Anne Hobbs sessions 97-98",
-      "format": "LP",
-      "label": "Precious Recordings",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217333-prolapse-mary-anne-hobbs-sessions-9798",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/83/217333-prolapse-mary-anne-hobbs-sessions-9798.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217333-prolapse-mary-anne-hobbs-sessions-9798"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Dawn Richard",
-      "title": "Creole Culture",
-      "format": "LP",
-      "label": "Merge",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217454-dawn-richard-creole-culture",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/204/217454-dawn-richard-creole-culture.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217454-dawn-richard-creole-culture"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/7b/10/dc7b109c-30c3-912e-1d0d-6dc831b8ef8e/mzaf_16335545818524053858.plus.aac.p.m4a"
-    },
-    {
-      "artist": "AJJ",
-      "title": "Dirty Old Power",
-      "format": "LP",
-      "label": "Specialist Subject",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217452-ajj-dirty-old-power",
-      "imageUrl": "https://www.normanrecords.com/artwork/medium/202/217452-ajj-dirty-old-power.jpg",
-      "genre": "Indie Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217452-ajj-dirty-old-power"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/87/f5/cc87f548-6470-6a6a-b554-ed063a0c9b79/mzaf_17090004585000571481.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Muireann Bradley",
-      "title": "Rose Dogs & Blackwood Pew",
-      "format": "LP",
-      "label": "Fontana",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217450-muireann-bradley-rose-dogs-blackwood-pew",
-      "imageUrl": "https://www.normanrecords.com/artwork/medium/200/217450-muireann-bradley-rose-dogs-blackwood-pew.jpg",
-      "genre": "Folk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217450-muireann-bradley-rose-dogs-blackwood-pew"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/f6/b2/b3f6b2c4-9cf9-49b9-8e48-da3745d054d0/mzaf_10574258735612260279.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Bonnie 'Prince' Billy",
-      "title": "Ghosts of American Psychonauts",
-      "format": "LP",
-      "label": "Domino",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217400-bonnie-prince-billy-ghosts-of-american-psychonauts",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/150/217400-bonnie-prince-billy-ghosts-of-american-psychonauts.jpg",
-      "genre": "Folk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217400-bonnie-prince-billy-ghosts-of-american-psychonauts"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/f7/08/45f70888-6e69-3411-28dc-08b32c6b50bd/mzaf_3346723856054571205.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Cities Aviv",
-      "title": "Even Colder Spring",
-      "format": "LP",
-      "label": "Black Truffle",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217374-cities-aviv-even-colder-spring",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/124/217374-cities-aviv-even-colder-spring.jpg",
-      "genre": "Experimental",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217374-cities-aviv-even-colder-spring"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
-    },
-    {
-      "artist": "Bikini Kill",
-      "title": "Reject All American (30th Anniversary Edition)",
-      "format": "LP",
-      "label": "Bikini Kill",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217484-bikini-kill-reject-all-american-30th-anniversary",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/234/217484-bikini-kill-reject-all-american-30th-anniversary.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217484-bikini-kill-reject-all-american-30th-anniversary"
-        },
-        {
-          "store": "Boomkat",
-          "url": "https://boomkat.com/products/reject-all-american-30th-anniversary-edition"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/67/58/74/675874e5-1c22-0d5d-7d8d-9f0246c1f201/mzaf_866725792467179876.plus.aac.p.m4a"
-    },
-    {
-      "artist": "The Koreatown Oddity",
-      "title": "Purdy",
-      "format": "LP",
-      "label": "Stones Throw",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217418-the-koreatown-oddity-purdy",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/168/217418-the-koreatown-oddity-purdy.jpg",
-      "genre": "Hip-Hop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217418-the-koreatown-oddity-purdy"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/e8/dc/2ae8dc83-79c9-0a79-03e0-79d582a80aaf/mzaf_15608326646829427550.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Jah Wobble",
-      "title": "The Bus Routes of South London",
-      "format": "LP",
-      "label": "30 Hertz",
-      "releaseDate": "2026-08-13",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217487-jah-wobble-the-bus-routes-of-south",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/237/217487-jah-wobble-the-bus-routes-of-south.jpg",
-      "genre": "Punk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217487-jah-wobble-the-bus-routes-of-south"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/jah-wobble/the-bus-routes-of-south-london/JWBUS345"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/76/c4/d876c4e4-d335-bb30-ebfc-70fe07ed7442/mzaf_770681368669725365.plus.aac.p.m4a"
     },
     {
       "artist": "Various",
@@ -32771,6 +32932,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/quicksand-bring-on-the-psychics-vinyl/1156389-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/quicksand/bring-on-the-psychics/EVR527"
         }
       ],
       "itunesPreviewUrl": "",
@@ -40201,5 +40366,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-08-15T01:35:38.937Z"
+  "updatedAt": "2026-08-16T01:42:03.294Z"
 }
