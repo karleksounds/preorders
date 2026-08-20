@@ -550,6 +550,25 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/41/50/be4150ce-4af5-64c3-57c2-e7f8d3c191b3/mzaf_4412966207756185767.plus.aac.p.m4a"
     },
     {
+      "artist": "Johnny Flynn / Lillie Flynn",
+      "title": "Beam Cottage",
+      "format": "LP",
+      "label": "Transgressive Records",
+      "releaseDate": "2026-11-06",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/lillie-flynn-johnny-flynn/beam-cottage/TRANS1000CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?TRANS1000CD",
+      "genre": "Indie Albums",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/lillie-flynn-johnny-flynn/beam-cottage/TRANS1000CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/16/75/a51675ef-5a88-8d43-049d-c34117a38afe/mzaf_653743587124814885.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The ENTREPRENEURS",
       "title": "Rominger Tony",
       "format": "LP",
@@ -913,6 +932,26 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "TOTAL TOMMY",
+      "title": "Trapezoid",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Play It Again Sam",
+      "releaseDate": "2026-10-23",
+      "url": "https://www.juno.co.uk/products/total-tommy-trapezoid-vinyl/1171281-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1171281-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/total-tommy-trapezoid-vinyl/1171281-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/a7/7d/f2a77dda-bd0b-30d0-e4b9-434c28f6e5c8/mzaf_7104788194035593495.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -1397,6 +1436,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/64/ca/3064ca68-bcf8-7f65-09ac-ea751c7ad605/mzaf_16703039148713589276.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "TANZANA",
+      "title": "Etched In",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "So Recordings",
+      "releaseDate": "2026-10-09",
+      "url": "https://www.juno.co.uk/products/tanzana-etched-in-vinyl/1171275-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1171275-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/tanzana-etched-in-vinyl/1171275-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/f3/c7/7af3c770-f904-dd60-9c0f-b70af9a3df43/mzaf_12272719044558724082.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -2695,6 +2754,45 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/75/0f/72750f6e-98ca-0302-a802-538d930944b3/mzaf_10953812401373780644.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "stupid song",
+      "format": "7\"",
+      "label": "Interscope",
+      "releaseDate": "2026-09-25",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/olivia-rodrigo/stupid-song/6121653",
+      "imageUrl": "https://www.banquetrecords.com/item.png?6121653",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/olivia-rodrigo/stupid-song/6121653"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "THE VEILS",
+      "title": "Sun Gangs",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Rough Trade",
+      "releaseDate": "2026-09-25",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/sun-gangs",
+      "imageUrl": "https://assets.boomkat.com/spree/products/686467/product/The_Veils_-_Sun_gangs.jpg",
+      "genre": "Indie / Alternative",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/sun-gangs"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/63/7d/cf637d2b-8664-d0a9-6a1f-94e89709de45/mzaf_17249183367353896916.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -5737,6 +5835,64 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "ADÉLA",
+      "title": "PRIMA",
+      "format": "LP",
+      "label": "POLYDOR-GP",
+      "releaseDate": "2026-09-04",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/adela/prima/6108126",
+      "imageUrl": "https://www.banquetrecords.com/item.png?6108126",
+      "genre": "Signed",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/adela/prima/6108126"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/76/7a/61767a73-2c58-3ecd-1cd4-dbf9dd21faff/mzaf_10286143197565086875.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Ellie Goulding",
+      "title": "I Know Too Much",
+      "format": "LP",
+      "label": "POLYDOR",
+      "releaseDate": "2026-09-04",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/ellie-goulding/i-know-too-much/8828211",
+      "imageUrl": "https://www.banquetrecords.com/item.png?8828211",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ellie-goulding/i-know-too-much/8828211"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/52/eb/0552eb60-3566-ad4b-0b67-cea235576f0c/mzaf_2843475365445427272.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SKYMAS",
+      "title": "Holy Fire",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Dream Drama",
+      "releaseDate": "2026-09-04",
+      "url": "https://www.juno.co.uk/products/skymas-holy-fire-vinyl/1171279-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1171279-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/skymas-holy-fire-vinyl/1171279-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/4f/fb/de4ffba0-aeb9-5745-2e85-1b61f3464f1a/mzaf_14084514082279877440.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "RIDDIM SAUNTER",
       "title": "Seasons Of Love",
       "format": "7\"",
@@ -5907,6 +6063,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/blind-yeo-the-lemoine-point-vinyl/1157080-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/blind-yeo/the-lemoine-point/BJR122CD"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/3d/d8/8b3dd8e6-ae52-9373-ed05-e82cd2e70e68/mzaf_2705306521823690457.plus.aac.p.m4a",
@@ -6029,6 +6189,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/surf-trash-no-chaser-vinyl/1158819-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/surf-trash/no-chaser/IMP296B"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6128,6 +6292,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/jim-james-wowed-out-vinyl/1164184-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/jim-james/wowed-out/ATO0722CD"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6152,6 +6320,10 @@
         {
           "store": "Boomkat",
           "url": "https://boomkat.com/products/the-joy-of-sextet"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/a-certain-ratio/the-joy-of-sextet/CDSTUMM265"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6176,6 +6348,10 @@
         {
           "store": "Boomkat",
           "url": "https://boomkat.com/products/force-majeure-2c965d4f-64da-40b8-96ff-1bbf132be548"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/a-certain-ratio/force-majeure/CDSTUMM266"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6216,6 +6392,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/jonathan-personne-repertoire-vinyl/1166176-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/jonathan-personne/repertoire/LPBONAL117"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6256,6 +6436,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/horse-feathers-words-are-dead-deluxe-edition-vinyl/1160322-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/horse-feathers/words-are-dead-%28deluxe-edition%29/LPKRS848X"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6320,6 +6504,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/hew-your-version-vinyl/1166109-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/hew/your-version/LPTE224C"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6364,6 +6552,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/the-guest-list-something-real-vinyl/1153825-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-guest-list/something-real/AT6462"
         }
       ],
       "itunesPreviewUrl": "",
@@ -6492,6 +6684,10 @@
         {
           "store": "Boomkat",
           "url": "https://boomkat.com/products/chrome-d8a82716-38d8-46f8-8a4a-10def4c0a480"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ty-segall/chrome/DC980CD"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/90/61/d690616c-9c51-feed-7ec6-7db8e74853b6/mzaf_16066859242188144686.plus.aac.p.m4a",
@@ -6535,6 +6731,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/magi-merlin-power-house-vinyl/1167626-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/magi-merlin/power-house/LPBONAL118C"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/21/8c/74218c4f-5b11-36bd-650e-99a626e108fe/mzaf_2446357983759531170.plus.aac.p.m4a",
@@ -6631,6 +6831,10 @@
         {
           "store": "Boomkat",
           "url": "https://boomkat.com/products/the-perfect-prescription-12146d0c-a3c1-44a3-9d33-92f08964dc61"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/spacemen-3/the-perfect-prescription/FIRELP016X"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/a9/20/59a920dd-91b4-5c65-fae2-feef3d8faf63/mzaf_9106063894619224632.plus.aac.p.m4a",
@@ -6878,6 +7082,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/furii-pyromancy-vinyl/1169293-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/furii/pyromancy/NO16"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/9f/af/f19faf57-223c-e6df-2a8f-5230f0dd5c91/mzaf_11590986754636331303.plus.aac.p.m4a",
@@ -7108,6 +7316,10 @@
         {
           "store": "Cargo Records",
           "url": "https://www.cargo-records.de/en/item/177958/katalog_art.123.html"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/charlie-%26-the-tropicales/new-orleans-%2726/SHH028LP"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/2a/fc/d52afcef-c832-d3c4-0dee-5448e371266a/mzaf_10690558167306235392.plus.aac.p.m4a",
@@ -7283,6 +7495,10 @@
         {
           "store": "Cargo Records",
           "url": "https://www.cargo-records.de/en/item/177956/katalog_art.123.html"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/htrk/work-%28work%2C-work%29-%2815th-anniversary-edition%29/GI144LP-C2"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/99/8d/6a/998d6a7e-c977-a648-b776-1ecb17876386/mzaf_15009004463901077329.plus.aac.p.m4a",
@@ -7397,6 +7613,10 @@
         {
           "store": "Cargo Records",
           "url": "https://www.cargo-records.de/en/item/177459/katalog_art.123.html"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/marci/mask-lady-and-late-night-girl/ABT117LP"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/8d/9f/e68d9f47-1565-8d42-8b54-28619aa14bdf/mzaf_6049036863971221446.plus.aac.p.m4a",
@@ -7668,6 +7888,2418 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/red-hot-chili-peppers-live-at-rockpalast-1985-vinyl/1171517-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Post Malone",
+      "title": "August 26th",
+      "format": "LP",
+      "label": "Island",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/post-malone/august-26th/7423548",
+      "imageUrl": "https://www.banquetrecords.com/item.png?7423548",
+      "genre": "Hip Hop",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/post-malone/august-26th/7423548"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/48/26/3b482600-b697-46b5-aa98-10f62fd0107a/mzaf_17499596885051014561.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Adam Bałdych European Quartet",
+      "title": "Endless",
+      "format": "LP",
+      "label": "Act Music",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/adam-badych-european-quartet/endless/ACT9071-2",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ACT9071-2",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/adam-badych-european-quartet/endless/ACT9071-2"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Spookyman & His Acousmatic Orchestra",
+      "title": "The  Spookalicious Space Sound Of",
+      "format": "LP",
+      "label": "Voodoo Rhythm",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/spookyman-%26-his-acousmatic-orchestra/the--spookalicious-space-sound-of/VRLP12146",
+      "imageUrl": "https://www.banquetrecords.com/item.png?VRLP12146",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/spookyman-%26-his-acousmatic-orchestra/the--spookalicious-space-sound-of/VRLP12146"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/0c/5b/da0c5bf0-2d10-0fc4-b967-e0a7bd10ba74/mzaf_7367077271274474124.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Rahaty",
+      "title": "Bestial Lustmord",
+      "format": "LP",
+      "label": "Sentient Ruin Laboratories",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/rahaty/bestial-lustmord/SRUIN265CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SRUIN265CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/rahaty/bestial-lustmord/SRUIN265CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Death. Void. Terror",
+      "title": "To The Great Monolith Iii: Rifts",
+      "format": "LP",
+      "label": "Sentient Ruin Laboratories",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/death.-void.-terror/to-the-great-monolith-iii%3A-rifts/SRUIN256CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SRUIN256CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/death.-void.-terror/to-the-great-monolith-iii%3A-rifts/SRUIN256CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Starter Car",
+      "title": "Afterlight",
+      "format": "LP",
+      "label": "Tapete",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/starter-car/afterlight/TR613CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?TR613CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/starter-car/afterlight/TR613CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/40/c6/d040c605-d3a3-f6ab-a17f-becb3f80a50a/mzaf_5839093678732877484.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Fourth Wall",
+      "title": "Memories Of The Future",
+      "format": "LP",
+      "label": "Devil Duck",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-fourth-wall/memories-of-the-future/DDUCK123LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DDUCK123LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-fourth-wall/memories-of-the-future/DDUCK123LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a7/78/0f/a7780f97-d3e8-ab15-2879-ab4d576c3773/mzaf_6376142866860116481.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Mauricio Kagel / Non European Instrumentalists",
+      "title": "Kagel: Exotica (Avantgarde Vinyl Series)",
+      "format": "LP",
+      "label": "Deutsche Grammophon",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/non-european-instrumentalists-mauricio-kagel/kagel%3A-exotica-%28avantgarde-vinyl-series%29/4868220",
+      "imageUrl": "https://www.banquetrecords.com/item.png?4868220",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/non-european-instrumentalists-mauricio-kagel/kagel%3A-exotica-%28avantgarde-vinyl-series%29/4868220"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/35/38/e8/3538e8fd-30a1-bc9b-5471-3c53adaeadea/mzaf_4307283057130428949.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Gustavo Dudamel / María Dueñas / Simón Bolívar Symphony Orchestra of Venezuela",
+      "title": "Homage to Heifetz (Lalo, Korngold, Debussy)",
+      "format": "LP",
+      "label": "Deutsche Grammophon",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/simon-bolivar-symphony-orchestra-of-venezuela-maria-duenas-gustavo-dudamel/homage-to-heifetz-%28lalo%2C-korngold%2C-debussy%29/4867487",
+      "imageUrl": "https://www.banquetrecords.com/item.png?4867487",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/simon-bolivar-symphony-orchestra-of-venezuela-maria-duenas-gustavo-dudamel/homage-to-heifetz-%28lalo%2C-korngold%2C-debussy%29/4867487"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/8c/da/768cda06-30d2-24e2-d4e3-ded5dab8dcd3/mzaf_4083848770993731158.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Little Big Town",
+      "title": "It's A Dying Art",
+      "format": "LP",
+      "label": "MCA Nashville",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/little-big-town/it%27s-a-dying-art/5792935",
+      "imageUrl": "https://www.banquetrecords.com/item.png?5792935",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/little-big-town/it%27s-a-dying-art/5792935"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/b5/5a/c3b55a1e-fd68-6b6c-cbb2-7fbf940b2d67/mzaf_755832896443521395.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "LARA SOMOGYI",
+      "title": "a [time] patterned",
+      "format": "LP",
+      "label": "Decca",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/lara-somogyi/a-%5Btime%5D-patterned/5744552",
+      "imageUrl": "https://www.banquetrecords.com/item.png?5744552",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/lara-somogyi/a-%5Btime%5D-patterned/5744552"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/ce/6e/4cce6eb4-55e8-7a27-b2b2-a6f45841ec82/mzaf_2288754678369631957.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Elvin Jones",
+      "title": "Dear John C (Acoustic Sounds)",
+      "format": "LP",
+      "label": "Verve",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/elvin-jones/dear-john-c-%28acoustic-sounds%29/5708533",
+      "imageUrl": "https://www.banquetrecords.com/item.png?5708533",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/elvin-jones/dear-john-c-%28acoustic-sounds%29/5708533"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/f4/1d/f4f41d04-6d5f-7cb8-3536-974eacef5b62/mzaf_8150672456941549737.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Coro da Camera della RAI / Marino Zuccheri / Roland Kayn / Roma, Nino Antonellini",
+      "title": "Kayn: Cybernetics III / Nono: Contrappunto dialettico alla mente (Avantgarde Vinyl Series)",
+      "format": "LP",
+      "label": "Deutsche Grammophon",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/roma%2C-nino-antonellini-roland-kayn-marino-zuccheri-coro-da-camera-della-rai/kayn%3A-cybernetics-iii-nono%3A-contrappunto-dialettico-alla-mente-%28avantgarde-vinyl-series%29/4868221",
+      "imageUrl": "https://www.banquetrecords.com/item.png?4868221",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/roma%2C-nino-antonellini-roland-kayn-marino-zuccheri-coro-da-camera-della-rai/kayn%3A-cybernetics-iii-nono%3A-contrappunto-dialettico-alla-mente-%28avantgarde-vinyl-series%29/4868221"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Cornelius Cardew / The Scratch Orchestra",
+      "title": "Cardew: The Great Learning (Avantgarde Vinyl Series)",
+      "format": "LP",
+      "label": "Deutsche Grammophon",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-scratch-orchestra-cornelius-cardew/cardew%3A-the-great-learning-%28avantgarde-vinyl-series%29/4868215",
+      "imageUrl": "https://www.banquetrecords.com/item.png?4868215",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-scratch-orchestra-cornelius-cardew/cardew%3A-the-great-learning-%28avantgarde-vinyl-series%29/4868215"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/57/d4/fd57d458-7eb0-154e-3014-0ea59eeb0679/mzaf_11637389169773918285.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "JOHNNY HARTMAN",
+      "title": "The Voice That Is (Acoustic Sounds)",
+      "format": "LP",
+      "label": "Verve",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/johnny-hartman/the-voice-that-is-%28acoustic-sounds%29/5708535",
+      "imageUrl": "https://www.banquetrecords.com/item.png?5708535",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/johnny-hartman/the-voice-that-is-%28acoustic-sounds%29/5708535"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/b8/dd/b0b8dd77-e84c-b0f3-0e3b-2932d9930035/mzaf_3640135637019008866.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Harry Gregson-Williams John Powell",
+      "title": "Shrek",
+      "format": "LP",
+      "label": "CONCORD",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/harry-gregson-williams-john-powell/shrek/7279501",
+      "imageUrl": "https://www.banquetrecords.com/item.png?7279501",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/harry-gregson-williams-john-powell/shrek/7279501"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/52/b8/a2/52b8a28c-0f32-15a9-9d62-0468889a783d/mzaf_15778118982898701130.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Eartheater",
+      "title": "Heavenly Body : If I'm The Bottle You're The Message",
+      "format": "LP",
+      "label": "Because",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/eartheater/heavenly-body-%3A-if-i%27m-the-bottle-you%27re-the-message/BEC5618098",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BEC5618098",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/eartheater/heavenly-body-%3A-if-i%27m-the-bottle-you%27re-the-message/BEC5618098"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/bf/9e/2dbf9ee7-0ca1-341f-db3a-5629efb32b27/mzaf_9006931638046318527.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Oliver Coates",
+      "title": "The History Of Sound- Original Motion Picture Soundtrack",
+      "format": "LP",
+      "label": "Vertigo Abbey Road Recordings",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/oliver-coates/the-history-of-sound--original-motion-picture-soundtrack/5761579",
+      "imageUrl": "https://www.banquetrecords.com/item.png?5761579",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/oliver-coates/the-history-of-sound--original-motion-picture-soundtrack/5761579"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/72/b2/9872b293-6f48-2d1c-e992-459cad3199bb/mzaf_86140484868841761.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Warning",
+      "title": "Everything's Falling",
+      "format": "LP",
+      "label": "VIRGIN EMI",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-warning/everything%27s-falling/6111543",
+      "imageUrl": "https://www.banquetrecords.com/item.png?6111543",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-warning/everything%27s-falling/6111543"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a5/08/33/a50833a1-9fe2-2b51-c9ca-b9b575183ade/mzaf_3648251688786518304.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Floating Points / San Francisco Ballet Orchestra",
+      "title": "Mere Mortals",
+      "format": "LP",
+      "label": "Deutsche Grammophon / Mercury KX",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/san-francisco-ballet-orchestra-floating-points/mere-mortals/4868279",
+      "imageUrl": "https://www.banquetrecords.com/item.png?4868279",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/san-francisco-ballet-orchestra-floating-points/mere-mortals/4868279"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/0b/fb/0b0bfb24-8805-a5c4-d490-8758a40934bf/mzaf_15191833729132126708.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Marco Beltrami",
+      "title": "Scream",
+      "format": "LP",
+      "label": "CONCORD",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/marco-beltrami/scream/7278850",
+      "imageUrl": "https://www.banquetrecords.com/item.png?7278850",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/marco-beltrami/scream/7278850"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/99/3d/6c993da4-531c-f61c-8359-af6b1f96801d/mzaf_9545013665182948954.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "The Definitive Collection",
+      "format": "LP",
+      "label": "UMC / UMC",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/michael-jackson/the-definitive-collection/5775101",
+      "imageUrl": "https://www.banquetrecords.com/item.png?5775101",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/michael-jackson/the-definitive-collection/5775101"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/bb/f1/8dbbf102-9bdd-0fd7-863b-818a0318497a/mzaf_3845359515922644062.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Various Artists",
+      "title": "NOW  Yearbook 1971",
+      "format": "LP",
+      "label": "NOW",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/various-artists/now--yearbook-1971/CDYBNOW71",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CDYBNOW71",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/various-artists/now--yearbook-1971/CDYBNOW71"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/0c/ae/8f/0cae8fc6-efc1-b385-157c-bd8a65182a4c/mzaf_4306635226513849011.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Warby",
+      "title": "Mystic Powers",
+      "format": "LP",
+      "label": "Esco Romanesco Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/warby/mystic-powers/ESCO030",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ESCO030",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/warby/mystic-powers/ESCO030"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/73/32/c47332a2-ea87-615c-542f-62ddca82ecde/mzaf_727113750931521921.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Shannon Lay",
+      "title": "Past The Veil",
+      "format": "LP",
+      "label": "All The Best",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/shannon-lay/past-the-veil/ATB01",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ATB01",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/shannon-lay/past-the-veil/ATB01"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/70/1d/74701d86-55cc-3afe-14e9-064a033d9aa6/mzaf_14864069366659868096.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Brain Pills",
+      "title": "Goatshead Ii",
+      "format": "LP",
+      "label": "Creepy Crawl",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/brain-pills/goatshead-ii/CC08",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CC08",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/brain-pills/goatshead-ii/CC08"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Bikini Kill",
+      "title": "Reject All American (30th Anniversary)",
+      "format": "LP",
+      "label": "Bikini Kill",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/bikini-kill/reject-all-american-%2830th-anniversary%29/BK09C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BK09C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/bikini-kill/reject-all-american-%2830th-anniversary%29/BK09C"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/67/58/74/675874e5-1c22-0d5d-7d8d-9f0246c1f201/mzaf_866725792467179876.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Sullivan Fortner",
+      "title": "Leave That In There",
+      "format": "LP",
+      "label": "Artwork Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/sullivan-fortner/leave-that-in-there/ARTR0022CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ARTR0022CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/sullivan-fortner/leave-that-in-there/ARTR0022CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Soul Revivers",
+      "title": "Holding It Down",
+      "format": "LP",
+      "label": "Acid Jazz UK",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/soul-revivers/holding-it-down/AJXCD830",
+      "imageUrl": "https://www.banquetrecords.com/item.png?AJXCD830",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/soul-revivers/holding-it-down/AJXCD830"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/d6/de/ead6dedb-77db-bc4a-a6f2-0a2af6fa17ee/mzaf_2702961793608522972.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Soul Asylum",
+      "title": "MPLS Unplugged",
+      "format": "LP",
+      "label": "Blue Elan Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/soul-asylum/mpls-unplugged/BER1592CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BER1592CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/soul-asylum/mpls-unplugged/BER1592CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/25/cb/85/25cb8592-5572-82c6-43a2-b133371a0376/mzaf_17826680651970873096.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SARAH DAVACHI",
+      "title": "The Will Of Tongues",
+      "format": "LP",
+      "label": "Late Music",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/sarah-davachi/the-will-of-tongues/LMXIIICD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LMXIIICD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/sarah-davachi/the-will-of-tongues/LMXIIICD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/67/a7/2b67a7f9-5d9a-d148-413a-7b9b0516c940/mzaf_15630860754677882454.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Ruthie Foster",
+      "title": "Just Say Yes",
+      "format": "LP",
+      "label": "Sun Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/ruthie-foster/just-say-yes/SUN8186",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SUN8186",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ruthie-foster/just-say-yes/SUN8186"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/c1/b9/93c1b9df-e4dc-a4aa-653d-97f41f49def4/mzaf_1177772984197554941.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "JOAN JETT / The Blackhearts",
+      "title": "I Love Rock 'N Roll (45th Anniversary)",
+      "format": "LP",
+      "label": "Seeker Music",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-blackhearts-joan-jett/i-love-rock-%27n-roll-%2845th-anniversary%29/SEEKR145CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SEEKR145CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-blackhearts-joan-jett/i-love-rock-%27n-roll-%2845th-anniversary%29/SEEKR145CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/3f/67/3a3f67cf-2d47-2ab2-66a2-368fad813e0e/mzaf_2591657320565347448.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "JayDon",
+      "title": "Me My Songs & I",
+      "format": "LP",
+      "label": "mega/gamma.",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/jaydon/me-my-songs-%26-i/JAYDON001",
+      "imageUrl": "https://www.banquetrecords.com/item.png?JAYDON001",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/jaydon/me-my-songs-%26-i/JAYDON001"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/c7/4d/acc74d8e-973a-8c8d-92a0-ac73bb634832/mzaf_4281339740933310508.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Hakushi Hasegawa",
+      "title": "Honest Feeling Album",
+      "format": "LP",
+      "label": "Brainfeeder",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/hakushi-hasegawa/honest-feeling-album/BF170",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BF170",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/hakushi-hasegawa/honest-feeling-album/BF170"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/74/c3/9974c334-7a07-4e80-e37f-fc21bf0cabd4/mzaf_13745501129844995920.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Gerry Beckley",
+      "title": "Merciful",
+      "format": "LP",
+      "label": "Blue Elan Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/gerry-beckley/merciful/BER1587CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BER1587CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/gerry-beckley/merciful/BER1587CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/18/ab/3118abfd-18ed-3d85-f972-91810f9f2485/mzaf_14706221781495288363.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Faun Fables",
+      "title": "The Transit Rider",
+      "format": "LP",
+      "label": "Drag City",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/faun-fables/the-transit-rider/DC314",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DC314",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/faun-fables/the-transit-rider/DC314"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/0c/c7/7f/0cc77f93-36e9-bcaa-4e9b-731de11beeb6/mzaf_8200273222188564921.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Capleton",
+      "title": "Heights Of Fire",
+      "format": "LP",
+      "label": "Diggers Factory",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/capleton/heights-of-fire/EVM054CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?EVM054CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/capleton/heights-of-fire/EVM054CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/f0/3d/caf03de8-3b95-764c-322e-4803b82365c7/mzaf_3031555820302007881.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Bazaar Noir",
+      "title": "Veil Of Bidaya",
+      "format": "LP",
+      "label": "For The Love Of It",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/bazaar-noir/veil-of-bidaya/FTLOI194LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FTLOI194LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/bazaar-noir/veil-of-bidaya/FTLOI194LP"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/26/71/9a267151-aa9a-c46b-6d0f-17fa5ee1e27b/mzaf_1455005846291772628.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Israel Vibration",
+      "title": "IV",
+      "format": "LP",
+      "label": "Diggers Factory",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/israel-vibration/iv/DIGLP026CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DIGLP026CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/israel-vibration/iv/DIGLP026CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/7f/dc/ff7fdce4-2cea-925f-14f6-448b06fe86bf/mzaf_2279060950919465727.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Muffs",
+      "title": "Live At Fort Apache",
+      "format": "LP",
+      "label": "Omnivore Recordings, LLC",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-muffs/live-at-fort-apache/0810075116304",
+      "imageUrl": "https://www.banquetrecords.com/item.png?0810075116304",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-muffs/live-at-fort-apache/0810075116304"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Sha-Boom",
+      "title": "Another Nail in the Coffin",
+      "format": "LP",
+      "label": "Silver Lining Music",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/sha-boom/another-nail-in-the-coffin/8718521079826",
+      "imageUrl": "https://www.banquetrecords.com/item.png?8718521079826",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/sha-boom/another-nail-in-the-coffin/8718521079826"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Billy Strings",
+      "title": "So Much For Goodbyes",
+      "format": "LP",
+      "label": "Reprise",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/billy-strings/so-much-for-goodbyes/0093624820796",
+      "imageUrl": "https://www.banquetrecords.com/item.png?0093624820796",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/billy-strings/so-much-for-goodbyes/0093624820796"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Classical Masterpieces for Eternity",
+      "format": "LP",
+      "label": "Warner Classics",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/various-artists/classical-masterpieces-for-eternity/5026854960937",
+      "imageUrl": "https://www.banquetrecords.com/item.png?5026854960937",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/various-artists/classical-masterpieces-for-eternity/5026854960937"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/31/a7/5e/31a75e66-3383-7a80-e65f-a9e86385e8df/mzaf_15099589792462327543.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Mariss Jansons / Royal Concertgebouw Orchestra",
+      "title": "Bruckner: Symphony No. 7 in E Major (Nowak 1954)",
+      "format": "LP",
+      "label": "RCO Live",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/royal-concertgebouw-orchestra-mariss-jansons/bruckner%3A-symphony-no.-7-in-e-major-%28nowak-1954%29/5026854640563",
+      "imageUrl": "https://www.banquetrecords.com/item.png?5026854640563",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/royal-concertgebouw-orchestra-mariss-jansons/bruckner%3A-symphony-no.-7-in-e-major-%28nowak-1954%29/5026854640563"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/31/f9/d531f92f-0bdc-b8e5-24b4-c1e1696d9844/mzaf_960131542767537212.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Thomas Newman",
+      "title": "In The Blink Of An Eye",
+      "format": "LP",
+      "label": "Mutant",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/thomas-newman/in-the-blink-of-an-eye/0050087599539",
+      "imageUrl": "https://www.banquetrecords.com/item.png?0050087599539",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/thomas-newman/in-the-blink-of-an-eye/0050087599539"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/2a/d9/ed2ad95d-d9ba-74ba-feea-d87d6317eef7/mzaf_11804680389641821606.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Various Artists",
+      "title": "The Talented Mr. Ripley",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/various-artists/the-talented-mr.-ripley/MOVATU192",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVATU192",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/various-artists/the-talented-mr.-ripley/MOVATU192"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Frederick Loewe",
+      "title": "My Fair Lady",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/frederick-loewe/my-fair-lady/MOVATU076",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVATU076",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/frederick-loewe/my-fair-lady/MOVATU076"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9e/f5/2d/9ef52d86-252b-f833-721d-b35b49503809/mzaf_7153557700594846346.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Steve Cropper & The Midnight Hour",
+      "title": "Watching The Tide",
+      "format": "LP",
+      "label": "Provogue",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/steve-cropper-%26-the-midnight-hour/watching-the-tide/PRD77882",
+      "imageUrl": "https://www.banquetrecords.com/item.png?PRD77882",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/steve-cropper-%26-the-midnight-hour/watching-the-tide/PRD77882"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/ef/87/8fef87e8-fe3f-fbce-81c7-d1291cdff6a1/mzaf_7499421757105130343.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Dahi",
+      "title": "Black Boy (Alternative)",
+      "format": "LP",
+      "label": "Alter Music",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/dahi/black-boy-%28alternative%29/ALT009CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?ALT009CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/dahi/black-boy-%28alternative%29/ALT009CD"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/4d/5c/fb4d5c69-8bf0-3742-a2b7-fc027039485b/mzaf_18437470416424445883.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Ten Years After",
+      "title": "Cricklewood Green (2026 Deluxe Version)",
+      "format": "LP",
+      "label": "Chrysalis Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/ten-years-after/cricklewood-green-%282026-deluxe-version%29/CRC2318",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CRC2318",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ten-years-after/cricklewood-green-%282026-deluxe-version%29/CRC2318"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "The Pineapple Thief",
+      "title": "Your Wilderness (10th Anniversary)",
+      "format": "LP",
+      "label": "Kscope",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-pineapple-thief/your-wilderness-%2810th-anniversary%29/KSCOPE1310",
+      "imageUrl": "https://www.banquetrecords.com/item.png?KSCOPE1310",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-pineapple-thief/your-wilderness-%2810th-anniversary%29/KSCOPE1310"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cb/a7/d6/cba7d6ca-9bc2-a9df-ba9b-6279370ddecd/mzaf_15887992413453365974.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "TERRY REID",
+      "title": "Seed Of Memory",
+      "format": "LP",
+      "label": "Proper Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/terry-reid/seed-of-memory/UMCLP159",
+      "imageUrl": "https://www.banquetrecords.com/item.png?UMCLP159",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/terry-reid/seed-of-memory/UMCLP159"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "The Deli",
+      "title": "The Deli - Vibes 3",
+      "format": "LP",
+      "label": "Cold Busted",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-deli/the-deli---vibes-3/BUSTEDINCHES101RI",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BUSTEDINCHES101RI",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-deli/the-deli---vibes-3/BUSTEDINCHES101RI"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9f/c8/dc/9fc8dcf7-33a0-3e4f-855d-72288fde0052/mzaf_2113050269257573954.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Aloefi",
+      "title": "Analog Dreams",
+      "format": "LP",
+      "label": "Cold Busted",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/aloefi/analog-dreams/BUSTEDINCHES172OG",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BUSTEDINCHES172OG",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/aloefi/analog-dreams/BUSTEDINCHES172OG"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Sara K.",
+      "title": "Closer Than They Appear",
+      "format": "LP",
+      "label": "Chesky",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/sara-k./closer-than-they-appear/EVLP125BL",
+      "imageUrl": "https://www.banquetrecords.com/item.png?EVLP125BL",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/sara-k./closer-than-they-appear/EVLP125BL"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Henry Threadgill",
+      "title": "Cut You Where You Was",
+      "format": "LP",
+      "label": "Pi Recordings",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/henry-threadgill/cut-you-where-you-was/PI114",
+      "imageUrl": "https://www.banquetrecords.com/item.png?PI114",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/henry-threadgill/cut-you-where-you-was/PI114"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Static Abyss",
+      "title": "The Dying Hunt",
+      "format": "LP",
+      "label": "Peaceville",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/static-abyss/the-dying-hunt/CDVILEF1312",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CDVILEF1312",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/static-abyss/the-dying-hunt/CDVILEF1312"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Candlemass",
+      "title": "Dactylis Glomerata (2026 Master)",
+      "format": "LP",
+      "label": "Peaceville",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/candlemass/dactylis-glomerata-%282026-master%29/CDVILED1359",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CDVILED1359",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/candlemass/dactylis-glomerata-%282026-master%29/CDVILED1359"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "FM",
+      "title": "Indiscreet",
+      "format": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/fm/indiscreet/MOVLPR3096",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MOVLPR3096",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/fm/indiscreet/MOVLPR3096"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "KULK",
+      "title": "Choosing To Die",
+      "format": "LP",
+      "label": "Church Road Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/kulk/choosing-to-die/CRR259V",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CRR259V",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/kulk/choosing-to-die/CRR259V"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Mountain Grass Unit",
+      "title": "Appalachian Smoke",
+      "format": "LP",
+      "label": "Dualtone",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/mountain-grass-unit/appalachian-smoke/DUA30851",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DUA30851",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/mountain-grass-unit/appalachian-smoke/DUA30851"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Trey Pendley",
+      "title": "Signs of Life",
+      "format": "LP",
+      "label": "Leo33",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/trey-pendley/signs-of-life/LEO6162",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LEO6162",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/trey-pendley/signs-of-life/LEO6162"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Louisiana Red",
+      "title": "Anti-Nuclear Blues",
+      "format": "LP",
+      "label": "Mig Music",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/louisiana-red/anti-nuclear-blues/MIG03621",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MIG03621",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/louisiana-red/anti-nuclear-blues/MIG03621"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Danielle Nicole",
+      "title": "Fireflies",
+      "format": "LP",
+      "label": "Forty Below Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/danielle-nicole/fireflies/FBR055",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FBR055",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/danielle-nicole/fireflies/FBR055"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Kevin Burt",
+      "title": "This Trip",
+      "format": "LP",
+      "label": "Gulf Coast Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/kevin-burt/this-trip/GCRX9076CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?GCRX9076CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/kevin-burt/this-trip/GCRX9076CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Night Lovell",
+      "title": "MY BLOOD AS THE INK",
+      "format": "LP",
+      "label": "G59 Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/night-lovell/my-blood-as-the-ink/G59002CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?G59002CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/night-lovell/my-blood-as-the-ink/G59002CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "THE JAYHAWKS",
+      "title": "Sanctuary Park",
+      "format": "LP",
+      "label": "SHAM",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-jayhawks/sanctuary-park/32884CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?32884CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-jayhawks/sanctuary-park/32884CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Alicia Witt",
+      "title": "Between Heaven and Earth",
+      "format": "LP",
+      "label": "Alicia Witt Music",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/alicia-witt/between-heaven-and-earth/AWM32181",
+      "imageUrl": "https://www.banquetrecords.com/item.png?AWM32181",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/alicia-witt/between-heaven-and-earth/AWM32181"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Son Volt",
+      "title": "Sound Signal Serenades",
+      "format": "LP",
+      "label": "Transmit Sound",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/son-volt/sound-signal-serenades/TS20261CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?TS20261CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/son-volt/sound-signal-serenades/TS20261CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Everlast",
+      "title": "Embers to Ashes",
+      "format": "LP",
+      "label": "Martyr Inc. Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/everlast/embers-to-ashes/MAR706",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MAR706",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/everlast/embers-to-ashes/MAR706"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Gates of Slumber",
+      "title": "The Awakening",
+      "format": "LP",
+      "label": "Svart Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-gates-of-slumber/the-awakening/SRE747CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SRE747CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-gates-of-slumber/the-awakening/SRE747CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "The Gates of Slumber",
+      "title": "Like a Plague Upon the Land",
+      "format": "LP",
+      "label": "Svart Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-gates-of-slumber/like-a-plague-upon-the-land/SRE748CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SRE748CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-gates-of-slumber/like-a-plague-upon-the-land/SRE748CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Wine Lips",
+      "title": "TV Dinner",
+      "format": "LP",
+      "label": "Stomp Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/wine-lips/tv-dinner/STMP211LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?STMP211LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/wine-lips/tv-dinner/STMP211LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Deathstorm",
+      "title": "For Dread Shall Reign",
+      "format": "LP",
+      "label": "Dying Victims Productions",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/deathstorm/for-dread-shall-reign/DVP154LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DVP154LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/deathstorm/for-dread-shall-reign/DVP154LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "In This Moment",
+      "title": "Witch",
+      "format": "LP",
+      "label": "Better Noise Music",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/in-this-moment/witch/BNM902",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BNM902",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/in-this-moment/witch/BNM902"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Exumer",
+      "title": "Death Mask Messiah",
+      "format": "LP",
+      "label": "Metal Blade Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/exumer/death-mask-messiah/162132",
+      "imageUrl": "https://www.banquetrecords.com/item.png?162132",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/exumer/death-mask-messiah/162132"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Kamelot",
+      "title": "Dark Asylum",
+      "format": "LP",
+      "label": "Napalm Records Handels",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/kamelot/dark-asylum/NPR1353DP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?NPR1353DP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/kamelot/dark-asylum/NPR1353DP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Flotsam and Jetsam",
+      "title": "Rats In The Temple",
+      "format": "LP",
+      "label": "Napalm Records Handels",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/flotsam-and-jetsam/rats-in-the-temple/NPR1408DGS",
+      "imageUrl": "https://www.banquetrecords.com/item.png?NPR1408DGS",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/flotsam-and-jetsam/rats-in-the-temple/NPR1408DGS"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Black Spikes",
+      "title": "Ydos",
+      "format": "LP",
+      "label": "Napalm Records Handels",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/black-spikes/ydos/NPR1422DGS",
+      "imageUrl": "https://www.banquetrecords.com/item.png?NPR1422DGS",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/black-spikes/ydos/NPR1422DGS"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Spooky Eyes",
+      "title": "SPOOKY EYES",
+      "format": "LP",
+      "label": "Fuzz Club",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/spooky-eyes/spooky-eyes/FC316V12",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FC316V12",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/spooky-eyes/spooky-eyes/FC316V12"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Lancey Foux",
+      "title": "THE TIME OF OUR LIVES",
+      "format": "LP",
+      "label": "Human Re Sources/RCA Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/lancey-foux/the-time-of-our-lives/19958467902",
+      "imageUrl": "https://www.banquetrecords.com/item.png?19958467902",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/lancey-foux/the-time-of-our-lives/19958467902"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Cocktail Slippers",
+      "title": "Joyride",
+      "format": "LP",
+      "label": "Wicked Cool Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/cocktail-slippers/joyride/WKC7702532",
+      "imageUrl": "https://www.banquetrecords.com/item.png?WKC7702532",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/cocktail-slippers/joyride/WKC7702532"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Night Ranger",
+      "title": "Best Of",
+      "format": "LP",
+      "label": "Frontiers Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/night-ranger/best-of/FRLP1572",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FRLP1572",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/night-ranger/best-of/FRLP1572"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Marcus 5",
+      "title": "Marcus 5",
+      "format": "LP",
+      "label": "Matrix Music Arhiv",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/marcus-5/marcus-5/MMA06",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MMA06",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/marcus-5/marcus-5/MMA06"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Beograd",
+      "title": "Remek Depo / 40th anniversary",
+      "format": "LP",
+      "label": "Matrix Music Arhiv",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/beograd/remek-depo-40th-anniversary/MMA04",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MMA04",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/beograd/remek-depo-40th-anniversary/MMA04"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Borghesia",
+      "title": "Resistance / remastered",
+      "format": "LP",
+      "label": "Matrix Music Arhiv",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/borghesia/resistance-remastered/MMACD05",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MMACD05",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/borghesia/resistance-remastered/MMACD05"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Low",
+      "title": "Secret Name",
+      "format": "LP",
+      "label": "Kranky",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/low/secret-name/KRANK035LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?KRANK035LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/low/secret-name/KRANK035LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Low",
+      "title": "Trust",
+      "format": "LP",
+      "label": "Kranky",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/low/trust/KRANK52LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?KRANK52LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/low/trust/KRANK52LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Violent Vira",
+      "title": "Lover Of A Ghost (Deluxe Edition)",
+      "format": "LP",
+      "label": "Mom+Pop",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/violent-vira/lover-of-a-ghost-%28deluxe-edition%29/LPMP886X",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPMP886X",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/violent-vira/lover-of-a-ghost-%28deluxe-edition%29/LPMP886X"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Velocity Girl",
+      "title": "1989-1992",
+      "format": "LP",
+      "label": "Slumberland Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/velocity-girl/1989-1992/LPSLR306C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPSLR306C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/velocity-girl/1989-1992/LPSLR306C"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Tiny Habits",
+      "title": "Keepers",
+      "format": "LP",
+      "label": "Mom+Pop",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/tiny-habits/keepers/LPMP971C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPMP971C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/tiny-habits/keepers/LPMP971C"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Two Runner",
+      "title": "Porchlight",
+      "format": "LP",
+      "label": "Gar Hole Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/two-runner/porchlight/LPGRHL033C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPGRHL033C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/two-runner/porchlight/LPGRHL033C"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Squid Pisser",
+      "title": "Throat Slave",
+      "format": "LP",
+      "label": "Skin Graft Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/squid-pisser/throat-slave/LPGRA172C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPGRA172C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/squid-pisser/throat-slave/LPGRA172C"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Siavash Amini & Eugene Thacker",
+      "title": "Songs For Sad Poets Vol. III",
+      "format": "LP",
+      "label": "American Dreams Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/siavash-amini-%26-eugene-thacker/songs-for-sad-poets-vol.-iii/LPADR86",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPADR86",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/siavash-amini-%26-eugene-thacker/songs-for-sad-poets-vol.-iii/LPADR86"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Ned Collette",
+      "title": "Mixed Light",
+      "format": "LP",
+      "label": "It Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/ned-collette/mixed-light/LPIT36",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPIT36",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ned-collette/mixed-light/LPIT36"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Le Ren",
+      "title": "Don't Be Funny Without Me",
+      "format": "LP",
+      "label": "Royal Mountain Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/le-ren/don%27t-be-funny-without-me/LPRYMR205C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPRYMR205C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/le-ren/don%27t-be-funny-without-me/LPRYMR205C"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Kare And The Cavemen",
+      "title": "Long Day's Flight 'Till Tomorrow",
+      "format": "LP",
+      "label": "Round 2",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/kare-and-the-cavemen/long-day%27s-flight-%27till-tomorrow/LPROUND22B",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPROUND22B",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/kare-and-the-cavemen/long-day%27s-flight-%27till-tomorrow/LPROUND22B"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Gwar",
+      "title": "Beyond Hell (20th Anniversary)",
+      "format": "LP",
+      "label": "Pit Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/gwar/beyond-hell-%2820th-anniversary%29/LPPITR0017C",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPPITR0017C",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/gwar/beyond-hell-%2820th-anniversary%29/LPPITR0017C"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Egil Kapstad",
+      "title": "Syner",
+      "format": "LP",
+      "label": "Norske Albumklassikere",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/egil-kapstad/syner/LPNORSK106",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPNORSK106",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/egil-kapstad/syner/LPNORSK106"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Cadaver Eyes",
+      "title": "Road Extends",
+      "format": "LP",
+      "label": "Orthodox",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/cadaver-eyes/road-extends/LPORTH005",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPORTH005",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/cadaver-eyes/road-extends/LPORTH005"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Black Duck With Elena Setien",
+      "title": "Black Duck With Elena Setien",
+      "format": "LP",
+      "label": "Thrill Jockey Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/black-duck-with-elena-setien/black-duck-with-elena-setien/LPTHRILL645IE",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPTHRILL645IE",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/black-duck-with-elena-setien/black-duck-with-elena-setien/LPTHRILL645IE"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Bergslagsdiagonalen",
+      "title": "Lundby Lady",
+      "format": "LP",
+      "label": "Welfare Sounds & Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/bergslagsdiagonalen/lundby-lady/LPWSR206",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPWSR206",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/bergslagsdiagonalen/lundby-lady/LPWSR206"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Upper Wilds",
+      "title": "Mercury",
+      "format": "LP",
+      "label": "Thrill Jockey Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/upper-wilds/mercury/LPTHRILL659IE",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPTHRILL659IE",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/upper-wilds/mercury/LPTHRILL659IE"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Lucius",
+      "title": "Wildewoman",
+      "format": "LP",
+      "label": "Mom+Pop",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/lucius/wildewoman/LPMP120C2",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPMP120C2",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/lucius/wildewoman/LPMP120C2"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Kashaiof",
+      "title": "Days",
+      "format": "LP",
+      "label": "Orthodox",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/kashaiof/days/LPORTH003",
+      "imageUrl": "https://www.banquetrecords.com/item.png?LPORTH003",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/kashaiof/days/LPORTH003"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Helix",
+      "title": "Phoenix",
+      "format": "LP",
+      "label": "Seelie Court",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/helix/phoenix/AX012CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?AX012CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/helix/phoenix/AX012CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Fruition",
+      "title": "Something More",
+      "format": "LP",
+      "label": "Bloodshot",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/fruition/something-more/CDBS342",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CDBS342",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/fruition/something-more/CDBS342"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Bare Bones",
+      "format": "LP",
+      "label": "Bad Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/bryan-adams/bare-bones/BADREC009-LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?BADREC009-LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/bryan-adams/bare-bones/BADREC009-LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Rachel's",
+      "title": "Handwriting",
+      "format": "LP",
+      "label": "Quarterstick Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/rachel%27s/handwriting/QS030LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?QS030LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/rachel%27s/handwriting/QS030LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Steve Hackett / Steve Rothery",
+      "title": "The Roaring Waves",
+      "format": "LP",
+      "label": "",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/steve-rothery-steve-hackett/the-roaring-waves/19958433821",
+      "imageUrl": "https://www.banquetrecords.com/item.png?19958433821",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/steve-rothery-steve-hackett/the-roaring-waves/19958433821"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "The Linda Lindas",
+      "title": "Gotta Get Out",
+      "format": "LP",
+      "label": "Warner Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/the-linda-lindas/gotta-get-out/0093624818274",
+      "imageUrl": "https://www.banquetrecords.com/item.png?0093624818274",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-linda-lindas/gotta-get-out/0093624818274"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Engelbert Humperdinck",
+      "title": "Faithfully",
+      "format": "LP",
+      "label": "Cleopatra",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/engelbert-humperdinck/faithfully/CLOLP6599",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CLOLP6599",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/engelbert-humperdinck/faithfully/CLOLP6599"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Hibushibire",
+      "title": "Phantom Fuzzy Exotica",
+      "format": "LP",
+      "label": "Riot Season",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/hibushibire/phantom-fuzzy-exotica/REPOSELP166",
+      "imageUrl": "https://www.banquetrecords.com/item.png?REPOSELP166",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/hibushibire/phantom-fuzzy-exotica/REPOSELP166"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Olsvangèr",
+      "title": "Honey Tangerine",
+      "format": "LP",
+      "label": "Oath",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/olsvanger/honey-tangerine/OATH030",
+      "imageUrl": "https://www.banquetrecords.com/item.png?OATH030",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/olsvanger/honey-tangerine/OATH030"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Riley Downing",
+      "title": "Landfill Poetry",
+      "format": "LP",
+      "label": "OH BOY RECORDS",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/riley-downing/landfill-poetry/OBR095LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?OBR095LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/riley-downing/landfill-poetry/OBR095LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Josephine Foster",
+      "title": "No More Lamps In The Morning",
+      "format": "LP",
+      "label": "FIRE RECORDS",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/josephine-foster/no-more-lamps-in-the-morning/FAME002LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FAME002LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/josephine-foster/no-more-lamps-in-the-morning/FAME002LP"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Die Kreuzen",
+      "title": "Die Kreuzen",
+      "format": "LP",
+      "label": "TOUCH AND GO",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/die-kreuzen/die-kreuzen/TG004LP-C1",
+      "imageUrl": "https://www.banquetrecords.com/item.png?TG004LP-C1",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/die-kreuzen/die-kreuzen/TG004LP-C1"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Die Kreuzen",
+      "title": "October File",
+      "format": "LP",
+      "label": "TOUCH AND GO",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/die-kreuzen/october-file/TG007LP-C2",
+      "imageUrl": "https://www.banquetrecords.com/item.png?TG007LP-C2",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/die-kreuzen/october-file/TG007LP-C2"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Buckshot",
+      "title": "The Package",
+      "format": "LP",
+      "label": "Duck Down Music, Inc.",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/buckshot/the-package/L-DDM4190",
+      "imageUrl": "https://www.banquetrecords.com/item.png?L-DDM4190",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/buckshot/the-package/L-DDM4190"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Andy Bell",
+      "title": "Extended Blue",
+      "format": "LP",
+      "label": "Renegade Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/andy-bell/extended-blue/CLQ1",
+      "imageUrl": "https://www.banquetrecords.com/item.png?CLQ1",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/andy-bell/extended-blue/CLQ1"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Ibukun Sunday",
+      "title": "Olùsìn [Worshippers]",
+      "format": "LP",
+      "label": "Phantom Limb",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/ibukun-sunday/olusin-%5Bworshippers%5D/PHNTM71",
+      "imageUrl": "https://www.banquetrecords.com/item.png?PHNTM71",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ibukun-sunday/olusin-%5Bworshippers%5D/PHNTM71"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Stephen O' Malley",
+      "title": "Avaeken",
+      "format": "LP",
+      "label": "Dais Records",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/stephen-o%27-malley/avaeken/DAIS256lp",
+      "imageUrl": "https://www.banquetrecords.com/item.png?DAIS256lp",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/stephen-o%27-malley/avaeken/DAIS256lp"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Carpark",
+      "title": "Born To Be Average",
+      "format": "LP",
+      "label": "Saviour Music",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/carpark/born-to-be-average/SAVI606",
+      "imageUrl": "https://www.banquetrecords.com/item.png?SAVI606",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/carpark/born-to-be-average/SAVI606"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a9/f5/44/a9f54496-c9ac-1989-d149-f05d58c69346/mzaf_5155680447608611834.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Morgan Noise",
+      "title": "Something Built, Something Remembered",
+      "format": "LP",
+      "label": "Morgan Noise",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/morgan-noise/something-built%2C-something-remembered/MN1CD",
+      "imageUrl": "https://www.banquetrecords.com/item.png?MN1CD",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/morgan-noise/something-built%2C-something-remembered/MN1CD"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Ben Kweller",
+      "title": "On My Way",
+      "format": "LP",
+      "label": "The Noise Company",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/ben-kweller/on-my-way/NSCO113",
+      "imageUrl": "https://www.banquetrecords.com/item.png?NSCO113",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/ben-kweller/on-my-way/NSCO113"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Friendly Recordings X War Child",
+      "format": "LP",
+      "label": "Friendly Recordings",
+      "releaseDate": "2026-08-28",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/various-artists/friendly-recordings-x-war-child/FRWC7007LP",
+      "imageUrl": "https://www.banquetrecords.com/item.png?FRWC7007LP",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/various-artists/friendly-recordings-x-war-child/FRWC7007LP"
         }
       ],
       "itunesPreviewUrl": "",
@@ -12657,6 +15289,10 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/217374-cities-aviv-even-colder-spring"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/cities-aviv/even-colder-spring/BLACKTRUFFLE145"
         }
       ],
       "itunesPreviewUrl": "",
@@ -29731,6 +32367,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/alabama-shakes-i-must-be-dreaming-vinyl/1167439-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/alabama-shakes/i-must-be-dreaming/6100287"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/9a/61/ab9a614e-4e22-d6ce-4836-fc10916200fc/mzaf_16751840668651170576.plus.aac.p.m4a"
@@ -34192,6 +36832,10 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/216806-allah-las-sirenas"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/allah-las/sirenas/MEX394-2"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/41/55/74415571-cd81-b4c2-ae30-3d6f88c7ba7b/mzaf_17243664694630586531.plus.aac.p.m4a"
@@ -34285,6 +36929,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/la-priest-into-the-sky-vinyl/1165213-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/la-priest/into-the-sky/WIGCD551"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/42/6a/97426ae8-cf94-3bc7-cb48-97fa99162299/mzaf_4861546249326307955.plus.aac.p.m4a"
@@ -41290,5 +43938,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-08-19T01:36:47.364Z"
+  "updatedAt": "2026-08-20T01:36:00.051Z"
 }
