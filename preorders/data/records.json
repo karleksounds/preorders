@@ -993,6 +993,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "CLAUDE",
+      "title": "Me & The Music",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Dead Oceans US",
+      "releaseDate": "2026-10-23",
+      "url": "https://www.juno.co.uk/products/claude-me-the-music-vinyl/1174482-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1174482-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/claude-me-the-music-vinyl/1174482-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/07/1b/94071b51-c4a3-27ca-1f5e-3de71a401b8e/mzaf_2302761538324107215.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Ash",
       "title": "1977 (30th Anniversary)",
       "format": "LP",
@@ -1996,6 +2016,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "CINERAMA",
+      "title": "Va Va Voom 25: A 25th Anniversary Re-Recording",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Clue",
+      "releaseDate": "2026-10-02",
+      "url": "https://www.juno.co.uk/products/cinerama-va-va-voom-25-a-25th-anniversary-vinyl/1059242-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1059242-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/cinerama-va-va-voom-25-a-25th-anniversary-vinyl/1059242-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The Rifles",
       "title": "No Love Lost (20th Anniversary)",
       "format": "LP",
@@ -2812,6 +2852,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/ce/84/01ce84ec-4baa-551d-8086-976eda7d2c01/mzaf_7799673178699356934.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Baxter DURY",
+      "title": "Happy Soup",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Parlophone",
+      "releaseDate": "2026-09-25",
+      "url": "https://www.juno.co.uk/products/baxter-dury-happy-soup-vinyl/1174452-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1174452-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/baxter-dury-happy-soup-vinyl/1174452-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0c/98/90/0c989067-5ca8-f53c-eb9a-9fd9a9f1d59f/mzaf_264618469499730660.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -45206,5 +45266,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-08-23T01:50:06.499Z"
+  "updatedAt": "2026-08-24T01:34:39.708Z"
 }
