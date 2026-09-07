@@ -569,6 +569,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Takuro OKADA",
+      "title": "Still Water",
+      "format": "7\"",
+      "displayFormat": "7\"",
+      "label": "Toka Japan",
+      "releaseDate": "2026-11-20",
+      "url": "https://www.juno.co.uk/products/takuro-okada-still-water-vinyl/1176229-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1176229-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/takuro-okada-still-water-vinyl/1176229-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/a0/8b/9ca08b47-5f23-aff8-d529-254e740b2160/mzaf_9291978638084590603.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Royal Blood",
       "title": "DEAD COMPANY",
       "format": "LP",
@@ -1400,6 +1420,26 @@
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/53/8b/64/538b64f1-79a4-4c08-1b53-bd5fd3d3034c/mzaf_1929620717250032911.plus.aac.p.m4a",
       "hasDeezerPreview": false
+    },
+    {
+      "artist": "BONAPARTE",
+      "title": "Too Much (reissue)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Bonaparte Germany",
+      "releaseDate": "2026-10-23",
+      "url": "https://www.juno.co.uk/products/bonaparte-too-much-vinyl/1176260-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1176260-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/bonaparte-too-much-vinyl/1176260-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
     },
     {
       "artist": "Ash",
@@ -10263,7 +10303,7 @@
       "title": "Perfecth",
       "format": "LP",
       "label": "Matador",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217810-queens-of-the-stone-age-perfecth",
       "imageUrl": "https://www.normanrecords.com/artwork/large/60/217810-queens-of-the-stone-age-perfecth.jpg",
@@ -10285,7 +10325,7 @@
       "title": "The Joy of Sing-Sing",
       "format": "LP",
       "label": "Aerial Records",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217812-sing-sing-the-joy-of-singsing",
       "imageUrl": "https://www.normanrecords.com/artwork/large/62/217812-sing-sing-the-joy-of-singsing.jpg",
@@ -10307,7 +10347,7 @@
       "title": "The South Facade",
       "format": "LP",
       "label": "Ugly",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217741-ugly-the-south-facade",
       "imageUrl": "https://www.normanrecords.com/artwork/large/241/217741-ugly-the-south-facade.jpg",
@@ -10329,7 +10369,7 @@
       "title": "1000% (TRIAD FUNDED X DESPERATE STRUGGLE)",
       "format": "LP",
       "label": "Triad Funded",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217897-silverwingkiller-1000-triad-funded-x-desperate",
       "imageUrl": "https://www.normanrecords.com/artwork/large/147/217897-silverwingkiller-1000-triad-funded-x-desperate.jpg",
@@ -10352,7 +10392,7 @@
       "title": "House With A Curse",
       "format": "LP",
       "label": "Clay Pipe Music",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217851-andrew-wasylyk-tommy-perman-house-with-a-curse",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/101/217851-andrew-wasylyk-tommy-perman-house-with-a-curse.jpg",
@@ -10370,7 +10410,7 @@
       "title": "untitled (halo)",
       "format": "LP",
       "label": "Dirty Hit",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217904-untitled-halo-untitled-halo",
       "imageUrl": "https://www.normanrecords.com/artwork/large/154/217904-untitled-halo-untitled-halo.jpg",
@@ -10388,7 +10428,7 @@
       "title": "Triptych",
       "format": "LP",
       "label": "Important Records",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/109847-eliane-radigue-triptych",
       "imageUrl": "https://www.normanrecords.com/artwork/large/97/109847-eliane-radigue-triptych.jpg",
@@ -10407,7 +10447,7 @@
       "title": "Like A Heartbeat",
       "format": "LP",
       "label": "Alcopop",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217773-the-spook-school-like-a-heartbeat",
       "imageUrl": "https://www.normanrecords.com/artwork/large/23/217773-the-spook-school-like-a-heartbeat.jpg",
@@ -10429,7 +10469,7 @@
       "title": "Before the World Blows",
       "format": "LP",
       "label": "Young",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217911-erykah-badu-the-alchemist-before-the-world-blows",
       "imageUrl": "https://www.normanrecords.com/artwork/large/161/217911-erykah-badu-the-alchemist-before-the-world-blows.jpg",
@@ -10447,7 +10487,7 @@
       "title": "sfs/in vain (selected tracks)",
       "format": "LP",
       "label": "WRWTFWW",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217826-tim-reaper-sfsin-vain-selected-tracks",
       "imageUrl": "https://www.normanrecords.com/artwork/large/76/217826-tim-reaper-sfsin-vain-selected-tracks.jpg",
@@ -10465,7 +10505,7 @@
       "title": "Orbitals - Opening & Ending Theme",
       "format": "7\"",
       "label": "Laced Records",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217694-falk-klou-mami-ayukawa-orbitals-opening-ending-theme",
       "imageUrl": "https://www.normanrecords.com/artwork/large/194/217694-falk-klou-mami-ayukawa-orbitals-opening-ending-theme.jpg",
@@ -10483,7 +10523,7 @@
       "title": "Literary World",
       "format": "7\"",
       "label": "Chrysalis",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217692-bodega-literary-world",
       "imageUrl": "https://www.normanrecords.com/artwork/large/192/217692-bodega-literary-world.jpg",
@@ -10502,7 +10542,7 @@
       "title": "Stupid Song",
       "format": "7\"",
       "label": "Interscope",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217745-olivia-rodrigo-stupid-song",
       "imageUrl": "https://www.normanrecords.com/artwork/large/245/217745-olivia-rodrigo-stupid-song.jpg",
@@ -10524,7 +10564,7 @@
       "title": "bad taste",
       "format": "7\"",
       "label": "Interscope",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217841-freya-skye-bad-taste",
       "imageUrl": "https://www.normanrecords.com/artwork/large/91/217841-freya-skye-bad-taste.jpg",
@@ -10546,7 +10586,7 @@
       "title": "See Him",
       "format": "7\"",
       "label": "Soul Jazz",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217656-jim-brown-see-him",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/156/217656-jim-brown-see-him.jpg",
@@ -10568,7 +10608,7 @@
       "title": "Music Like Dirt / I’ll Give It To You",
       "format": "7\"",
       "label": "Soul Jazz",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217654-the-actions-the-tonettes-music-like-dirt-ill-give",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/154/217654-the-actions-the-tonettes-music-like-dirt-ill-give.jpg",
@@ -10587,7 +10627,7 @@
       "title": "African Descendants / Black Is Black",
       "format": "7\"",
       "label": "Soul Jazz",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217655-alton-ellis-freedom-singers-african-descendants-black-is-black",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/155/217655-alton-ellis-freedom-singers-african-descendants-black-is-black.jpg",
@@ -10614,7 +10654,7 @@
       "title": "Afrikaan Beat / My Satisfaction",
       "format": "7\"",
       "label": "Soul Jazz",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217657-lester-sterling-the-paragons-afrikaan-beat-my-satisfaction",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/157/217657-lester-sterling-the-paragons-afrikaan-beat-my-satisfaction.jpg",
@@ -10641,7 +10681,7 @@
       "title": "African Challenge",
       "format": "7\"",
       "label": "Soul Jazz",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217658-zoot-simms-sound-dimension-african-challenge",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/158/217658-zoot-simms-sound-dimension-african-challenge.jpg",
@@ -10660,7 +10700,7 @@
       "title": "Brite Lights, Big City",
       "format": "7\"",
       "label": "Hand Of Glory",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217912-downliners-sect-brite-lights-big-city",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/162/217912-downliners-sect-brite-lights-big-city.jpg",
@@ -10679,7 +10719,7 @@
       "title": "Live From St Anne's",
       "format": "7\"",
       "label": "CMATBABY",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217861-cmat-live-from-st-annes",
       "imageUrl": "https://www.normanrecords.com/artwork/large/111/217861-cmat-live-from-st-annes.jpg",
@@ -10690,15 +10730,14 @@
           "url": "https://www.normanrecords.com/records/217861-cmat-live-from-st-annes"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/fa/ee/dafaee15-3066-2818-6193-9bc435fea529/mzaf_5324409132074620027.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/fa/ee/dafaee15-3066-2818-6193-9bc435fea529/mzaf_5324409132074620027.plus.aac.p.m4a"
     },
     {
       "artist": "Yukee ft. Wet Leg",
       "title": "Doing What You Love",
       "format": "7\"",
       "label": "Pandapop! Records",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217945-yukee-ft-wet-leg-doing-what-you-love",
       "imageUrl": "https://www.normanrecords.com/artwork/large/195/217945-yukee-ft-wet-leg-doing-what-you-love.jpg",
@@ -10717,7 +10756,7 @@
       "title": "Monster Rap / Frankenstein 1984",
       "format": "7\"",
       "label": "Reservoir Recordings",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984",
       "imageUrl": "https://www.normanrecords.com/artwork/large/230/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984.jpg",
@@ -10736,7 +10775,7 @@
       "title": "Shimmer",
       "format": "7\"",
       "label": "Precious Recordings",
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer",
       "imageUrl": "https://www.normanrecords.com/artwork/large/205/217955-language-of-flowers-shimmer.jpg",
@@ -10747,15 +10786,14 @@
           "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/37/47/3437478d-f91e-5e22-ebf2-0d0524e62bf6/mzaf_14196617031279239534.plus.aac.p.m4a",
-      "hasDeezerPreview": false
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/37/47/3437478d-f91e-5e22-ebf2-0d0524e62bf6/mzaf_14196617031279239534.plus.aac.p.m4a"
     },
     {
       "artist": "Agnes Obel",
       "title": "The Meaning Of Flowers",
       "format": "LP",
       "label": "Deutsche Grammophon",
-      "releaseDate": "2026-09-05",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217784-agnes-obel-the-meaning-of-flowers",
       "imageUrl": "https://www.normanrecords.com/artwork/large/34/217784-agnes-obel-the-meaning-of-flowers.jpg",
@@ -10770,15 +10808,15 @@
           "url": "https://www.banquetrecords.com/agnes-obel/the-meaning-of-flowers/4869120"
         }
       ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/a1/0f/40a10f2f-be82-9799-1177-595e9be464af/mzaf_17748383325648333652.plus.aac.p.m4a",
+      "hasDeezerPreview": false
     },
     {
       "artist": "Amy Winehouse",
       "title": "Back To Black 20",
       "format": "LP",
       "label": "UMR",
-      "releaseDate": "2026-09-05",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217818-amy-winehouse-back-to-black-20",
       "imageUrl": "https://www.normanrecords.com/artwork/large/68/217818-amy-winehouse-back-to-black-20.jpg",
@@ -10789,15 +10827,15 @@
           "url": "https://www.normanrecords.com/records/217818-amy-winehouse-back-to-black-20"
         }
       ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": true
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/d7/bf/e2d7bffb-affd-eae0-dcb8-a47ba2bba259/mzaf_4498279717793174345.plus.aac.p.m4a",
+      "hasDeezerPreview": false
     },
     {
       "artist": "Madlib",
       "title": "Beat Konducta Box Set",
       "format": "LP",
       "label": "Stones Throw",
-      "releaseDate": "2026-09-05",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217853-madlib-beat-konducta-box-set",
       "imageUrl": "https://www.normanrecords.com/artwork/large/103/217853-madlib-beat-konducta-box-set.jpg",
@@ -10815,7 +10853,7 @@
       "title": "Get Mean",
       "format": "LP",
       "label": "Atlantic",
-      "releaseDate": "2026-09-05",
+      "releaseDate": "2026-09-07",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217878-boy-harsher-get-mean",
       "imageUrl": "https://www.normanrecords.com/artwork/large/128/217878-boy-harsher-get-mean.jpg",
@@ -10827,6 +10865,24 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/87/54/a187547c-3fb7-4267-3b0c-2b8759c12593/mzaf_7297993217386105176.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Forest Law",
+      "title": "Golden Crown / Enchanted",
+      "format": "7\"",
+      "label": "Bongo Joe",
+      "releaseDate": "2026-09-07",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218044-forest-law-golden-crown-enchanted",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/44/218044-forest-law-golden-crown-enchanted.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218044-forest-law-golden-crown-enchanted"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/4b/68/094b68ca-36f2-5d44-f0f9-f7fda8cf920d/mzaf_6091066311418515171.plus.aac.p.m4a"
     },
     {
       "artist": "The Genesis",
@@ -10886,25 +10942,6 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/b8/fc/51b8fcd6-3a10-2ac0-1235-8f51b57eb1e3/mzaf_10568455039801684332.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Forest Law",
-      "title": "Golden Crown / Enchanted",
-      "format": "7\"",
-      "label": "Bongo Joe",
-      "releaseDate": "2026-09-04",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/218044-forest-law-golden-crown-enchanted",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/44/218044-forest-law-golden-crown-enchanted.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/218044-forest-law-golden-crown-enchanted"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/4b/68/094b68ca-36f2-5d44-f0f9-f7fda8cf920d/mzaf_6091066311418515171.plus.aac.p.m4a",
-      "hasDeezerPreview": false
     },
     {
       "artist": "Natalie Imbruglia",
@@ -29678,6 +29715,10 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/217316-sour-widows-sigil"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/sour-widows-sigil-vinyl/1171318-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/07/8c/ed078c5b-4b56-7aa1-e10e-6522b4bc142b/mzaf_3354133510608943235.plus.aac.p.m4a"
@@ -33442,5 +33483,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-06T03:14:59.256Z"
+  "updatedAt": "2026-09-07T03:14:22.119Z"
 }
