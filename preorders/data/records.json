@@ -877,6 +877,25 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Gallows",
+      "title": "Orchestra Of Wolves",
+      "format": "LP",
+      "label": "Warner Music",
+      "releaseDate": "2026-11-06",
+      "store": "Banquet Records",
+      "url": "https://www.banquetrecords.com/gallows/orchestra-of-wolves/GallowsOrchestra",
+      "imageUrl": "https://www.banquetrecords.com/item.png?GallowsOrchestra",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/gallows/orchestra-of-wolves/GallowsOrchestra"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e6/d5/1a/e6d51a8b-5175-3ebf-25f0-383d712483ac/mzaf_9161118033362910969.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The ENTREPRENEURS",
       "title": "Rominger Tony",
       "format": "LP",
@@ -1114,6 +1133,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/the-bar-stool-preachers-party-eternal-vinyl/1168524-01/"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/the-bar-stool-preachers/party-eternal/BSP4CD"
         }
       ],
       "itunesPreviewUrl": "",
@@ -3092,6 +3115,26 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "LEENALCHI",
+      "title": "SUGUNGGA",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Luaka Bop",
+      "releaseDate": "2026-10-02",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/sugungga",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1077187/product/680899010504_T11_Image.jpg",
+      "genre": "Disco / Boogie / Funk",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/sugungga"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/61/76/a161762b-7e1b-1d93-064e-b6afd0dfe0bc/mzaf_11235428222533898200.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -6730,6 +6773,26 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "BRAGOLIN",
+      "title": "I Saw Nothing Good So I Left",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Young & Cold US",
+      "releaseDate": "2026-09-18",
+      "url": "https://www.juno.co.uk/products/bragolin-i-saw-nothing-good-so-i-left-vinyl/1168020-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1168020-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/bragolin-i-saw-nothing-good-so-i-left-vinyl/1168020-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/cc/02/a3cc0220-f83f-6599-1ba2-3eca63378bab/mzaf_15251224198553954606.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -10507,23 +10570,23 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "KINOKO TEIKOKU",
-      "title": "Eureka (reissue)",
-      "format": "LP",
-      "displayFormat": "LP",
-      "label": "Daizawa Japan",
-      "releaseDate": "2026-09-09",
-      "url": "https://www.juno.co.uk/products/kinoko-teikoku-eureka-vinyl/1168937-01/",
-      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1168937-01A-MED.jpg",
+      "artist": "Erin LECOUNT",
+      "title": "Pareidolia",
+      "format": "7\"",
+      "displayFormat": "12\"",
+      "label": "Atlantic",
+      "releaseDate": "2026-09-10",
+      "url": "https://www.juno.co.uk/products/erin-lecount-pareidolia-vinyl/1165777-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1165777-01A-MED.jpg",
       "store": "Juno Records",
       "genre": "Indie",
       "stores": [
         {
           "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/kinoko-teikoku-eureka-vinyl/1168937-01/"
+          "url": "https://www.juno.co.uk/products/erin-lecount-pareidolia-vinyl/1165777-01/"
         }
       ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/0a/42/e60a42d4-1070-984f-0b54-ae29d967637a/mzaf_6401022222097700730.plus.aac.p.m4a",
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/1c/08/061c085b-c233-0a0b-0e86-21c664472b7a/mzaf_9535293181943938239.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -10531,7 +10594,7 @@
       "title": "Orbitals - Opening & Ending Theme",
       "format": "7\"",
       "label": "Laced Records",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217694-falk-klou-mami-ayukawa-orbitals-opening-ending-theme",
       "imageUrl": "https://www.normanrecords.com/artwork/large/194/217694-falk-klou-mami-ayukawa-orbitals-opening-ending-theme.jpg",
@@ -10549,7 +10612,7 @@
       "title": "Literary World",
       "format": "7\"",
       "label": "Chrysalis",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217692-bodega-literary-world",
       "imageUrl": "https://www.normanrecords.com/artwork/large/192/217692-bodega-literary-world.jpg",
@@ -10568,7 +10631,7 @@
       "title": "Stupid Song",
       "format": "7\"",
       "label": "Interscope",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217745-olivia-rodrigo-stupid-song",
       "imageUrl": "https://www.normanrecords.com/artwork/large/245/217745-olivia-rodrigo-stupid-song.jpg",
@@ -10586,33 +10649,11 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a"
     },
     {
-      "artist": "Jim Brown",
-      "title": "See Him",
-      "format": "7\"",
-      "label": "Soul Jazz",
-      "releaseDate": "2026-09-08",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217656-jim-brown-see-him",
-      "imageUrl": "https://www.normanrecords.com/artwork/medium/156/217656-jim-brown-see-him.jpg",
-      "genre": "Reggae",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217656-jim-brown-see-him"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/jim-brown/see-him/SJR584-7"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/95/ed/cc95edc8-4f9b-0c56-bc74-31ba76a057f9/mzaf_11346187551197903108.plus.aac.p.m4a"
-    },
-    {
       "artist": "Lester Sterling / The Paragons",
       "title": "Afrikaan Beat / My Satisfaction",
       "format": "7\"",
       "label": "Soul Jazz",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217657-lester-sterling-the-paragons-afrikaan-beat-my-satisfaction",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/157/217657-lester-sterling-the-paragons-afrikaan-beat-my-satisfaction.jpg",
@@ -10639,7 +10680,7 @@
       "title": "African Challenge",
       "format": "7\"",
       "label": "Soul Jazz",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217658-zoot-simms-sound-dimension-african-challenge",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/158/217658-zoot-simms-sound-dimension-african-challenge.jpg",
@@ -10658,7 +10699,7 @@
       "title": "Brite Lights, Big City",
       "format": "7\"",
       "label": "Hand Of Glory",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217912-downliners-sect-brite-lights-big-city",
       "imageUrl": "https://www.normanrecords.com/artwork/medium/162/217912-downliners-sect-brite-lights-big-city.jpg",
@@ -10677,7 +10718,7 @@
       "title": "Doing What You Love",
       "format": "7\"",
       "label": "Pandapop! Records",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217945-yukee-ft-wet-leg-doing-what-you-love",
       "imageUrl": "https://www.normanrecords.com/artwork/large/195/217945-yukee-ft-wet-leg-doing-what-you-love.jpg",
@@ -10696,7 +10737,7 @@
       "title": "Monster Rap / Frankenstein 1984",
       "format": "7\"",
       "label": "Reservoir Recordings",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984",
       "imageUrl": "https://www.normanrecords.com/artwork/large/230/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984.jpg",
@@ -10715,7 +10756,7 @@
       "title": "Shimmer",
       "format": "7\"",
       "label": "Precious Recordings",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer",
       "imageUrl": "https://www.normanrecords.com/artwork/large/205/217955-language-of-flowers-shimmer.jpg",
@@ -10733,7 +10774,7 @@
       "title": "Golden Crown / Enchanted",
       "format": "7\"",
       "label": "Bongo Joe",
-      "releaseDate": "2026-09-08",
+      "releaseDate": "2026-09-09",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/218044-forest-law-golden-crown-enchanted",
       "imageUrl": "https://www.normanrecords.com/artwork/large/44/218044-forest-law-golden-crown-enchanted.jpg",
@@ -10745,6 +10786,108 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/4b/68/094b68ca-36f2-5d44-f0f9-f7fda8cf920d/mzaf_6091066311418515171.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "bad taste",
+      "format": "7\"",
+      "label": "Interscope",
+      "releaseDate": "2026-09-09",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217841-freya-skye-bad-taste",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/91/217841-freya-skye-bad-taste.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217841-freya-skye-bad-taste"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/freya-skye/bad-taste/8760670"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/f4/e4/2bf4e4b0-4123-a16d-2536-0da87db3bd29/mzaf_7684328092277566484.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Muslimgauze",
+      "title": "Single #Four",
+      "format": "7\"",
+      "label": "Staalplaat",
+      "releaseDate": "2026-09-09",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218147-muslimgauze-single-four",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/147/218147-muslimgauze-single-four.jpg",
+      "genre": "Electronic",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218147-muslimgauze-single-four"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/e4/6e/39e46ebf-acb4-2e37-bb96-293df40689f1/mzaf_12721298988864443265.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Group A.D.",
+      "title": "Bird of Parallax",
+      "format": "7\"",
+      "label": "Punishment Park",
+      "releaseDate": "2026-09-09",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218112-group-a-d-bird-of-parallax",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/112/218112-group-a-d-bird-of-parallax.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218112-group-a-d-bird-of-parallax"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/a3/1a/91a31a00-dfc8-44ab-ffce-28ce338bc952/mzaf_3827196816187594941.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "KINOKO TEIKOKU",
+      "title": "Eureka (reissue)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Daizawa Japan",
+      "releaseDate": "2026-09-09",
+      "url": "https://www.juno.co.uk/products/kinoko-teikoku-eureka-vinyl/1168937-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1168937-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/kinoko-teikoku-eureka-vinyl/1168937-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/0a/42/e60a42d4-1070-984f-0b54-ae29d967637a/mzaf_6401022222097700730.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Jim Brown",
+      "title": "See Him",
+      "format": "7\"",
+      "label": "Soul Jazz",
+      "releaseDate": "2026-09-08",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217656-jim-brown-see-him",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/156/217656-jim-brown-see-him.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217656-jim-brown-see-him"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/jim-brown/see-him/SJR584-7"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/95/ed/cc95edc8-4f9b-0c56-bc74-31ba76a057f9/mzaf_11346187551197903108.plus.aac.p.m4a"
     },
     {
       "artist": "Sleep",
@@ -11353,28 +11496,6 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/17/91/c9179167-3b23-b0ba-72e2-cb61ef315b65/mzaf_9016105251591487798.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Freya Skye",
-      "title": "bad taste",
-      "format": "7\"",
-      "label": "Interscope",
-      "releaseDate": "2026-09-07",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217841-freya-skye-bad-taste",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/91/217841-freya-skye-bad-taste.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217841-freya-skye-bad-taste"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/freya-skye/bad-taste/8760670"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/f4/e4/2bf4e4b0-4123-a16d-2536-0da87db3bd29/mzaf_7684328092277566484.plus.aac.p.m4a"
     },
     {
       "artist": "The Actions / The Tonettes",
@@ -34136,5 +34257,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-08T03:26:39.490Z"
+  "updatedAt": "2026-09-09T03:25:11.048Z"
 }
