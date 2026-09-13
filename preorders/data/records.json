@@ -8151,6 +8151,46 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Maya Ongaku",
+      "title": "Nothing Space Music",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "GURUGURU BRAIN",
+      "releaseDate": "2026-09-18",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/nothing-space-music",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1075750/product/199384456517.jpg",
+      "genre": "Modern Classical / Ambient",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/nothing-space-music"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/ed/6f/f7ed6f04-a412-03f1-4726-07c6f08f227e/mzaf_10877242053020294701.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Hun Lynch",
+      "title": "Sycophant",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "NOA RECORDS / HOLIDAY RECORDS",
+      "releaseDate": "2026-09-18",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/sycophant-d0ebea77-d6f9-464f-8d8d-1272329eea96",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1086278/product/a2622388777_10.jpg",
+      "genre": "Indie / Alternative",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/sycophant-d0ebea77-d6f9-464f-8d8d-1272329eea96"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
       "artist": "DISPATCH",
       "title": "Bang Bang (reissue)",
       "format": "LP",
@@ -8187,6 +8227,26 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Jana Horn",
+      "title": "Jana Horn",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "No Quarter",
+      "releaseDate": "2026-09-14",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/jana-horn",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1038322/product/843563190180.jpg",
+      "genre": "Indie / Alternative",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/jana-horn"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3e/ff/1b/3eff1b9b-9510-5b9e-2c30-7f38c2db1403/mzaf_12797713917639588327.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -35666,5 +35726,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-12T02:58:28.820Z"
+  "updatedAt": "2026-09-13T02:55:13.819Z"
 }
