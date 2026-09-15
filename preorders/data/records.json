@@ -3498,6 +3498,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Richard",
+      "title": "Loving You To Death",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "STROOM",
+      "releaseDate": "2026-09-29",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/loving-you-to-death",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1085705/product/885288071955.jpg",
+      "genre": "Indie / Alternative",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/loving-you-to-death"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/10/c3/c310c3c6-d3ca-878b-f9b0-fc45299ac2db/mzaf_14791721981280310361.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The Rifles",
       "title": "No Love Lost (20th Anniversary)",
       "format": "LP",
@@ -5965,6 +5985,25 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "BENEVENTO, MARCO",
+      "title": "HOUDINI B/W MISS NEPTUNE",
+      "format": "7\"",
+      "label": "BIG CROWN RECORDS",
+      "releaseDate": "2026-09-25",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178891/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178891.jpg",
+      "genre": "World",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178891/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
       "artist": "SPRAYCAN",
       "title": "EP 1",
       "format": "7\"",
@@ -8235,7 +8274,7 @@
       "title": "Orbitals - Opening & Ending Theme",
       "format": "7\"",
       "label": "Laced Records",
-      "releaseDate": "2026-09-14",
+      "releaseDate": "2026-09-15",
       "store": "Norman Records",
       "url": "https://www.normanrecords.com/records/217694-falk-klou-mami-ayukawa-orbitals-opening-ending-theme",
       "imageUrl": "https://www.normanrecords.com/artwork/large/194/217694-falk-klou-mami-ayukawa-orbitals-opening-ending-theme.jpg",
@@ -8247,6 +8286,200 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/19/f6/1919f6e0-83bc-a297-c9db-a79c5a85ff91/mzaf_619790476727119398.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Fergus Jones & Thomas Bush",
+      "title": "Untitled",
+      "format": "7\"",
+      "label": "FELT",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218180-fergus-jones-thomas-bush-untitled",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/180/218180-fergus-jones-thomas-bush-untitled.jpg",
+      "genre": "Electronic",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218180-fergus-jones-thomas-bush-untitled"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Language of Flowers",
+      "title": "Shimmer",
+      "format": "7\"",
+      "label": "Precious Recordings",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/205/217955-language-of-flowers-shimmer.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/37/47/3437478d-f91e-5e22-ebf2-0d0524e62bf6/mzaf_14196617031279239534.plus.aac.p.m4a"
+    },
+    {
+      "artist": "The Courettes",
+      "title": "Killer Kiss",
+      "format": "7\"",
+      "label": "Damaged Goods",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218251-the-courettes-killer-kiss",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/1/218251-the-courettes-killer-kiss.jpg",
+      "genre": "Rock",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218251-the-courettes-killer-kiss"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Stupid Song",
+      "format": "7\"",
+      "label": "Interscope",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217745-olivia-rodrigo-stupid-song",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/245/217745-olivia-rodrigo-stupid-song.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217745-olivia-rodrigo-stupid-song"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/olivia-rodrigo/stupid-song/6121653"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Forest Law",
+      "title": "Golden Crown / Enchanted",
+      "format": "7\"",
+      "label": "Bongo Joe",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218044-forest-law-golden-crown-enchanted",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/44/218044-forest-law-golden-crown-enchanted.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218044-forest-law-golden-crown-enchanted"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/4b/68/094b68ca-36f2-5d44-f0f9-f7fda8cf920d/mzaf_6091066311418515171.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "bad taste",
+      "format": "7\"",
+      "label": "Interscope",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217841-freya-skye-bad-taste",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/91/217841-freya-skye-bad-taste.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217841-freya-skye-bad-taste"
+        },
+        {
+          "store": "Banquet Records",
+          "url": "https://www.banquetrecords.com/freya-skye/bad-taste/8760670"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/f4/e4/2bf4e4b0-4123-a16d-2536-0da87db3bd29/mzaf_7684328092277566484.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Bobby Boris Pickett / Edgar Winter",
+      "title": "Monster Rap / Frankenstein 1984",
+      "format": "7\"",
+      "label": "Reservoir Recordings",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/230/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "David Boulter",
+      "title": "Lowrey",
+      "format": "7\"",
+      "label": "The Spoken World",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218276-david-boulter-lowrey",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/26/218276-david-boulter-lowrey.jpg",
+      "genre": "Ambient",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218276-david-boulter-lowrey"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The Charities",
+      "title": "Movin' On / I'm Still Learning How",
+      "format": "7\"",
+      "label": "Colemine",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218309-the-charities-movin-on-im-still-learning",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/59/218309-the-charities-movin-on-im-still-learning.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218309-the-charities-movin-on-im-still-learning"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/0c/48/2a0c48e2-51d6-3eda-2a04-fe15f6604206/mzaf_5883579584928217154.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Jacob Miller, Aggrovators, Prince Fatty",
+      "title": "Lorraine",
+      "format": "7\"",
+      "label": "17 North Parade",
+      "releaseDate": "2026-09-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218240-jacob-miller-aggrovators-prince-fatty-lorraine",
+      "imageUrl": "https://www.normanrecords.com/artwork/medium/240/218240-jacob-miller-aggrovators-prince-fatty-lorraine.jpg",
+      "genre": "Reggae",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218240-jacob-miller-aggrovators-prince-fatty-lorraine"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
     },
     {
       "artist": "Muslimgauze",
@@ -8267,43 +8500,6 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/e4/6e/39e46ebf-acb4-2e37-bb96-293df40689f1/mzaf_12721298988864443265.plus.aac.p.m4a"
     },
     {
-      "artist": "Fergus Jones & Thomas Bush",
-      "title": "Untitled",
-      "format": "7\"",
-      "label": "FELT",
-      "releaseDate": "2026-09-14",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/218180-fergus-jones-thomas-bush-untitled",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/180/218180-fergus-jones-thomas-bush-untitled.jpg",
-      "genre": "Electronic",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/218180-fergus-jones-thomas-bush-untitled"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Language of Flowers",
-      "title": "Shimmer",
-      "format": "7\"",
-      "label": "Precious Recordings",
-      "releaseDate": "2026-09-14",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/205/217955-language-of-flowers-shimmer.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/37/47/3437478d-f91e-5e22-ebf2-0d0524e62bf6/mzaf_14196617031279239534.plus.aac.p.m4a"
-    },
-    {
       "artist": "Yukee ft. Wet Leg",
       "title": "Doing What You Love",
       "format": "7\"",
@@ -8317,25 +8513,6 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/217945-yukee-ft-wet-leg-doing-what-you-love"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "The Courettes",
-      "title": "Killer Kiss",
-      "format": "7\"",
-      "label": "Damaged Goods",
-      "releaseDate": "2026-09-14",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/218251-the-courettes-killer-kiss",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/1/218251-the-courettes-killer-kiss.jpg",
-      "genre": "Rock",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/218251-the-courettes-killer-kiss"
         }
       ],
       "itunesPreviewUrl": "",
@@ -8401,28 +8578,6 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "Olivia Rodrigo",
-      "title": "Stupid Song",
-      "format": "7\"",
-      "label": "Interscope",
-      "releaseDate": "2026-09-12",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217745-olivia-rodrigo-stupid-song",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/245/217745-olivia-rodrigo-stupid-song.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217745-olivia-rodrigo-stupid-song"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/olivia-rodrigo/stupid-song/6121653"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a"
-    },
-    {
       "artist": "Group A.D.",
       "title": "Bird of Parallax",
       "format": "7\"",
@@ -8454,65 +8609,6 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/217912-downliners-sect-brite-lights-big-city"
-        }
-      ],
-      "itunesPreviewUrl": "",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Forest Law",
-      "title": "Golden Crown / Enchanted",
-      "format": "7\"",
-      "label": "Bongo Joe",
-      "releaseDate": "2026-09-12",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/218044-forest-law-golden-crown-enchanted",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/44/218044-forest-law-golden-crown-enchanted.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/218044-forest-law-golden-crown-enchanted"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/4b/68/094b68ca-36f2-5d44-f0f9-f7fda8cf920d/mzaf_6091066311418515171.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Freya Skye",
-      "title": "bad taste",
-      "format": "7\"",
-      "label": "Interscope",
-      "releaseDate": "2026-09-12",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217841-freya-skye-bad-taste",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/91/217841-freya-skye-bad-taste.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217841-freya-skye-bad-taste"
-        },
-        {
-          "store": "Banquet Records",
-          "url": "https://www.banquetrecords.com/freya-skye/bad-taste/8760670"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/f4/e4/2bf4e4b0-4123-a16d-2536-0da87db3bd29/mzaf_7684328092277566484.plus.aac.p.m4a"
-    },
-    {
-      "artist": "Bobby Boris Pickett / Edgar Winter",
-      "title": "Monster Rap / Frankenstein 1984",
-      "format": "7\"",
-      "label": "Reservoir Recordings",
-      "releaseDate": "2026-09-11",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/230/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217980-bobby-boris-pickett-edgar-winter-monster-rap-frankenstein-1984"
         }
       ],
       "itunesPreviewUrl": "",
@@ -35785,5 +35881,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-14T03:11:11.499Z"
+  "updatedAt": "2026-09-15T03:13:35.590Z"
 }
