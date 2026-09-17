@@ -2193,6 +2193,86 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "SMASHING PUMPKINS",
+      "title": "Chicago 2000",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "IDS Recordings US",
+      "releaseDate": "2026-10-16",
+      "url": "https://www.juno.co.uk/products/smashing-pumpkins-chicago-2000-vinyl/1173663-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1173663-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/smashing-pumpkins-chicago-2000-vinyl/1173663-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/c6/02/70c6025b-0aee-3506-0857-4f62387ca0ce/mzaf_12241401809215360870.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "OVLOV",
+      "title": "Am",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Exploding In Sound US",
+      "releaseDate": "2026-10-16",
+      "url": "https://www.juno.co.uk/products/ovlov-am-vinyl/1176085-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1176085-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/ovlov-am-vinyl/1176085-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/32/f6/3132f6da-3aa6-075b-c2f2-f5e7838df283/mzaf_4739072474720162713.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Superfan",
+      "title": "My Piledriver Heart",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "AD 93",
+      "releaseDate": "2026-10-16",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/my-piledriver-heart",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1080855/product/Superfan_-_My_Piledriver_Heart_-_Album_Packshot_-_1600_1600.jpeg",
+      "genre": "Indie / Alternative",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/my-piledriver-heart"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/86/1f/f5861f8a-fa55-97b6-ea1b-94469e681b13/mzaf_1375284712847208800.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Willis Alan Ramsey",
+      "title": "Willis Alan Ramsey",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Antarctica Starts Here",
+      "releaseDate": "2026-10-16",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/willis-alan-ramsey",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1086251/product/c55fc1dd-a294-8427-0de8-89abc47aa027.jpg",
+      "genre": "Indie / Alternative",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/willis-alan-ramsey"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/21/ac/c421ac43-d5d5-ac85-cfe5-84d32907bdc4/mzaf_17271459350415131530.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The Howlers",
       "title": "Saturday 10th October at Banquet Records, 6:00pm",
       "format": "LP",
@@ -18240,6 +18320,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/fontaines-d.c./dopamine-chamber/XL1673CD"
+        },
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/dopamine-chamber"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a"
@@ -35881,5 +35965,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-16T03:07:42.829Z"
+  "updatedAt": "2026-09-17T03:11:54.226Z"
 }
