@@ -6791,6 +6791,26 @@
       "hasDeezerPreview": true
     },
     {
+      "artist": "Nu Vision",
+      "title": "The Seed",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Nation",
+      "releaseDate": "2026-09-25",
+      "store": "Boomkat",
+      "url": "https://boomkat.com/products/the-seed-2a36d128-c8e7-4ab8-b0f4-0a8e9d4e1ff1",
+      "imageUrl": "https://assets.boomkat.com/spree/products/1075039/product/8718723326506.jpg",
+      "genre": "Industrial / Wave / Electro",
+      "stores": [
+        {
+          "store": "Boomkat",
+          "url": "https://boomkat.com/products/the-seed-2a36d128-c8e7-4ab8-b0f4-0a8e9d4e1ff1"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/36/01/75/36017503-0ed2-977c-ba8e-909b61c966e3/mzaf_16427497451586698322.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "SPRAYCAN",
       "title": "EP 1",
       "format": "7\"",
@@ -36676,5 +36696,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-18T02:59:50.294Z"
+  "updatedAt": "2026-09-19T02:57:44.569Z"
 }
