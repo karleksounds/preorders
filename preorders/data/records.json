@@ -724,6 +724,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "ANBERLIN",
+      "title": "Currency",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Equal Vision US",
+      "releaseDate": "2026-11-13",
+      "url": "https://www.juno.co.uk/products/anberlin-currency-vinyl/1178513-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1178513-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/anberlin-currency-vinyl/1178513-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
       "artist": "Joe GLASS",
       "title": "Snakewards",
       "format": "LP",
@@ -1662,6 +1682,26 @@
       ],
       "itunesPreviewUrl": "",
       "hasDeezerPreview": true
+    },
+    {
+      "artist": "WEDNESDAY",
+      "title": "Rat Saw God",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Dead Oceans US",
+      "releaseDate": "2026-10-23",
+      "url": "https://www.juno.co.uk/products/wednesday-rat-saw-god-vinyl/1178504-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1178504-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/wednesday-rat-saw-god-vinyl/1178504-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/15/dd/e215dd6d-2ec5-1f27-4936-88aee93a6002/mzaf_15506423941970587762.plus.aac.p.m4a",
+      "hasDeezerPreview": false
     },
     {
       "artist": "Ash",
@@ -36696,5 +36736,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-20T03:09:49.450Z"
+  "updatedAt": "2026-09-21T03:06:37.322Z"
 }
