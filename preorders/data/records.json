@@ -648,6 +648,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Alan VEGA",
+      "title": "Live At Max's Kansas City",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Sacred Bones",
+      "releaseDate": "2026-11-20",
+      "url": "https://www.juno.co.uk/products/alan-vega-live-at-maxs-kansas-city-vinyl/1180950-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1180950-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/alan-vega-live-at-maxs-kansas-city-vinyl/1180950-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/84/91/9a84919e-be6a-1bd6-6b47-3f1d61ac70e3/mzaf_7641591367429642905.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Royal Blood",
       "title": "DEAD COMPANY",
       "format": "LP",
@@ -742,6 +762,50 @@
       ],
       "itunesPreviewUrl": "",
       "hasDeezerPreview": true
+    },
+    {
+      "artist": "J BERNARDT",
+      "title": "Wild Swim",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Play It Again Sam",
+      "releaseDate": "2026-11-13",
+      "url": "https://www.juno.co.uk/products/j-bernardt-wild-swim-vinyl/1176710-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1176710-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/j-bernardt-wild-swim-vinyl/1176710-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/21/65/31216542-aa90-1c00-2d30-232ba5e39ed8/mzaf_10814472693018335981.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "title": "Peace Love Death Metal (reissue)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Ipecac Canada",
+      "releaseDate": "2026-11-13",
+      "url": "https://www.juno.co.uk/products/eagles-of-death-metal-peace-love-death-metal-vinyl/1180998-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1180998-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/eagles-of-death-metal-peace-love-death-metal-vinyl/1180998-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/eagles-of-death-metal-peace-love-death-metal-vinyl/1180999-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/fd/8d/ecfd8d93-3fd3-7398-3eac-e4f966b67fa5/mzaf_11677621245250970356.plus.aac.p.m4a",
+      "hasDeezerPreview": false
     },
     {
       "artist": "Joe GLASS",
@@ -1701,6 +1765,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/15/dd/e215dd6d-2ec5-1f27-4936-88aee93a6002/mzaf_15506423941970587762.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Trixie WHITLEY",
+      "title": "Folded Time",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Unday Belgium",
+      "releaseDate": "2026-10-23",
+      "url": "https://www.juno.co.uk/products/trixie-whitley-folded-time-vinyl/1179742-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1179742-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/trixie-whitley-folded-time-vinyl/1179742-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
       "hasDeezerPreview": false
     },
     {
@@ -36856,5 +36940,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-22T03:06:06.689Z"
+  "updatedAt": "2026-09-23T03:06:41.412Z"
 }
