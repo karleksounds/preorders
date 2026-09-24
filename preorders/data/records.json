@@ -426,6 +426,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "GORILLAZ",
+      "title": "Plastic Beach (half speed remastered)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Parlophone",
+      "releaseDate": "2026-12-04",
+      "url": "https://www.juno.co.uk/products/gorillaz-plastic-beach-half-speed-remastered-vinyl/1181631-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1181631-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/gorillaz-plastic-beach-half-speed-remastered-vinyl/1181631-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/d4/58/05d45856-0921-dcc9-9fe0-c51affa08336/mzaf_2029158193674083237.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The FAT LADY SINGS",
       "title": "John Son (reissue)",
       "format": "LP",
@@ -1404,6 +1424,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "FLOWERS OF RUIN",
+      "title": "Flowers Of Ruin",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Coop Sweden",
+      "releaseDate": "2026-10-30",
+      "url": "https://www.juno.co.uk/products/flowers-of-ruin-vinyl/1182173-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182173-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/flowers-of-ruin-vinyl/1182173-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/af/6f/67af6f26-3706-e69f-7517-543215d8ad4f/mzaf_8276818100099908566.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "DECO",
       "title": "Dreamhouse",
       "format": "LP",
@@ -1782,6 +1822,26 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/trixie-whitley-folded-time-vinyl/1179742-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Jonas LUNDQVIST",
+      "title": "Noll Personlig Utveckling",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Adrian Sweden",
+      "releaseDate": "2026-10-23",
+      "url": "https://www.juno.co.uk/products/jonas-lundqvist-noll-personlig-utveckling-vinyl/1182201-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182201-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/jonas-lundqvist-noll-personlig-utveckling-vinyl/1182201-01/"
         }
       ],
       "itunesPreviewUrl": "",
@@ -36940,5 +37000,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-23T03:06:41.412Z"
+  "updatedAt": "2026-09-24T02:57:40.626Z"
 }
