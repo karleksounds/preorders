@@ -868,6 +868,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "BABYBIRD",
+      "title": "There's Something Going On (reissue)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-11-13",
+      "url": "https://www.juno.co.uk/products/babybird-theres-something-going-on-vinyl/1182654-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182654-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/babybird-theres-something-going-on-vinyl/1182654-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e8/45/36/e8453608-481e-26ee-f39a-33cb9ecf95c7/mzaf_3022836078637034251.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Joe GLASS",
       "title": "Snakewards",
       "format": "LP",
@@ -2514,6 +2534,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/6e/e8/b96ee82b-aeb5-c86d-2025-9ded7ef7494a/mzaf_15502240275806330454.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "WORLD NEWS",
+      "title": "In Purgatory",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Pie & Mash",
+      "releaseDate": "2026-10-16",
+      "url": "https://www.juno.co.uk/products/world-news-in-purgatory-vinyl/1178035-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1178035-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/world-news-in-purgatory-vinyl/1178035-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
       "hasDeezerPreview": false
     },
     {
@@ -5406,6 +5446,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b2/b2/42/b2b242ba-444c-cb7e-6d9c-873a6ad89c75/mzaf_11155476895788166345.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "The MARIAS",
+      "title": "Submarine (reissue)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Atlantic US",
+      "releaseDate": "2026-10-02",
+      "url": "https://www.juno.co.uk/products/the-marias-submarine-vinyl/1160058-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1160058-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-marias-submarine-vinyl/1160058-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/ab/49/37ab498a-2c37-564e-1032-d3ec1d35a7cb/mzaf_9133732555991365141.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -37884,5 +37944,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-25T03:14:41.440Z"
+  "updatedAt": "2026-09-26T03:18:42.699Z"
 }
