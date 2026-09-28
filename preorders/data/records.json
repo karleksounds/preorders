@@ -104,6 +104,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "DIRTY HONEY",
+      "title": "Catch My Butterfly",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Dirt US",
+      "releaseDate": "2027-01-15",
+      "url": "https://www.juno.co.uk/products/dirty-honey-catch-my-butterfly-vinyl/1182505-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182505-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/dirty-honey-catch-my-butterfly-vinyl/1182505-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/28/ad/db28ad03-7980-5558-9e8b-adb533e01f25/mzaf_13738052294634727034.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Shed Seven",
       "title": "Shed Seven",
       "format": "LP",
@@ -2253,6 +2273,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/eels-cookie-happened-vinyl/1162706-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/eels-cookie-happened-vinyl/1162709-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/7f/c7/c57fc73a-b78f-9adc-ab52-8502cb0ae041/mzaf_13773950475294483540.plus.aac.p.m4a"
@@ -37944,5 +37968,5 @@
       "hasDeezerPreview": true
     }
   ],
-  "updatedAt": "2026-09-27T03:25:50.877Z"
+  "updatedAt": "2026-09-28T03:23:16.585Z"
 }
