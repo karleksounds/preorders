@@ -511,6 +511,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "VICTORYLAND",
+      "title": "My Heart Is A Room With No Cameras In It (Deluxe Edition)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Dead Oceans US",
+      "releaseDate": "2026-12-11",
+      "url": "https://www.juno.co.uk/products/victoryland-my-heart-is-a-room-with-no-vinyl/1183875-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1183875-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/victoryland-my-heart-is-a-room-with-no-vinyl/1183875-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/df/e3/94dfe355-6268-be2c-60e7-e6d781d21ce9/mzaf_13564999766412423281.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Denzel Curry / Kenneth Blume",
       "title": "ii",
       "format": "LP",
@@ -694,6 +714,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ff/2f/fb/ff2ffb3b-b278-5ce1-d265-73747eeba7ed/mzaf_10233303189383870943.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "MOPHING PEOPLE",
+      "title": "Res Andres",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Topsy Turvy",
+      "releaseDate": "2026-11-25",
+      "url": "https://www.juno.co.uk/products/mophing-people-res-andres-vinyl/1183896-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1183896-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/mophing-people-res-andres-vinyl/1183896-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/3f/33/a13f3397-e493-877d-f65e-eb586cd194b1/mzaf_8365422070589342153.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -1301,6 +1341,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/65/1d/9a651d6e-5545-2eda-d12b-a345eb49a705/mzaf_3054274424242952970.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Chloe HERINGTON",
+      "title": "The Archivist",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Weird Walk Record Cult",
+      "releaseDate": "2026-11-06",
+      "url": "https://www.juno.co.uk/products/chloe-herington-the-archivist-vinyl/1183872-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1183872-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/chloe-herington-the-archivist-vinyl/1183872-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
       "hasDeezerPreview": false
     },
     {
@@ -6577,6 +6637,25 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/a0/7c/89a07c15-9f4e-a94a-ba45-0a3d37e92b61/mzaf_10301214268530826167.plus.aac.p.m4a"
+    },
+    {
+      "artist": "DAZZLE, BOBBIE",
+      "title": "STARPOWER",
+      "format": "LP",
+      "label": "RISE ABOVE",
+      "releaseDate": "2026-10-02",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179310/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179310.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179310/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/1d/f8/421df863-5f70-e9f5-8363-7c4ab7b2f5fc/mzaf_16360715755283276509.plus.aac.p.m4a",
+      "hasDeezerPreview": false
     },
     {
       "artist": "Richard",
@@ -21832,5 +21911,5 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/19/3b/79193b52-4d71-6d77-5f01-4b6528499037/mzaf_1835726382278071437.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-02T03:54:35.418Z"
+  "updatedAt": "2026-10-03T03:37:03.579Z"
 }
