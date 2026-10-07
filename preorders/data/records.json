@@ -6694,6 +6694,10 @@
         {
           "store": "Cargo Records",
           "url": "https://www.cargo-records.de/en/item/178227/katalog_art.123.html"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/spike-fuck-evidence-vinyl/1170972-01/"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/a0/7c/89a07c15-9f4e-a94a-ba45-0a3d37e92b61/mzaf_10301214268530826167.plus.aac.p.m4a"
@@ -9339,6 +9343,25 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SUNKEN MAN",
+      "title": "SUNKEN MAN",
+      "format": "LP",
+      "label": "SINGLE LOCK RECORDS",
+      "releaseDate": "2026-09-25",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179359/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179359.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179359/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/a5/ef/ea/a5efeab6-fb68-75f5-8f37-d111451afecc/mzaf_3624815982644315706.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -21971,5 +21994,5 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/19/3b/79193b52-4d71-6d77-5f01-4b6528499037/mzaf_1835726382278071437.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-06T04:38:15.413Z"
+  "updatedAt": "2026-10-07T04:04:32.443Z"
 }
