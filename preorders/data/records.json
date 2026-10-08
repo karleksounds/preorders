@@ -168,6 +168,30 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "THIS IS THE KIT",
+      "title": "Ghost Cost",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Memphis Industries",
+      "releaseDate": "2027-01-15",
+      "url": "https://www.juno.co.uk/products/this-is-the-kit-ghost-cost-vinyl/1182541-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182541-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/this-is-the-kit-ghost-cost-vinyl/1182541-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/this-is-the-kit-ghost-cost-vinyl/1182542-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/05/cf/f605cfb2-bb86-4430-02cd-66eaab232612/mzaf_1401347304663789467.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Shed Seven",
       "title": "Shed Seven",
       "format": "LP",
@@ -1112,6 +1136,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "SPITFIRE",
+      "title": "Anatomic Love",
+      "format": "7\"",
+      "displayFormat": "7\"",
+      "label": "Spinout Nuggets US",
+      "releaseDate": "2026-11-13",
+      "url": "https://www.juno.co.uk/products/spitfire-anatomic-love-vinyl/1184294-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1184294-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/spitfire-anatomic-love-vinyl/1184294-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
       "artist": "Joe GLASS",
       "title": "Snakewards",
       "format": "LP",
@@ -1828,6 +1872,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "JANES ADDICTION",
+      "title": "The Pyramid Club Los Angeles: November 13 1986",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Ubiquity US",
+      "releaseDate": "2026-10-30",
+      "url": "https://www.juno.co.uk/products/janes-addiction-the-pyramid-club-los-angeles-november-vinyl/1183667-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1183667-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/janes-addiction-the-pyramid-club-los-angeles-november-vinyl/1183667-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "DECO",
       "title": "Dreamhouse",
       "format": "LP",
@@ -2309,6 +2373,26 @@
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/ad/c6/c8adc680-2502-a16e-e320-36791691d2be/mzaf_15282252859472833740.plus.aac.p.m4a",
       "hasDeezerPreview": false
+    },
+    {
+      "artist": "Melissa WEIKART",
+      "title": "Contact",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Midnight Special Recordings",
+      "releaseDate": "2026-10-23",
+      "url": "https://www.juno.co.uk/products/melissa-weikart-contact-vinyl/1182566-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182566-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/melissa-weikart-contact-vinyl/1182566-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
     },
     {
       "artist": "BRIDGE DOG",
@@ -21994,5 +22078,5 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/19/3b/79193b52-4d71-6d77-5f01-4b6528499037/mzaf_1835726382278071437.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-07T04:04:32.443Z"
+  "updatedAt": "2026-10-08T04:17:00.230Z"
 }
