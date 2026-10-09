@@ -701,6 +701,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "The KILLERS",
+      "title": "Sam's Town (20th Anniversary Edition)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "UMR",
+      "releaseDate": "2026-11-27",
+      "url": "https://www.juno.co.uk/products/the-killers-sams-town-20th-anniversary-edition-vinyl/1184651-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1184651-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-killers-sams-town-20th-anniversary-edition-vinyl/1184651-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/7e/f9/a07ef9f2-5b21-a42f-5c40-f3825d69c836/mzaf_6375899732646591073.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "HUMBERT HUMBERT",
       "title": "Folk 3",
       "format": "LP",
@@ -2349,6 +2369,10 @@
         {
           "store": "Juno Records",
           "url": "https://www.juno.co.uk/products/sour-widows-sigil-vinyl/1171318-01/"
+        },
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178229/katalog_art.123.html"
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/07/8c/ed078c5b-4b56-7aa1-e10e-6522b4bc142b/mzaf_3354133510608943235.plus.aac.p.m4a",
@@ -2393,6 +2417,747 @@
       ],
       "itunesPreviewUrl": "",
       "hasDeezerPreview": true
+    },
+    {
+      "artist": "ADEBOWALE AND THE PIONEERS",
+      "title": "KILOFESE",
+      "format": "LP",
+      "label": "ALL-TOWN SOUND",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178797/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178797.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178797/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/30/e5/5e30e577-c0f3-ae3a-d628-a16805adcd73/mzaf_894413453166333871.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "BASEMENT",
+      "title": "I WISH I COULD STAY HERE (YELLOW SPLATTER VINYL)",
+      "format": "LP",
+      "label": "RUN FOR COVER",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179035/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179035.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179035/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/a8/59/cda85992-e5d6-ff1f-e62f-2fe375b1695b/mzaf_7623759050363868797.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "BETHLEHEM",
+      "title": "BETHLEHEM",
+      "format": "LP",
+      "label": "CONSTELLATION",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178711/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178711.jpg",
+      "genre": "Independent",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178711/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/25/3e/04/253e0463-6480-7ee6-8fdd-b91200a95a96/mzaf_5850941575850005242.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "BLU & SNDTRAK",
+      "title": "LA",
+      "format": "LP",
+      "label": "NATURE SOUNDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178538/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178538.jpg",
+      "genre": "Hip Hop",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178538/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
+      "artist": "CHARITIES, THE",
+      "title": "MOVIN' ON",
+      "format": "7\"",
+      "label": "COLEMINE RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178813/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178813.jpg",
+      "genre": "World",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178813/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/0c/48/2a0c48e2-51d6-3eda-2a04-fe15f6604206/mzaf_5883579584928217154.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "CLAUD",
+      "title": "ME AND THE MUSIC (LTD. CLEAR COBALT VINYL)",
+      "format": "LP",
+      "label": "DEAD OCEANS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178459/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178459.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178459/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fd/78/8b/fd788ba6-9c47-74a5-9e8f-746bb7f5cc5b/mzaf_660285557417595426.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "CROVER, DALE",
+      "title": "GET YER BA-BA'S OUT  (YELLOW VNYL)",
+      "format": "LP",
+      "label": "JOYFUL NOISE",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178799/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178799.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178799/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/1a/99/661a99be-36c6-cac1-dda4-5e5edd31e661/mzaf_13647459848264009694.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "FU MANCHU",
+      "title": "CALIFORNIA CROSSING (25TH ANNIVERSARY ED.)",
+      "format": "LP",
+      "label": "AT THE DOJO",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179133/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179133.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179133/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/59/d0/a059d05e-bd95-1bc6-b241-9fd4fe175eb7/mzaf_11655052284169168726.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "GODZILLA IN THE KITCHEN",
+      "title": "TERMINATION SEQUENCE",
+      "format": "LP",
+      "label": "TONZONEN RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178426/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178426.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178426/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "GRUMPY",
+      "title": "UNFINDABLE RING (ICE BLUE TRANSPARENT VINYL)",
+      "format": "LP",
+      "label": "BAYONET",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178442/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178442.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178442/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/ee/23/97ee23b7-343f-28ae-4c75-70c3ea114434/mzaf_4095363654998856769.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "IROIRO",
+      "title": "ONCE (SINGLE MIX) / FORMOSA (SINGLE MIX)",
+      "format": "7\"",
+      "label": "K RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178989/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178989.jpg",
+      "genre": "Rock",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178989/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/84/20/d3842057-64b4-c2c6-0b13-f561872dfb40/mzaf_17468760720983387300.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "KAREN Y LOS REMEDIOS",
+      "title": "BESTANIA (IRIDESCENT GREEN VINYL)",
+      "format": "LP",
+      "label": "ZZK RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178798/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178798.jpg",
+      "genre": "World",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178798/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "KOOP",
+      "title": "KOOP ISLANDS",
+      "format": "LP",
+      "label": "DIESEL MUSIC",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178300/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178300.jpg",
+      "genre": "Electro/Funk",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178300/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/a0/36/aaa0365d-72ca-f7df-4460-92f83fda4049/mzaf_3500862685218664829.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "L.A. WITCH",
+      "title": "DOGGOD (SILVER VINYL)",
+      "format": "LP",
+      "label": "SUICIDE SQUEEZE",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179037/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179037.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179037/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/ed/22/dfed224f-f7d0-7dbc-1591-e1a8b8a8dc06/mzaf_2021814057131287186.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "LAMPLIGHT",
+      "title": "LICK THE SPOON, LET IT SOFTEN",
+      "format": "LP",
+      "label": "WESTERN VINYL",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178665/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178665.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178665/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/49/0e/cd490e6d-f7dc-35f2-8764-6fd3f244bb63/mzaf_8705858973190116334.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "LIKE ROSES",
+      "title": "AFTER IT ENDS (SEA BLUE VINYL)",
+      "format": "LP",
+      "label": "HOPELESS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178761/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178761.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178761/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/05/dc/5d05dc08-8257-e64a-e016-3587b3dac030/mzaf_17546961103635279717.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "MORIMOTO, SEN",
+      "title": "TIME IS ON YOUR SIDE (TRANSPARENT RED PLANET VINYL)",
+      "format": "LP",
+      "label": "SOOPER RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178559/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178559.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178559/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/8f/bb/448fbbc1-8850-82e5-ff59-48ef288c76e3/mzaf_9960357602770970512.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "NARKOSE",
+      "title": "ORIGINALTON WEST",
+      "format": "LP",
+      "label": "BRETFORD RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178566/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178566.jpg",
+      "genre": "Hardcore/Punk",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178566/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "NAU, MICHAEL",
+      "title": "POPFLY (OPAQUE MINT GREEN VINYL)",
+      "format": "LP",
+      "label": "SUICIDE SQUEEZE",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178670/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178670.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178670/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/03/e7/9703e7bb-f9bb-ef2b-1ce7-6b45c7e20a45/mzaf_11043082627868105886.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "NERVES, THE",
+      "title": "BEST COLLECTION",
+      "format": "LP",
+      "label": "THIRD MAN RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178591/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178591.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178591/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/ce/ef/6aceef29-105e-4c72-a00c-0f12f0523bff/mzaf_1361908516647516163.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "NERVES, THE",
+      "title": "BEST COLLECTION (RED MARBLE VINYL)",
+      "format": "LP",
+      "label": "THIRD MAN RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178592/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178592.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178592/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/ce/ef/6aceef29-105e-4c72-a00c-0f12f0523bff/mzaf_1361908516647516163.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "NICOLE MCCABE & SAVANNAH HARRIS",
+      "title": "ALL TOGETHER NOW",
+      "format": "LP",
+      "label": "SUDDEN QUARTERLY",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178260/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/img/cover/no-cover.png",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178260/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/2e/9f/852e9fda-dbe2-9ab0-b649-cf451ef4b978/mzaf_5234924795872944238.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "ORGANIZED KONFUSION",
+      "title": "ORGANIZED KONFUSION",
+      "format": "LP",
+      "label": "NATURE SOUNDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178594/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178594.jpg",
+      "genre": "Hip Hop",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178594/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/59/46/c3/5946c370-f2e0-d3fd-979b-8e0a852c4ead/mzaf_18134471200908794060.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "POISEL, PHILIPP",
+      "title": "GUTE ZEITEN",
+      "format": "LP",
+      "label": "GRÖNLAND",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/177576/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00177576.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/177576/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/f7/9b/26f79b9a-7eab-fd40-b4da-13e930291ea2/mzaf_16685419086041701802.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "POISEL, PHILIPP",
+      "title": "GUTE ZEITEN (LTD. WHITE VINYL)",
+      "format": "LP",
+      "label": "GRÖNLAND",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/177575/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00177575.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/177575/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/f7/9b/26f79b9a-7eab-fd40-b4da-13e930291ea2/mzaf_16685419086041701802.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "RICKSHAW BILLIE'S BURGER PATROL",
+      "title": "CA$H GRAB (CA$H GREEN TRANSLUCENT VINYL)",
+      "format": "LP",
+      "label": "PERMANENT TEETH RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179173/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179173.jpg",
+      "genre": "Hardcore/Punk",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179173/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/21/a3/0221a372-d4a6-0767-300b-76590aa984a8/mzaf_9360663950701019018.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SHABAZZ PALACES",
+      "title": "IT'S A STYLE SPORT  (SPARKLE STARLIGHT VINYL)",
+      "format": "LP",
+      "label": "SUB POP",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178430/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178430.jpg",
+      "genre": "Hip Hop",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178430/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/01/dc/9201dc52-d63f-ed59-cb93-003fa8c6666f/mzaf_639311852672184609.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SHELLEY, JOAN",
+      "title": "OVER AND EVEN + DEMOS (DELUXE EDITION)",
+      "format": "LP",
+      "label": "NO QUARTER",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178464/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178464.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178464/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/14/6c/3d146c60-f324-18f0-0ac1-0c9b9750b01d/mzaf_18283775797181679113.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SOUR WIDOWS",
+      "title": "SIGIL (GREEN GOBLIN VINYL)",
+      "format": "LP",
+      "label": "WINSPEAR",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178231/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178231.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178231/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/07/8c/ed078c5b-4b56-7aa1-e10e-6522b4bc142b/mzaf_3354133510608943235.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SPIKE AND THE GIMME GIMMES",
+      "title": "SHIT THE BED - LTD GOLD COLOURED VINYL",
+      "format": "LP",
+      "label": "FAT WRECK",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179001/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179001.jpg",
+      "genre": "Hardcore/Punk",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179001/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SPIKE AND THE GIMME GIMMES",
+      "title": "SHIT THE BED (BROWN COLOURED VINYL)",
+      "format": "LP",
+      "label": "FAT WRECK",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179002/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179002.jpg",
+      "genre": "Hardcore/Punk",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179002/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/44/48/2b444852-2ed4-9a4f-a773-e8ced5d362ee/mzaf_17353138944088033680.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "STRIKE ANYWHERE",
+      "title": "DEAD FM - LTD SEA BLUE VINYL",
+      "format": "LP",
+      "label": "FAT WRECK",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178848/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178848.jpg",
+      "genre": "Hardcore/Punk",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178848/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "TWIN TEMPLE",
+      "title": "DOOMED LOVERS (CRYING TRANSLUCENT BLUE VINYL)",
+      "format": "LP",
+      "label": "PENTAGRAMMATON RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178503/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178503.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178503/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/56/4e/90564e86-1caa-2fbd-1085-39b7f032078a/mzaf_10010013350281110866.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "TWIN TEMPLE",
+      "title": "DOOMED LOVERS (ENVY TRANSLUCENT GREEN VINYL)",
+      "format": "LP",
+      "label": "PENTAGRAMMATON RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178504/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178504.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178504/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/56/4e/90564e86-1caa-2fbd-1085-39b7f032078a/mzaf_10010013350281110866.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "TWIN TEMPLE",
+      "title": "GOD IS DEAD (TRANSLUCENT PINK VINYL)",
+      "format": "LP",
+      "label": "PENTAGRAMMATON RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179033/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179033.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179033/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/68/5b/e1685ba9-8fbd-4d41-470d-8f25b2901b8c/mzaf_11174467138904570435.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "TWIN TEMPLE",
+      "title": "TWIN TEMPLE (BRING YOU THEIR SIGNATURE SOUND... SATANIC DOO-WOP)",
+      "format": "LP",
+      "label": "PENTAGRAMMATON RECORDS",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178502/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178502.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178502/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/56/4e/90564e86-1caa-2fbd-1085-39b7f032078a/mzaf_10010013350281110866.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "WIM",
+      "title": "WENN MAN DAS LICHT ZURÜCKVERFOLGT, WEIß MAN, WIE ALT DIE STERNE SIND",
+      "format": "LP",
+      "label": "WINDIG",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/177857/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00177857.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/177857/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "YOUNGE, ADRIAN & MUHAMMAD, ALI SHAHEED",
+      "title": "THE MIDNIGHT HOUR: LOST TAPES JID028",
+      "format": "LP",
+      "label": "JAZZ IS DEAD",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178661/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178661.jpg",
+      "genre": "Jazz/Blues",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178661/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/5d/6f/315d6f58-e949-dbca-0efa-21af3da87f47/mzaf_3000633033842254467.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "YOUNGE, ADRIAN & MUHAMMAD, ALI SHAHEED",
+      "title": "THE MIDNIGHT HOUR: LOST TAPES JID028 (TRANSPARENT YELLOW VINYL)",
+      "format": "LP",
+      "label": "JAZZ IS DEAD",
+      "releaseDate": "2026-10-23",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178662/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178662.jpg",
+      "genre": "Jazz/Blues",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178662/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/5d/6f/315d6f58-e949-dbca-0efa-21af3da87f47/mzaf_3000633033842254467.plus.aac.p.m4a",
+      "hasDeezerPreview": false
     },
     {
       "artist": "BRIDGE DOG",
@@ -3788,6 +4553,25 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/b3/18/6fb318d0-41c3-ce45-d1a7-bf8228b9c0b6/mzaf_12307389634005458430.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "ELEGANT WEAPONS",
+      "title": "EVOLUTION - LTD OPAQUE BLOOD ORANGE LP",
+      "format": "LP",
+      "label": "EXCITER/REACH MUSIC",
+      "releaseDate": "2026-10-16",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178683/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178683.jpg",
+      "genre": "Metal",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178683/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "",
       "hasDeezerPreview": false
     },
     {
@@ -16013,6 +16797,10 @@
         {
           "store": "Banquet Records",
           "url": "https://www.banquetrecords.com/yeah-yeah-yeahs/hidden-in-pieces%3A-live-%28at-the-royal-albert-hall%29/SC515CD"
+        },
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178743/katalog_art.123.html"
         }
       ],
       "itunesPreviewUrl": "",
@@ -22078,5 +22866,5 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/19/3b/79193b52-4d71-6d77-5f01-4b6528499037/mzaf_1835726382278071437.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-08T04:17:00.230Z"
+  "updatedAt": "2026-10-09T04:23:03.520Z"
 }
