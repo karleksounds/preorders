@@ -497,6 +497,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "PJ HARVEY",
+      "title": "Voyager",
+      "format": "7\"",
+      "displayFormat": "7\"",
+      "label": "Partisan",
+      "releaseDate": "2026-12-18",
+      "url": "https://www.juno.co.uk/products/pj-harvey-voyager-vinyl/1175886-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1175886-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/pj-harvey-voyager-vinyl/1175886-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/7a/bc/e87abc30-cfd9-a024-c991-edc697a3ed54/mzaf_10281497896922919809.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The Pretty Reckless",
       "title": "Dear God [Personally Signed]",
       "format": "LP",
@@ -3157,6 +3177,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/5d/6f/315d6f58-e949-dbca-0efa-21af3da87f47/mzaf_3000633033842254467.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "AGAINST THE CURRENT",
+      "title": "Fever",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Smartpunk US",
+      "releaseDate": "2026-10-23",
+      "url": "https://www.juno.co.uk/products/against-the-current-fever-vinyl/1172085-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1172085-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/against-the-current-fever-vinyl/1172085-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/05/2c/fc052c90-031c-b597-2fe4-083072a57361/mzaf_9613307217828216709.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -22866,5 +22906,5 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/19/3b/79193b52-4d71-6d77-5f01-4b6528499037/mzaf_1835726382278071437.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-09T04:23:03.520Z"
+  "updatedAt": "2026-10-10T04:08:05.713Z"
 }
