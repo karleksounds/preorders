@@ -1932,6 +1932,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "NOUVELLE VAGUE",
+      "title": "A Date With Depeche Mode",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "PIAS France",
+      "releaseDate": "2026-10-30",
+      "url": "https://www.juno.co.uk/products/nouvelle-vague-a-date-with-depeche-mode-vinyl/1168262-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1168262-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/nouvelle-vague-a-date-with-depeche-mode-vinyl/1168262-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/e2/f3/14e2f3b5-bdd2-5bd7-3de8-2ab769fe078a/mzaf_3103507802513293642.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "DECO",
       "title": "Dreamhouse",
       "format": "LP",
@@ -4612,6 +4632,26 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "DRESDEN DOLLS",
+      "title": "Yes Virginia (Tailor's Version)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Cooking Vinyl",
+      "releaseDate": "2026-10-16",
+      "url": "https://www.juno.co.uk/products/dresden-dolls-yes-virginia-tailors-version-vinyl/1155306-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1155306-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/dresden-dolls-yes-virginia-tailors-version-vinyl/1155306-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/19/d8/4219d805-8d01-b2f9-b90f-aa3ebd35e9aa/mzaf_7003921752150894370.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -22906,5 +22946,5 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/19/3b/79193b52-4d71-6d77-5f01-4b6528499037/mzaf_1835726382278071437.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-12T04:07:04.093Z"
+  "updatedAt": "2026-10-13T05:16:21.492Z"
 }
