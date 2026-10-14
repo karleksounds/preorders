@@ -976,6 +976,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "EVE 6",
+      "title": "Eve 6 (reissue)",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Music On Vinyl",
+      "releaseDate": "2026-11-20",
+      "url": "https://www.juno.co.uk/products/eve-6-vinyl/1182657-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182657-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/eve-6-vinyl/1182657-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b2/b1/2b/b2b12b45-5c9a-8fb9-879e-c091b94536ad/mzaf_7594422219055753441.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Royal Blood",
       "title": "DEAD COMPANY",
       "format": "LP",
@@ -1949,6 +1969,46 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/e2/f3/14e2f3b5-bdd2-5bd7-3de8-2ab769fe078a/mzaf_3103507802513293642.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "SERFS",
+      "title": "Rarities Vol 2",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Dedstrange",
+      "releaseDate": "2026-10-30",
+      "url": "https://www.juno.co.uk/products/serfs-rarities-vol-2-vinyl/1176254-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1176254-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/serfs-rarities-vol-2-vinyl/1176254-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/e0/e2/f1e0e288-2feb-3c92-039f-96a5e4591881/mzaf_9126978332070327161.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "CLUB 8",
+      "title": "Weeks Of Golden Beats",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Club 8 US",
+      "releaseDate": "2026-10-30",
+      "url": "https://www.juno.co.uk/products/club-8-weeks-of-golden-beats-vinyl/1184025-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1184025-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/club-8-weeks-of-golden-beats-vinyl/1184025-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/4b/4f/db4b4ff6-5fb3-fb50-7dbb-ea4c45ffdab5/mzaf_6510633620048230208.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -22946,5 +23006,5 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/19/3b/79193b52-4d71-6d77-5f01-4b6528499037/mzaf_1835726382278071437.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-13T05:16:21.492Z"
+  "updatedAt": "2026-10-14T03:22:16.568Z"
 }
