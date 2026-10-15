@@ -1216,6 +1216,26 @@
       "hasDeezerPreview": true
     },
     {
+      "artist": "INDEX",
+      "title": "Index Vis Inertiae",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Get Better US",
+      "releaseDate": "2026-11-13",
+      "url": "https://www.juno.co.uk/products/index-vis-inertiae-vinyl/1182187-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182187-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/index-vis-inertiae-vinyl/1182187-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/25/72/6b2572b8-1d28-ad9a-c494-b9b2f89423a7/mzaf_17564856027645580147.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Joe GLASS",
       "title": "Snakewards",
       "format": "LP",
@@ -4712,6 +4732,62 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/19/d8/4219d805-8d01-b2f9-b90f-aa3ebd35e9aa/mzaf_7003921752150894370.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Language of Flowers",
+      "title": "Shimmer",
+      "format": "7\"",
+      "label": "Precious Recordings",
+      "releaseDate": "2026-10-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/205/217955-language-of-flowers-shimmer.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/37/47/3437478d-f91e-5e22-ebf2-0d0524e62bf6/mzaf_14196617031279239534.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Bedmaker",
+      "title": "The Mark",
+      "format": "7\"",
+      "label": "Dischord",
+      "releaseDate": "2026-10-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218943-bedmaker-the-mark",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/193/218943-bedmaker-the-mark.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218943-bedmaker-the-mark"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/fa/0a/fefa0a72-cfdd-e559-05aa-1fc3d779d234/mzaf_18139399494981631713.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Scream / Soulside",
+      "title": "Plays",
+      "format": "7\"",
+      "label": "Dischord",
+      "releaseDate": "2026-10-15",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218942-scream-soulside-plays",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/192/218942-scream-soulside-plays.jpg",
+      "genre": "Punk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218942-scream-soulside-plays"
+        }
+      ],
+      "itunesPreviewUrl": "",
       "hasDeezerPreview": false
     },
     {
@@ -12713,24 +12789,6 @@
       "hasDeezerPreview": false
     },
     {
-      "artist": "Language of Flowers",
-      "title": "Shimmer",
-      "format": "7\"",
-      "label": "Precious Recordings",
-      "releaseDate": "2026-09-15",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/205/217955-language-of-flowers-shimmer.jpg",
-      "genre": "Pop",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/217955-language-of-flowers-shimmer"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/37/47/3437478d-f91e-5e22-ebf2-0d0524e62bf6/mzaf_14196617031279239534.plus.aac.p.m4a"
-    },
-    {
       "artist": "The Courettes",
       "title": "Killer Kiss",
       "format": "7\"",
@@ -17033,6 +17091,14 @@
         {
           "store": "Norman Records",
           "url": "https://www.normanrecords.com/records/217901-hmltd-fangs"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/hmltd-fangs-vinyl/1177107-01/"
+        },
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/hmltd-fangs-vinyl/1177109-01/"
         }
       ],
       "itunesPreviewUrl": "",
@@ -23006,5 +23072,5 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/19/3b/79193b52-4d71-6d77-5f01-4b6528499037/mzaf_1835726382278071437.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-14T03:22:16.568Z"
+  "updatedAt": "2026-10-15T03:03:07.925Z"
 }
