@@ -10661,6 +10661,62 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Gabriels",
+      "title": "Blood On My Hands",
+      "format": "7\"",
+      "label": "Gabriels",
+      "releaseDate": "2026-10-26",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218915-gabriels-blood-on-my-hands",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/165/218915-gabriels-blood-on-my-hands.jpg",
+      "genre": "Funk",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218915-gabriels-blood-on-my-hands"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/ec/8c/19ec8cce-0f01-0d4f-afd4-4340859ff3ad/mzaf_8332966889452856893.plus.aac.p.m4a"
+    },
+    {
+      "artist": "Sun Araw",
+      "title": "Rapid Response",
+      "format": "7\"",
+      "label": "Sun Ark",
+      "releaseDate": "2026-10-26",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/218896-sun-araw-rapid-response",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/146/218896-sun-araw-rapid-response.jpg",
+      "genre": "Psyche",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/218896-sun-araw-rapid-response"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/99/47/2b99473c-5e82-b892-d0bd-c0157713f57c/mzaf_2831913884063904526.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "Amelia & The Housewives",
+      "title": "Snowgaze / Peace",
+      "format": "7\"",
+      "label": "Snowflakes Christmas Singles Club",
+      "releaseDate": "2026-10-26",
+      "store": "Norman Records",
+      "url": "https://www.normanrecords.com/records/219046-amelia-the-housewives-snowgaze-peace",
+      "imageUrl": "https://www.normanrecords.com/artwork/large/46/219046-amelia-the-housewives-snowgaze-peace.jpg",
+      "genre": "Pop",
+      "stores": [
+        {
+          "store": "Norman Records",
+          "url": "https://www.normanrecords.com/records/219046-amelia-the-housewives-snowgaze-peace"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "PULP",
       "title": "Blades To Boulevards",
       "format": "LP",
@@ -10818,25 +10874,6 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/01/b2/c801b2f8-0205-a2d8-185f-e433988b4a98/mzaf_6436051763838710522.plus.aac.p.m4a",
-      "hasDeezerPreview": false
-    },
-    {
-      "artist": "Gabriels",
-      "title": "Blood On My Hands",
-      "format": "7\"",
-      "label": "Gabriels",
-      "releaseDate": "2026-10-24",
-      "store": "Norman Records",
-      "url": "https://www.normanrecords.com/records/218915-gabriels-blood-on-my-hands",
-      "imageUrl": "https://www.normanrecords.com/artwork/large/165/218915-gabriels-blood-on-my-hands.jpg",
-      "genre": "Funk",
-      "stores": [
-        {
-          "store": "Norman Records",
-          "url": "https://www.normanrecords.com/records/218915-gabriels-blood-on-my-hands"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/ec/8c/19ec8cce-0f01-0d4f-afd4-4340859ff3ad/mzaf_8332966889452856893.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -33315,5 +33352,5 @@
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/41/eb/e541ebef-827b-e847-7ab9-27e553d117b4/mzaf_7138640906471351730.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-25T03:02:39.034Z"
+  "updatedAt": "2026-10-26T03:03:35.494Z"
 }
