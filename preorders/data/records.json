@@ -436,6 +436,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "LAMBCHOP",
+      "title": "Demoed",
+      "format": "7\"",
+      "displayFormat": "12\"",
+      "label": "City Slang",
+      "releaseDate": "2027-02-05",
+      "url": "https://www.juno.co.uk/products/lambchop-demoed-vinyl/1188710-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1188710-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/lambchop-demoed-vinyl/1188710-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/d5/49/64d5494a-3bac-115a-425a-4684f7280fed/mzaf_16951898088632992971.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "MEANINGFUL STONE",
       "title": "To: Hana",
       "format": "7\"",
@@ -3117,6 +3137,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "Natalie WILDGOOSE",
+      "title": "Rural Hours",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Natalie Wildgoose",
+      "releaseDate": "2026-11-27",
+      "url": "https://www.juno.co.uk/products/natalie-wildgoose-rural-hours-vinyl/1188870-01/",
+      "imageUrl": "https://cmscdn.juno.co.uk/cms/43/10314/1_1.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/natalie-wildgoose-rural-hours-vinyl/1188870-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/a0/da/e9a0da45-b88e-5591-073a-dee41c3e8238/mzaf_9666755285183907812.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "HUMBERT HUMBERT",
       "title": "Folk 3",
       "format": "LP",
@@ -5265,6 +5305,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/e5/8a/ece58ae0-7b02-61b9-4c64-8bfa7846022c/mzaf_697584530563910132.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "BOT",
+      "title": "Bot",
+      "format": "7\"",
+      "displayFormat": "12\"",
+      "label": "Coop Gotland",
+      "releaseDate": "2026-11-13",
+      "url": "https://www.juno.co.uk/products/bot-vinyl/1188732-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1188732-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/bot-vinyl/1188732-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/98/50/2198501e-a9f4-fc99-a3dd-244394ba7019/mzaf_2961991632035323203.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -10890,6 +10950,44 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "FIREBREATHER",
+      "title": "BLOOD THAT I SPILL TURNS TO FIRE",
+      "format": "LP",
+      "label": "HEAVY PSYCH SOUNDS",
+      "releaseDate": "2026-10-30",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178304/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/img/cover/no-cover.png",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178304/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/42/07/11420766-5fbc-820a-944d-4df6ee02c924/mzaf_8594057319297983873.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "FIREBREATHER",
+      "title": "BLOOD THAT I SPILL TURNS TO FIRE (LTD. GOLD VINYL)",
+      "format": "LP",
+      "label": "HEAVY PSYCH SOUNDS",
+      "releaseDate": "2026-10-30",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/178303/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00178303.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/178303/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/42/07/11420766-5fbc-820a-944d-4df6ee02c924/mzaf_8594057319297983873.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -33603,26 +33701,7 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/19/3b/79193b52-4d71-6d77-5f01-4b6528499037/mzaf_1835726382278071437.plus.aac.p.m4a"
-    },
-    {
-      "artist": "RUEN BROTHERS",
-      "title": "Awooo",
-      "format": "LP",
-      "displayFormat": "LP",
-      "label": "Yep Roc US",
-      "releaseDate": "2025-10-10",
-      "url": "https://www.juno.co.uk/products/ruen-brothers-awooo-vinyl/1101253-01/",
-      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1101253-01A-MED.jpg",
-      "store": "Juno Records",
-      "genre": "Indie",
-      "stores": [
-        {
-          "store": "Juno Records",
-          "url": "https://www.juno.co.uk/products/ruen-brothers-awooo-vinyl/1101253-01/"
-        }
-      ],
-      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/41/eb/e541ebef-827b-e847-7ab9-27e553d117b4/mzaf_7138640906471351730.plus.aac.p.m4a"
     }
   ],
-  "updatedAt": "2026-10-27T03:34:17.344Z"
+  "updatedAt": "2026-10-28T03:49:26.218Z"
 }
