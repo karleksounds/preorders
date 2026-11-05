@@ -1653,6 +1653,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "CHANEL BEADS",
+      "title": "Your Day Will Come",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Jagjaguwar",
+      "releaseDate": "2026-12-18",
+      "url": "https://www.juno.co.uk/products/chanel-beads-your-day-will-come-vinyl/1190373-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1190373-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/chanel-beads-your-day-will-come-vinyl/1190373-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/79/3c/ab793c79-dfe2-7c18-fc9a-eaf91dfcb3b0/mzaf_12480419127129328009.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "NEVER YOUNG BEACH",
       "title": "Dayo",
       "format": "7\"",
@@ -4189,6 +4209,26 @@
         }
       ],
       "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "GORDI",
+      "title": "Nylon",
+      "format": "7\"",
+      "displayFormat": "12\"",
+      "label": "Impressed Australia",
+      "releaseDate": "2026-11-20",
+      "url": "https://www.juno.co.uk/products/gordi-nylon-vinyl/1164358-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1164358-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/gordi-nylon-vinyl/1164358-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/58/f6/5d58f6b1-15f0-f23b-8879-8b261d0d4aa2/mzaf_7988425192756586679.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -19992,5 +20032,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-11-04T04:42:34.933Z"
+  "updatedAt": "2026-11-05T04:57:18.333Z"
 }
