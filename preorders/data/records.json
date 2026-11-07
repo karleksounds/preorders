@@ -4803,6 +4803,26 @@
       "hasDeezerPreview": true
     },
     {
+      "artist": "James FELICE",
+      "title": "Homeworld Blue",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Million Stars US",
+      "releaseDate": "2026-11-16",
+      "url": "https://www.juno.co.uk/products/james-felice-homeworld-blue-vinyl/1182181-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182181-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/james-felice-homeworld-blue-vinyl/1182181-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/27/91/c42791a0-a273-7c7f-9ec3-f1e1fbb78810/mzaf_8518952475826102228.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Royal Blood",
       "title": "DEAD COMPANY",
       "format": "LP",
@@ -7301,6 +7321,26 @@
       ],
       "itunesPreviewUrl": "",
       "hasDeezerPreview": true
+    },
+    {
+      "artist": "Brody PRICE",
+      "title": "Leaf Miner's Daughter",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Gar Hole US",
+      "releaseDate": "2026-11-09",
+      "url": "https://www.juno.co.uk/products/brody-price-leaf-miners-daughter-vinyl/1182191-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1182191-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/brody-price-leaf-miners-daughter-vinyl/1182191-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/f6/16/90f61677-3d3e-e38b-dea4-6ebd2856415a/mzaf_9305064148127882514.plus.aac.p.m4a",
+      "hasDeezerPreview": false
     },
     {
       "artist": "RORA",
@@ -20623,5 +20663,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-11-06T04:58:00.076Z"
+  "updatedAt": "2026-11-07T04:27:40.681Z"
 }
