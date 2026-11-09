@@ -7283,6 +7283,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "EXPLODING FLOWERS",
+      "title": "Alphabet Window",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Meritorio Spain",
+      "releaseDate": "2026-11-13",
+      "url": "https://www.juno.co.uk/products/exploding-flowers-alphabet-window-vinyl/1174607-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1174607-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/exploding-flowers-alphabet-window-vinyl/1174607-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/b9/9a/3bb99a04-0b3c-9373-14bc-4f481f893c5e/mzaf_12829337771460763061.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "Joe GLASS",
       "title": "Snakewards",
       "format": "LP",
@@ -20663,5 +20683,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-11-08T04:10:17.141Z"
+  "updatedAt": "2026-11-09T04:26:09.735Z"
 }
