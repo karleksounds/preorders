@@ -1693,6 +1693,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "O PINK KYODAI",
+      "title": "A Muse/So-You-Foo",
+      "format": "7\"",
+      "displayFormat": "7\"",
+      "label": "Atelier Terata Japan",
+      "releaseDate": "2026-12-16",
+      "url": "https://www.juno.co.uk/products/o-pink-kyodai-a-muse-so-you-foo-vinyl/1189284-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1189284-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/o-pink-kyodai-a-muse-so-you-foo-vinyl/1189284-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The Pretty Reckless",
       "title": "Dear God [Personally Signed]",
       "format": "LP",
@@ -2535,6 +2555,26 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/9a/36/3a9a360d-7f06-86b6-7336-794e5167141d/mzaf_13584895285351627525.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "GRANDMAS HOUSE",
+      "title": "Baby You're A Winner",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Brace Yourself",
+      "releaseDate": "2026-12-04",
+      "url": "https://www.juno.co.uk/products/grandmas-house-baby-youre-a-winner-vinyl/1189210-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1189210-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/grandmas-house-baby-youre-a-winner-vinyl/1189210-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/c0/1a/21c01a53-fccb-5f40-af73-32ce05da04ad/mzaf_820147632646446745.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -4780,6 +4820,25 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/84/91/9a84919e-be6a-1bd6-6b47-3f1d61ac70e3/mzaf_7641591367429642905.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "THEE MARLOES",
+      "title": "WHAT'S ON YOUR MIND (HIROSHI FUJIWARA REMIX 1)",
+      "format": "7\"",
+      "label": "BIG CROWN RECORDS",
+      "releaseDate": "2026-11-20",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179259/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179259.jpg",
+      "genre": "World",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179259/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d2/dd/b2/d2ddb2f4-4d6a-a12b-86f4-f4f5eac14d9a/mzaf_3058277902433336144.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -20683,5 +20742,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-11-09T04:26:09.735Z"
+  "updatedAt": "2026-11-10T05:50:19.500Z"
 }
