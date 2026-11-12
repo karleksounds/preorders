@@ -4970,6 +4970,25 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "RAGAN, CHUCK",
+      "title": "BLUEPRINT SESSIONS (LTD. ECO RED)",
+      "format": "LP",
+      "label": "END HITS RECORDS",
+      "releaseDate": "2026-11-20",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/177839/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00177839.jpg",
+      "genre": "",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/177839/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/36/ae/45/36ae450f-9ef0-8c0a-c6b2-712f6932ddf2/mzaf_13683299272666905011.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "YKIKI BEAT",
       "title": "When The World Is Wide (reissue)",
       "format": "LP",
@@ -20894,5 +20913,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-11-11T04:30:53.870Z"
+  "updatedAt": "2026-11-12T05:36:43.883Z"
 }
