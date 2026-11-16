@@ -848,6 +848,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "CHEST",
+      "title": "Happy Broken",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Kuroneko France",
+      "releaseDate": "2027-01-22",
+      "url": "https://www.juno.co.uk/products/chest-happy-broken-vinyl/1191739-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1191739-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/chest-happy-broken-vinyl/1191739-01/"
+        }
+      ],
+      "itunesPreviewUrl": "",
+      "hasDeezerPreview": true
+    },
+    {
       "artist": "MIZU IRAZU",
       "title": "Throw Away The Water Go Back To Intimacy",
       "format": "LP",
@@ -21761,5 +21781,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-11-15T04:38:13.399Z"
+  "updatedAt": "2026-11-16T04:35:31.592Z"
 }
