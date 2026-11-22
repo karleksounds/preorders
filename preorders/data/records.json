@@ -5663,6 +5663,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "The LATHUMS",
+      "title": "Vice Versa",
+      "format": "7\"",
+      "displayFormat": "7\"",
+      "label": "Modern Sky",
+      "releaseDate": "2026-11-27",
+      "url": "https://www.juno.co.uk/products/the-lathums-vice-versa-vinyl/1191900-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1191900-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/the-lathums-vice-versa-vinyl/1191900-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/9e/56/ac9e5634-9fb0-cc8b-fb53-389f9cdde136/mzaf_15943563399304416746.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "HUMBERT HUMBERT",
       "title": "Folk 3",
       "format": "LP",
@@ -23449,5 +23469,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-11-21T05:28:57.148Z"
+  "updatedAt": "2026-11-22T04:54:04.962Z"
 }
