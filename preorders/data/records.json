@@ -1084,6 +1084,26 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "EMPIRE OF THE SUN",
+      "title": "Walking On A Dream",
+      "format": "LP",
+      "displayFormat": "LP",
+      "label": "Astralwerks US",
+      "releaseDate": "2027-01-29",
+      "url": "https://www.juno.co.uk/products/empire-of-the-sun-walking-on-a-dream-vinyl/1193428-01/",
+      "imageUrl": "https://imagescdn.juno.co.uk/300/CS1193428-01A-MED.jpg",
+      "store": "Juno Records",
+      "genre": "Indie",
+      "stores": [
+        {
+          "store": "Juno Records",
+          "url": "https://www.juno.co.uk/products/empire-of-the-sun-walking-on-a-dream-vinyl/1193428-01/"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/73/67/35736748-bb91-76df-e742-b870060fa52e/mzaf_8235749994901479240.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "The MERCIANS",
       "title": "Author Of My Own Misfortune",
       "format": "LP",
@@ -4309,6 +4329,25 @@
         }
       ],
       "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/04/29/be042985-b157-796d-0a5b-3cf3d44f0809/mzaf_15401548431152746098.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
+      "artist": "EL MICHELS AFFAIR",
+      "title": "LAVENDER BUDS B/W NETTLE LEAVES",
+      "format": "7\"",
+      "label": "BIG CROWN RECORDS",
+      "releaseDate": "2026-12-04",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179446/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/img/cover/no-cover.png",
+      "genre": "World",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179446/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/4e/1d/eb4e1d14-1d13-6571-e18f-86fc599accb0/mzaf_14574258087008468520.plus.aac.p.m4a",
       "hasDeezerPreview": false
     },
     {
@@ -23469,5 +23508,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-11-23T05:32:14.015Z"
+  "updatedAt": "2026-11-24T08:10:56.718Z"
 }
