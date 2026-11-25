@@ -7557,6 +7557,25 @@
       "hasDeezerPreview": false
     },
     {
+      "artist": "FRAZER, AARON",
+      "title": "PAINT THE PICTURE / BACK INTO THE WORLD",
+      "format": "7\"",
+      "label": "COLEMINE RECORDS",
+      "releaseDate": "2026-11-20",
+      "store": "Cargo Records",
+      "url": "https://www.cargo-records.de/en/item/179960/katalog_art.123.html",
+      "imageUrl": "https://www.cargo-records.de/cover/00179960.jpg",
+      "genre": "World",
+      "stores": [
+        {
+          "store": "Cargo Records",
+          "url": "https://www.cargo-records.de/en/item/179960/katalog_art.123.html"
+        }
+      ],
+      "itunesPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/fd/bf/11fdbfcb-805a-16d3-877a-1079c03eec05/mzaf_16564888175584785256.plus.aac.p.m4a",
+      "hasDeezerPreview": false
+    },
+    {
       "artist": "YKIKI BEAT",
       "title": "When The World Is Wide (reissue)",
       "format": "LP",
@@ -23508,5 +23527,5 @@
       "hasDeezerPreview": false
     }
   ],
-  "updatedAt": "2026-11-24T08:10:56.718Z"
+  "updatedAt": "2026-11-25T06:49:00.071Z"
 }
